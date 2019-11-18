@@ -1,0 +1,146 @@
+centralamerica;;Central America
+Caribbean;;Caribbean
+latinamerica;;Latin America
+latinoamerica;;Latino America
+anguilla;;Anguilla
+Antigua_and_Barbuda;;Antigua and Barbuda
+AntiguaBarbuda;;Antigua Barbuda
+Aruba;;Aruba
+bahamas;;Bahamas
+grandbahama;;Grand Bahama
+bermuda;;Bermuda
+bda;;Bermuda (BDA)
+barbados;;Barbados
+belize;;Belize
+AmbergrisCaye;;Ambergris Caye
+caymanislands;;Cayman Islands
+costa_rica;;Costa_Rica
+costarica;;Costa Rica
+siquirres;;Siquirres
+ticos;;Ticos
+cuba;;Cuba
+Habana;;Habana
+Havana;;Havana
+Mantua;;Mantua
+curacao;;Curaçao
+Dominica;;Dominica
+Dominican;;Dominican
+dominicans;;Dominicans
+cibao;;Cibao
+puertoplata;;Puerto Plata
+puntacana;;Punta Cana
+Samana;;Samana
+santodomingo;;Santo Domingo
+elsalvador;;El Salvador
+SanSalvador;;San Salvador
+Guadeloupe;;Guadeloupe
+guatemala;;Guatemala
+lakeatitlan;;Lake Atitlan
+haiti;;Haiti
+honduras;;Honduras
+Roatan;;Roatán
+tegucigalpa;;Tegucigalpa
+jamaica;;Jamaica
+MontegoBay;;Montego Bay
+Martinique;;Martinique
+madinina;;Madinina
+mexico;;México
+acaponeta;;Acaponeta
+Acapulco;;Acapulco
+apson;;Agua Prieta
+AllendeNL;;Allende
+atenguillo;;Atenguillo
+bucerias;;Bucerías
+cabo;;Cabo San Lucas
+cancun;;Cancún
+Colima;;Colima
+cozumel;;Cozumel
+Cuernavaca;;Cuernavaca
+Culiacan;;Culiacán
+ensenada;;Ensenada
+Guadalajara;;Guadalajara
+Guanajuato;;Guanajuato
+Guaymas;;Guaymas
+hermosillo;;Hermosillo
+huatulco;;Huatulco
+CiudadJuarez;;Juárez
+lalaguna;;La Laguna
+LeonGto;;León
+mex;;Los Cabos
+LosMochis;;Los Mochis
+Matamoros;;Matamoros
+Mazatlan;;Mazatlán
+mexicali;;Mexicali
+MexicoCity;;Mexico City
+Monclova;;Monclova
+monterrey;;Monterrey
+merida;;Mérida
+DistritoFederal;;México Distrito Federal
+NuevoLaredo;;Nuevo Laredo
+Pachuca;;Pachuca
+playa;;Playa (del Carmen)
+playadelcarmen;;Playa del Carmen
+puertovallarta;;Puerto Vallarta
+Reynosa;;Reynosa
+saltillo;;Saltillo
+Teocaltiche;;Teocaltiche
+Tepatitlan;;Tepatitlán
+tijuana;;Tijuana
+Toluca;;Toluca
+torreon;;Torreón
+tulum;;Tulum
+tuxtlagutierrez;;Tuxtla Gutiérrez
+vallarta;;Vallarta
+valparaisozacatecas;;Valparaíso
+xalapa;;Xalapa
+aguascalientes;;Aguascalientes
+BajaCalifornia;;Baja California
+BajaCaliforniasur;;Baja California Sur
+Campeche;;Campeche
+chiapas;;Chiapas
+cuu;;Chihuahua
+ChihuahuaMX;;Chihuahua (ChihuahuaMX)
+Coahuila;;Coahuila
+colima;;Colima
+DurangoMX;;Durango
+edomex;;E&#39;do México
+EstadoDeMexico;;Estado De México
+guanajuato;;Guanajuato
+Guerrero;;Guerrero
+hidalgo;;Hidalgo
+jalisco;;Jalisco
+michoacan;;Michoacán
+Nayarit;;Nayarit
+NuevoLeon;;Nuevo León
+oaxaca;;Oaxaca
+Puebla;;Puebla
+Queretaro;;Querétaro
+quintanaroo;;Quintana Roo
+sanluispotosi;;San Luis Potosí
+sinaloa;;Sinaloa
+sonora;;Sonora
+Tabasco;;Tabasco
+tamaulipas;;Tamaulipas
+Tlaxcala;;Tlaxcala
+veracruz;;Veracruz
+yucatan;;Yucatán
+zacatecas;;Zacatecas
+montserrat;;Montserrat
+nicaragua;;Nicaragua
+panama;;Panamá
+bocasdeltoro;;Bocas del Toro
+boquete;;Boquete
+stlucia;;St. Lucia
+stkitts;;St. Kitts and Nevis
+Saintvincent;;St.Vincent and the Grenadines
+TrinidadandTobago;;Trinidad and Tobago
+tnt;;Trinidad and Tobago (tnt)
+puertorico;;Puerto Rico
+bayamon;;Bayamón
+Caguas;;Caguas
+culebra;;Culebra
+Vieques;;Isla de Vieques
+Rincon;;Rincón
+SanJuan;;San Juan
+virginislands;;Virgin Islands
+TurksAndCaicos;;Turks and Caicos

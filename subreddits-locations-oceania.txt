@@ -1,0 +1,295 @@
+oceania;;Oceania
+Mmelanesia;;Melanesia
+pacifika;;Pacifika
+Polynesia;;Polynesia
+southpacific;;South Pacific
+wantok;;Wantok
+australia;;Australia
+australia_;;Australia (non-political)
+christmasisland;;Christmas Island
+norfolkisland;;Norfolk Island
+regionalaustralia;;Regional Australia
+canberra;;Canberra
+belconnen;;Belconnen
+gungahlin;;Gungahlin
+innernorth;;Inner North
+nsw;;New South Wales
+albury;;Albury
+ballina;;Ballina
+bellingen;;Bellingen
+blacktowncity;;Blacktown
+bluemountains;;Blue Mountains
+bondi;;Bondi
+brokenhill;;Broken Hill
+byronbay;;Byron Bay
+cabramatta;;Cabramatta
+cavesbeach;;Caves Beach
+centralcoastnsw;;Central Coast
+thecentralcoast;;The Central Coast
+chatswood;;Chatswood
+coffs;;Coffs Harbor
+cowra;;Cowra
+cronulla;;Cronulla
+darlinghurst;;Darlinghurst
+dubbo;;Dubbo
+enmore;;Enmore
+gosford;;Gosford
+goulburn;;Goulburn
+greystanes;;Greystanes
+hornsby;;Hornsby
+jindabyne;;Jindabyne
+lakemba;;Lakemba
+lismore;;Lismore
+lordhoweisland;;Lord Howe Island
+maitland;;Maitland
+manlybeach;;Manly
+marrickville;;Marrickville
+moree;;Moree
+mosman;;Mosman
+murwillumbah;;Murwillumbah
+nelsonbay;;Nelson Bay
+newcastle;;Newcastle
+newtown;;Newtown
+nimbin;;Nimbin
+northernbeaches;;Northern Beaches
+nowra;;Nowra
+orangensw;;Orange
+parramatta;;Parramatta
+penrith;;Penrith
+queanbeyanNSW;;Queanbeyan
+ryde;;Ryde
+singleton;;Singleton
+sydney;;Sydney
+southernhighlands_nsw;;Southern Highlands
+tamworth;;Tamworth
+tenterfield;;Tenterfield
+tweedshire;;Tweed Shire
+waggaNSW;;Wagga Wagga
+westernsydney;;Western Sydney
+wollongong;;Wollongong
+northernterritory;;Northern Territory
+northterritory;;North Territory
+alicesprings;;Alice Springs
+darwin;;Darwin
+darwinaustralia;;Darwin AU
+uluru;;Uluru
+queensland;;Queensland
+qld;;QLD
+athertontablelands;;Atherton Tablelands
+bribieisland;;Bribie Island
+brisbane;;Brisbane
+bundaberg;;Bundaberg
+caboolture;;Caboolture
+cairns;;Cairns
+capricornia;;Capricornia
+centralqueensland;;Central Queensland
+coolangatta;;Coolangatta
+deagon;;Deagon
+fnq;;Far North Queensland
+fraserisland;;Fraser Island
+goldcoast;;Gold Coast
+goldcoasttweedcoast;;Gold &amp; Tweed Coast
+gympie;;Gympie
+herveybay;;Hervey Bay
+ipswich;;Ipswich
+kallangur;;Kallangur
+logancity;;Logan City
+mackay;;Mackay
+maroochydore;;Maroochydore
+maryborough;;Maryborough
+tamborine;;Mount Tamborine
+nambour;;Nambour
+noosa;;Noosa
+northqueensland;;North Queensland
+proserpine;;Proserpine
+rockhampton;;Rockhampton
+sunshinecoast;;Sunshine Coast
+surfersparadise;;Surfers Paradise
+thornlands;;Thornlands
+toowoomba;;Toowoomba
+townsville;;Townsville
+warwickau;;Warwick
+Weipa;;Weipa
+yarrabilba;;Yarrabilba
+southaustralia;;South Australia
+Adelaide;;Adelaide
+adelaidehills;;Adelaide Hills
+kangarooisland;;Kangaroo Island
+MtBarker;;Mount Barker
+murraybridge;;Murray Bridge
+portaugusta;;Port Augusta
+PortLincoln;;Port Lincoln
+portpirie;;Port Pirie
+renmark;;Renmark
+victorharbor;;Victor Harbor
+whyalla;;Whyalla
+tasmania;;Tasmania
+hobart;;Hobart
+Launceston;;Launceston
+Vic;;Victoria
+altona;;Altona
+ardeer;;Ardeer
+ballarat;;Ballarat
+bendigo;;Bendigo
+brunswick;;Brunswick
+carolinesprings;;Caroline Springs
+crockcity;;Castlemaine
+colac;;Colac
+3066;;Collingwood
+cranbourne;;Cranbourne
+croydonvic;;Croydon
+dandenong;;Dandenong
+essendon;;Essendon
+ferntreegully;;Ferntree Gully
+footscray;;Footscray
+frankston;;Frankston
+gannawarrashire;;Gannawarra Shire
+geelong;;Geelong
+gippsland;;Gippsland
+heidelbergmelbourne;;Heidelberg
+kew;;Kew
+latrobevalley;;Latrobe Valley
+lorne;;Lorne
+macleod;;MacLeod
+melbourne;;Melbourne
+innermelbourne;;Melbourne, inner suburbs
+mildura;;Mildura
+morningtonpeninsula;;Mornington Peninsula
+morwell;;Morwell
+mtbuller;;Mount Buller
+nevictoria;;Northeastern Victoria
+phillipisland;;Phillip Island
+oakleigh;;Oakleigh
+rowville;;Rowville
+ruralvic;;Rural Victoria
+shepparton;;Shepparton
+springvale;;Springvale
+swanhill;;Swan Hill
+traralgon;;Traralgon
+wangaratta;;Wangaratta
+wangoom;;Wangoom
+warrnambool;;Warrnambool
+werribee;;Werribee
+wodonga;;Wodonga
+yarravalley;;Yarra Valley
+westernaustralia;;Western Australia
+albanywa;;Albany
+broome;;Broome
+cityofbunbury;;Bunbury
+busselton;;Busselton
+duncraig;;Duncraig
+dunsborough;;Dunsborough
+esperance;;Esperance
+fremantle;;Fremantle
+geraldton;;Geraldton
+joondalup;;Joondalup
+kalgoorlie;;Kalgoorlie
+karratha;;Karratha
+kimberley;;Kimberley
+mandurah;;Mandurah
+margaretriver;;Margaret River
+perth;;Perth
+perthcity;;Perth City
+porthedland;;Port Hedland
+rockingham;;Rockingham
+cookislands;;Cook Islands
+rarotonga;;Rarotonga
+easterisland;;Easter Island
+micronesia;;Micronesia
+fijian;;Fiji
+rotuma;;Rotuma
+rotuman;;Rotuman
+guam;;Guam
+Guahan;;Guåhån
+kiribati;;Kiribati
+marshallislands;;Marshall Islands
+kwajalein;;Kwajalein Atoll
+newzealand;;New Zealand
+aotearoa;;Aotearoa
+arovalley;;Aro Valley
+avondale_nz;;Avondale
+auckland;;Auckland
+bayofislands;;Bay of Islands
+bayofplenty;;Bay of Plenty
+chathamislands;;Chatham Islands
+dargaville;;Dargaville
+feilding;;Feilding
+gisborne;;Gisborne
+glenfield;;Glenfield
+greylynn;;Grey Lynn
+thetron;;Hamilton
+hawkesbay;;Hawkes Bay
+thehutt;;Hutt Valley
+kaitaia;;Kaitaia
+karori;;Karori
+lowerhutt;;Lower Hutt
+marton_nz;;Marton
+masterton;;Masterton
+mtalbert;;Mount Albert
+napier;;Napier
+newplymouth;;New Plymouth
+newtownrulz;;Newtown
+palmy;;Palmerston North (Palmy)
+palmerstonnorth;;Palmerston North
+paraparaumu;;Paraparaumu
+petone;;Petone
+porirua;;Porirua
+pukekohe;;Pukekohe
+rotorua;;Rotorua
+taranaki;;Taranaki
+taupo;;Taupo
+tauranga;;Tauranga
+tokoroa;;Tokoroa
+upperhutt;;Upper Hutt
+waiheke;;Waiheke Island
+waikato;;Waikato
+waipu;;Waipu
+wairarapa;;Wairarapa
+wairoa;;Wairoa
+waiuku;;Waiuku
+wanganui;;Whanganui
+whangarei;;Whangarei
+wellington;;Wellington
+blenheim;;Blenheim
+canterburynz;;Canterbury
+chch;;Christchurch (Chch)
+christchurch;;Christchurch
+dunedin;;Dunedin
+goldenbay;;Golden Bay
+greymouth;;Greymouth
+hanmersprings;;Hanmer Springs
+hokitika;;Hokitika
+invercargill;;Invercargill
+kaikoura;;Kaikoura
+mosgiel;;Mosgiel
+mthutt;;Mount Hutt
+nelsonnz;;Nelson
+oamaru;;Oamaru
+queenstown;;Queenstown
+rangiora;;Rangiora
+stewartisland;;Stewart Island
+timaru;;Timaru
+westcoastnz;;West Coast
+nauru;;Nauru
+nouvelle_caledonie;;Nouvelle-Calédonie
+niue;;Niue
+saipan;;Saipan
+cnmi;;Commonwealth of the Northern Mariana Islands
+palau;;Palau
+png;;PNG
+papuanewguinea;;Papua New Guinea
+portmoresby;;Port Moresby
+pitcairnIisland;;Pitcairn Island
+samoa;;Samoa
+americansamoa;;American Samoa
+apia;;Apia
+solomon_islands;;Solomon_Islands
+solomonislands;;Solomon Islands
+tahiti;;Tahiti
+tokelau;;Tokelau
+tonga;;Tonga
+tuvalu;;Tuvalu
+redditfortuvalu;;reddit for Tuvalu
+vanuatu;;Vanuatu
+wallisandfutuna;;Wallis and Futuna
+westpapua;;West Papua

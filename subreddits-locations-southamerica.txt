@@ -1,0 +1,118 @@
+southamerica;;South America
+latinamerica;;Latin America
+latinoamerica;;Latino America
+AmericaDelSur;;America del Sur
+Patagonia;;Patagonia
+TierraDelFuego;;Tierra del Fuego
+amazonia;;Amazon
+argentina;;Argentina
+republicaargentina;;República Argentina
+provincias;;Provincias Argentinas
+lapampa;;La Pampa
+tucuman;;Tucumán
+BahiaBlanca;;Bahía Blanca
+Bariloche;;Bariloche
+buenosaires;;Buenos Aires
+cordoba;;Córdoba
+MarDelPlata;;Mar del Plata
+rosario;;Rosario
+Ushuaia;;Ushuaia
+bolivia;;Bolivia
+lapaz;;La Paz
+brazil;;Brazil
+brasil;;Brasil
+Alagoas;;Alagoas
+Amazonas;;Amazonas
+bahia;;Bahia
+Ceara;;Ceará
+EspiritoSanto;;Espírito Santo
+Maranhao;;Maranhão
+MinasGerais;;Minas Gerais
+parana;;Paraná
+StateofRiodeJaneiro;;Rio de Janeiro
+riograndedosul;;Rio Grande do Sul
+rondonia;;Rondônia
+Roraima;;Roraima
+SantaCatarina;;Santa Catarina
+Sergipe;;Sergipe
+saopaulo;;São Paulo
+Aracaju;;Aracaju
+Bauru;;Bauru
+BeloHorizonte;;Belo Horizonte
+belem;;Belém
+Blumenau;;Blumenau
+brasilia;;Brasília
+campinas;;Campinas
+CampoGrande;;Campo Grande
+cascavel;;Cascavel
+cuiaba;;Cuiabá
+curitiba;;Curitiba
+florianopolis;;Florianópolis
+fortaleza;;Fortaleza
+foz;;Foz do Iguaçu
+goiania;;Goiânia
+Joinville;;Joinville
+juizdefora;;Juiz de Fora
+Jundiai;;Jundiaí
+londrina;;Londrina
+macae;;Macaé
+maceio;;Maceió
+Manaus;;Manaus
+maringa;;Maringá
+niteroi;;Niterói
+Pelotas;;Pelotas
+petropolis;;Petrópolis
+piracicaba;;Piracicaba
+Pontagrossa;;Ponta Grossa
+portoalegre;;Porto Alegre
+recife;;Recife
+riodejaneiro;;Rio de Janeiro
+salvador;;Salvador
+sorocaba;;Sorocaba
+saocarlos;;São Carlos
+saojosedoscampos;;São José dos Campos
+saopaulo;;São Paulo
+Uberlandia;;Uberlândia
+vitoriaES;;Vitória
+zonasul;;Zona Sul, Rio de Janeiro
+chile;;Chile
+laserena;;La Serena
+santiago;;Santiago
+easterisland;;Easter Island
+puertomontt;;Puerto Montt
+rapanui;;Rapa Nui (Easter Island)
+ValpoChile;;Valparaíso
+colombia;;Colombia
+colombiareddit;;Colombia
+Barranquilla;;Barranquilla
+bogota;;Bogotá
+bucaramanga;;Bucaramanga
+CaliColombia;;Cali
+MANIZALES;;Manizales
+medellin;;Medellín
+Pereira;;Pereira
+popayan;;Popayán
+ecuador;;Ecuador
+cuenca;;Cuenca
+galapagos;;Galapagos
+Guayaquil;;Guayaquil
+Quito;;Quito
+falklandislands;;Falkland Islands
+Grenada;;Grenada
+guyana;;Guyana
+paraguay;;Paraguay
+peru;;Perú
+arequipa;;Arequipa
+cusco;;Cusco
+limaperu;;Lima
+piura;;Piura
+suriname;;Suriname
+Sranan;;Republiek Suriname
+paramaribo;;Paramaribo
+uruguay;;Uruguay
+montevideo;;Montevideo
+vzla;;Venezuela
+venezuelareddit;;Venezuela
+barquisimeto;;Barquisimeto
+caracas;;Caracas
+Maracaibo;;Maracaibo

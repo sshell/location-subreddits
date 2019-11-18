@@ -1,0 +1,1427 @@
+europe;;Europe
+balkans;;Balkans
+baltics;;Baltics
+balticcountries;;Baltic Countries
+benelux;;Benelux
+central_europe;;Central Europe
+easterneurope;;Eastern Europe
+europeanfederalists;;European Federalists (EU)
+eurozone;;Euro Zone
+frisia;;Frisia
+iberia;;Iberia
+lowcountries;;Low Countries
+nordiccountries;;Nordic Countries
+scandinavia;;Scandinavia
+albania;;Albania
+shqip;;Shqip
+andorra;;Andorra
+austria;;Austria
+osterreich;;Österreich
+graz;;Graz
+innsbruck;;Innsbruck
+kaernten;;Kärnten
+klagenfurt;;Klagenfurt
+linz;;Linz
+mayrhofen;;Mayrhofen
+noesterreich;;Niederösterreich
+salzburg;;Salzburg
+schwaz;;Schwaz
+tirol;;Tirol
+vienna;;Vienna
+vorarlberg;;Vorarlberg
+wien;;Wien
+belarus;;Belarus
+minsk;;Minsk
+belgium;;Belgium
+aalst;;Aalst
+aarschot;;Aarschot
+antwerpen;;Antwerp
+bierbeek;;Bierbeek
+boutersem;;Boutersem
+brabant;;Brabant
+bruges;;Bruges
+brugge;;Brugge
+brussels;;Brussels
+bruxellesmabelle;;Bruxelles
+charleroi;;Charleroi
+diepenbeek;;Diepenbeek
+eeklo;;Eeklo
+flanders;;Flanders
+genk;;Genk
+gent;;Ghent
+hainaut;;Hainaut
+hasselt;;Hasselt
+ieper;;Ieper-Ypres
+kapellen;;Kapellen
+kortrijk;;Kortrijk
+leuven;;Leuven
+liege;;Liège
+limburgbe;;Limburg
+mechelen;;Mechelen
+molem;;Molenbeek
+mons;;Mons
+namur;;Namur
+provlux;;Province de Luxembourg
+roeselare;;Roeselare
+ronse;;Ronse
+vlaanderen;;Vlaanderen
+wallonia;;Wallonia
+bosnia;;Bosnia
+bih;;Bosnia and Hercegovina
+hercegovina;;Hercegovina
+srpska;;Republika Srpska
+banjaluka;;Banja Luka
+bihac;;Bihac
+bijeljina;;Bijeljina
+brcko;;Brčko
+cazin;;Cazin
+gradiska;;Gradiška
+mostar;;Mostar
+sarajevo;;Sarajevo
+siroki;;Široki Brijeg
+zenica;;Zenica
+bulgaria;;Bulgaria
+bg;;BG
+burgas;;Burgas
+dobrich;;Dobrich
+gabrovo;;Gabrovo
+plovdiv;;Plovdiv
+shumen;;Shumen
+sofia;;Sofia
+vratsa;;Vratsa
+croatia;;Croatia
+dalmatia;;Dalmatia
+bjelovar;;Bjelovar
+dubrovnik;;Dubrovnik
+imotski;;Imotski
+istria;;Istria
+krizevci;;Križevci
+osijek;;Osijek
+rijeka;;Rijeka
+sisak;;Sisak
+sibenik;;Šibenik
+split;;Split
+croatiasplit;;Split HR
+varazdin;;Varaždin
+vukovar;;Vukovar
+zadar;;Zadar
+zagreb;;Zagreb
+zrce;;Zrće
+cyprus;;Cyprus
+kktc;;Northern Cyprus
+larnaca;;Larnaca
+limassol;;Limassol
+nicosia;;Nicosia
+paphos;;Paphos
+czechia;;Czechia
+czech;;Czech Republic
+cesky;;Česky
+brno;;Brno
+liberec;;Liberec
+kutnahora;;Kutná Hora
+moravia;;Moravia
+olomouc;;Olomouc
+opava;;Opava
+ostrava;;Ostrava
+praha;;Praha
+prague;;Prague
+ustinadlabem;;Ústí nad Labem
+zlin;;Zlín
+denmark;;Denmark
+danmark;;Danmark
+dansk;;Dansk
+aabenraa;;Aabenraa
+billund;;Billund
+bornholm;;Bornholm
+christiania;;Christiania
+copenhagen;;Copenhagen
+copenhagenDK;;Copenhagen DK
+koebenhavn;;København
+esbjerg;;Esbjerg
+fredericia;;Fredericia
+frederiksberg;;Frederiksberg
+fyn;;Fyn
+faaborg;;Fåborg
+horsens;;Horsens
+jutland;;Jutland
+jylland;;Jylland
+kolding;;Kolding
+malling;;Malling
+midtjylland;;Midtjylland
+moen;;Møn
+naestved;;Næstved
+norrebro;;Nørrebro
+odense;;Odense
+ollerup;;Ollerup
+randers;;Randers
+roskilde;;Roskilde
+skanderborg;;Skanderborg
+skive;;Skive
+ssydfyn;;Sydfyn
+varde;;Varde
+vejle;;Vejle
+vesterbro;;Vesterbro
+viborg;;Viborg
+aeroo;;Ærø
+aalborg;;Ålborg
+aarhus;;Århus
+eesti;;Eesti
+kuressaare;;Kuressaare
+narva;;Narva
+parnu;;Pärnu
+tallinn;;Tallinn
+tartu;;Tartu
+tyri;;Türi
+valga;;Valga
+faroeislands;;Faroe Islands
+suomi;;Suomi
+finland;;Finland
+ankdammen;;Finlandssvenskarnas
+alavus;;Alavus
+espoo;;Espoo
+hamina;;Hamina
+helsinki;;Helsinki
+hervanta;;Hervanta
+hyvinkaanyt;;Hyvinkää
+hameenlinna;;Hämeenlinna
+joensuu;;Joensuu
+jyvaskyla;;Jyväskylä
+kajaani;;Kajaani
+kauniainen;;Kauniainen
+kemi;;Kemi
+kerava;;Kerava
+kokkola;;Kokkola
+kotka;;Kotka
+kouvola;;Kouvola
+kuopio;;Kuopio
+lahti;;Lahti
+lappeenranta;;Lappeenranta
+lohja;;Lohja
+mariehamn;;Mariehamn
+mikkeli;;Mikkeli
+oulu;;Oulu
+pieksamaki;;Pieksämäki
+pori;;Pori
+rauma;;Rauma
+rovaniemi;;Rovaniemi
+satakunta;;Satakunta
+savonlinna;;Savonlinna
+seinajoki;;Seinäjoki
+somero;;Somero
+sysma;;Sysma
+tampere;;Tampere
+turku;;Turku
+vaasa;;Vaasa
+vantaa;;Vantaa
+alandislands;;Åland Islands
+france;;France
+francaise;;Française
+bretagne;;Bretagne
+bourgognefranchecomte;;Bourgogne-Franche-Comté
+corsica;;Corse
+normandie;;Normandie
+occitanie;;Occitanie
+alsace;;Alsace
+anjou;;Anjou
+aquitaine;;Aquitaine
+auvergne;;Auvergne
+bearn;;Béarn
+binic;;Binic
+bourgogne;;Bourgogne
+franchecomte;;Franche-Comté
+grandsud;;Grand Sud
+limousin;;Limousin
+lorraine;;Lorraine
+occitania;;Occitania
+picardie;;Picardie
+provence;;Provence
+touraine;;Touraine
+frenchguiana;;French Guiana
+guadeloupe;;Guadeloupe
+guyane;;Guyane
+martinique;;Martinique
+mayotte;;Mayotte
+nouvellecaledonie;;Nouvelle Caledonie
+reunionisland;;Réunion
+saintpierreetmiquelon;;Saint-Pierre-et-Miquelon
+tahiti;;Tahiti
+wallisandfutuna;;Wallis and Futuna
+doubs;;Doubs
+savoie;;Savoie
+seine_et_marne;;Seine-et-Marne
+tarn;;Tarn
+aixenprovence;;Aix-en-Provence
+agen;;Agen
+amiens;;Amiens
+angouleme;;Angoulême
+annecy;;Annecy
+antibes;;Antibes
+arras;;Arras
+avignon;;Avignon
+bergerac;;Bergerac
+besancon;;Besançon
+bordeaux;;Bordeaux
+boulognebillancourt;;Boulogne-Billancourt
+bourges;;Bourges
+brest;;Brest
+biarritz;;Biarritz
+caen;;Caen
+calais;;Calais
+capdagde;;Cap d&#39;Agde
+chamonix;;Chamonix
+cherbourg;;Cherbourg
+clermontfd;;Clermont-Ferrand
+colmar;;Colmar
+dijon;;Dijon
+dijon_bourgogne;;Dijon Bourgogne
+dole;;Dole
+dunkerque;;Dunkerque
+evreux;;Evreux
+grenoble;;Grenoble
+larochelle;;La Rochelle
+lehavre;;Le Havre
+lejuch;;Le Juch
+lille;;Lille
+limoges;;Limoges
+lyon;;Lyon
+justlyonthings;;Lyon (JustLyonThings)
+justmarseillethings;;Marseille
+aixmarseille;;Marseille-Aix
+metz;;Metz
+montbeliard;;Montbéliard
+montpellier;;Montpellier
+mulhouse;;Mulhouse
+nancy;;Nancy
+nantes;;Nantes
+narbonne;;Narbonne
+nicefrance;;Nice
+orleansfr;;Orléans
+paris;;Paris
+pau;;Pau
+perpignan;;Perpignan
+poitiers;;Poitiers
+pontarlier;;Pontarlier
+pontoise;;Pontoise
+quimper;;Quimper
+reims;;Reims
+rennes;;Rennes
+rouen;;Rouen
+saintetienne;;Saint-Étienne
+sedan;;Sedan
+strasbourg;;Strasbourg
+toulon;;Toulon
+toulouse;;Toulouse
+tours;;Tours
+troyes;;Troyes
+versailles;;Versailles
+de;;DE
+deutschland;;Deutschland
+germany;;Germany
+dachschaden;;Dachschaden
+teutonik;;Teutonik
+badenwuerttemberg;;Baden-Württemberg
+aalen;;Aalen
+albstadt;;Albstadt
+baden_baden;;Baden-Baden
+baiersbronn;;Baiersbronn
+lakeconstance;;Bodensee
+bruchsal;;Bruchsal
+esslingen;;Esslingen
+ettlingen;;Ettlingen
+freiburg;;Freiburg
+friedrichshafen;;Friedrichshafen
+heidelberg;;Heidelberg
+heidenheim;;Heidenheim
+heilbronn;;Heilbronn
+herrenberg;;Herrenberg
+karlsruhe;;Karlsruhe
+konstanz;;Konstanz
+ludwigsburg;;Ludwigsburg
+mannheim;;Mannheim
+mosbach;;Mosbach
+nuertingen;;Nürtingen
+ostalb;;Ostalbkreis
+pforzheim;;Pforzheim
+rastatt;;Rastatt
+ravensburg;;Ravensburg
+reutlingen;;Reutlingen
+schorndorf;;Schorndorf
+schwarzwald;;Schwarzwald
+stuttgart;;Stuttgart
+tuebingen;;Tübingen
+ulm;;Ulm
+waldshut;;Waldshut
+bavaria;;Bavaria
+franken;;Franken
+ansbach;;Ansbach
+aschaffenburg;;Aschaffenburg
+augsburg;;Augsburg
+bamberg;;Bamberg
+bayreuth;;Bayreuth
+coburg;;Coburg
+deggendorf;;Deggendorf
+dorfen;;Dorfen
+erlangen;;Erlangen
+erding;;Erding
+franken;;Franken
+freising;;Freising
+friedberg;;Friedberg
+fuerth;;Fürth
+fuessen;;Füssen
+garmisch;;Garmisch
+ingolstadt;;Ingolstadt
+kempten;;Kempten
+kronach;;Kronach
+landshut;;Landshut
+maxvorstadt;;Maxvorstadt
+memmingen;;Memmingen
+munich;;München
+nurnberg;;Nürnberg
+passau;;Passau
+regensburg;;Regensburg
+rosenheim;;Rosenheim
+schwaben;;Schwaben
+straubing;;Straubing
+wuerzburg;;Würzburg
+berlin;;Berlin
+charlottenburg;;Charlottenburg
+friedrichshain;;Friedrichshain
+kreuzberg;;Kreuzberg
+koepenick;;Köpenick
+moabit;;Moabit
+neukoelln;;Neukölln
+pankow;;Pankow
+prenzlauerberg;;Prenzlauer Berg
+tempelhof;;Tempelhof
+treptow;;Treptow
+wedding65;;Wedding
+brandenburg;;Brandenburg
+cottbus;;Cottbus
+eisenhuettenstadt;;Eisenhüttenstadt
+de_potsdam;;Potsdam
+bremen;;Bremen
+bremerhaven;;Bremerhaven
+hamburg;;Hamburg
+hessen;;Hessen
+bensheim;;Bensheim
+darmstadt;;Darmstadt
+frankfurt;;Frankfurt
+fulda;;Fulda
+giessen;;Giessen
+hanau;;Hanau
+idstein;;Idstein
+kassel;;Kassel
+marburg;;Marburg
+offenbach;;Offenbach
+taunusstein;;Taunusstein
+wetzlar;;Wetzlar
+wiesbaden;;Wiesbaden
+niedersachsen;;Niedersachsen
+aurich;;Aurich
+braunschweig;;Braunschweig
+buxtehude;;Buxtehude
+celle;;Celle
+gifhorn;;Gifhorn
+goslar;;Goslar
+goettingen;;Göttingen
+hameln;;Hameln
+hannover;;Hannover
+hildesheim;;Hildesheim
+lingen;;Lingen
+lueneburg;;Lüneburg
+meppen;;Meppen
+nordhorn;;Nordhorn
+oldenburg;;Oldenburg
+osnabrueck;;Osnabrück
+papenburg;;Papenburg
+peine;;Peine
+salzgitter;;Salzgitter
+seevetal;;Seevetal
+stade;;Stade
+vechta;;Vechta
+wilhelmshaven;;Wilhelmshaven
+wolfenbuettel;;Wolfenbüttel
+wolfsburg;;Wolfsburg
+nrw;;Nordrhein-Westfalen
+ruhrgebiet;;Ruhrgebiet
+aachen;;Aachen
+beckum;;Beckum
+bergischgladbach;;Bergisch Gladbach
+bielefeld;;Bielefeld
+bochum;;Bochum
+bonn;;Bonn
+bottrop;;Bottrop
+cologne;;Cologne
+detmold;;Detmold
+dorsten;;Dorsten
+dortmund;;Dortmund
+duisburg;;Duisburg
+dueren;;Düren
+duesseldorf;;Düsseldorf
+essen;;Essen
+stadtessen;;Stadt Essen
+euskirchen;;Euskirchen
+gelsenkirchen;;Gelsenkirchen
+grevenbroich;;Grevenbroich
+haltern;;Haltern am See
+hamm;;Hamm
+hagen;;Hagen
+hennef;;Hennef
+herford;;Herford
+herne;;Herne
+huerth;;Hürth
+julich;;Jülich
+kempen;;Kempen
+koeln;;Köln
+korschenbroich;;Korschenbroich
+krefeld;;Krefeld
+langenfeld;;Langenfeld
+leverkusen;;Leverkusen
+lippstadt;;Lippstadt
+minden;;Minden
+moers;;Moers
+moenchengladbach;;Mönchengladbach
+muenster;;Münster
+oberhausen;;Oberhausen
+paderborn;;Paderborn
+recklinghausen;;Recklinghausen
+remscheid;;Remscheid
+rheine;;Rheine
+senden;;Senden
+siegburg;;Siegburg
+siegen;;Siegen
+solingen;;Solingen
+wuppertal;;Wuppertal
+meckpomm;;Mecklenburg-Vorpommern
+greifswald;;Greifswald
+rostock;;Rostock
+schwerin;;Schwerin
+stralsund;;Stralsund
+wismar;;Wismar
+rheinlandpfalz;;Rheinland-Pfalz
+frankenthal;;Frankenthal
+kaiserslautern;;Kaiserslautern
+kirn;;Kirn
+koblenz;;Koblenz
+konz;;Konz
+ludwigshafenamrhein;;Ludwigshafen am Rhein
+Mainz;;Mainz
+pirmasens;;Pirmasens
+Ramstein;;Ramstein
+spangdahlem;;Spangdahlem
+speyer;;Speyer
+trier;;Trier
+westerwald/;;Westerwald
+Saarland;;Saarland
+saarbruecken;;Saarbrücken
+sachsen;;Sachsen
+saxony;;Saxony
+aue;;Aue
+chemnitz;;Chemnitz
+dresden;;Dresden
+goerlitz;;Görlitz
+leipzig;;Leipzig
+meissen;;Meissen
+plauen;;Plauen
+zwickau;;Zwickau
+sachsenanhalt;;Sachsen-Anhalt
+hallesaale;;Halle (Saale)
+bernburg;;Bernburg
+coswig;;Coswig
+dessau;;Dessau
+kaecklitz;;Käcklitz
+magdeburg;;Magdeburg
+rottagermany;;Rotta
+schleswigholstein;;Schleswig-Holstein
+elmshorn;;Elmshorn
+flensburg;;Flensburg
+husum;;Husum
+itzehoe;;Itzehoe
+kiel;;Kiel
+luebeck;;Lübeck
+neumuenster;;Neumünster
+pinneberg;;Pinneberg
+rendsburg;;Rendsburg
+thueringen;;Thüringen
+eisenach;;Eisenach
+erfurt;;Erfurt
+gera;;Gera
+gotha;;Gotha
+herrenberg;;Herrenberg
+ilmenau;;Ilmenau
+jenacity;;Jena
+nordhausen;;Nordhausen
+weimar;;Weimar
+gibraltar;;Gibraltar
+greece;;Greece
+greekreddit;;Greek
+ellas;;Hellas
+athina;;Athína
+chios;;Chios
+corfu;;Corfu
+crete;;Crete
+dionysos;;Dionysos
+glyfada;;Glyfada
+kavala;;Kavala
+Patras;;Patras
+salonika;;Salonika
+samos;;Samos
+santorini;;Santorini
+thebescity;;Thebes
+thessaloniki;;Thessaloniki
+greenland;;Greenland
+hungary;;Hungary
+hu;;HU
+budapest;;Budapest
+Debrecen;;Debrecen
+gyor;;Győr
+kaposvar;;Kaposvár
+Miskolc;;Miskolc
+szeged;;Szeged
+iceland;;Iceland
+klakinn;;Klakinn
+Akureyri;;Akureyri
+bardarbunga;;Bárðarbunga
+kopavogur;;Kópavogur
+reykjavik;;Reykjavík
+ireland;;Ireland
+eire;;Éire
+athlone;;Athlone
+ARAN;;Aran Islands
+Ballinasloe;;Ballinasloe
+booterstown;;Booterstown
+bray;;Bray
+carlow;;Carlow
+castlebar;;Castlebar
+cavan;;Cavan
+clifden;;Clifden
+cork;;Cork
+clare;;County Clare
+kerry;;County Kerry
+kildare;;County Kildare
+Leitrim;;County Leitrim
+Meath;;County Meath
+monaghan;;County Monaghan
+MayoIrl;;County Mayo
+MaighEo;;County Mayo (MaighEo)
+tipperary;;County Tipperary
+wicklow;;County Wicklow
+Westmeath;;County Westmeath
+CountyWexford;;County Wexford
+Donegal;;Donegal
+dublin;;Dublin
+Dungiven;;Dungiven
+edgeworthstown;;Edgeworthstown
+galway;;Galway
+Kilkenny;;Kilkenny
+limerickcity;;Limerick
+longford;;Longford
+Maynooth;;Maynooth
+moone;;Moone
+munster;;Munster
+portlaoise;;Port Laoise
+rathangan;;Rathangan
+sligo;;Sligo
+Tallaght;;Tallaght
+tramore;;Tramore
+italy;;Italy
+it;;IT
+Italia;;Italia
+Arezzo;;Arezzo
+Avezzano;;Avezzano
+bari;;Bari
+Benevento;;Benevento
+Bergamo;;Bergamo
+bologna;;Bologna
+brescia;;Brescia
+Calabria;;Calabria
+Cassino;;Cassino
+Catania;;Catania
+firenze;;Firenze
+frascati;;Frascati
+Garda;;Garda
+genova;;Genova
+lecce;;Lecce
+Marsica;;Marsica
+messina;;Messina
+milano;;Milano
+Modena;;Modena
+modica;;Modica
+NaplesIT;;Naples IT
+napoli;;Napoli
+Perugia;;Perugia
+pescara;;Pescara
+Pisa;;Pisa
+roma;;Roma
+rome;;Rome
+salerno;;Salerno
+Sardinia;;Sardinia
+Savona;;Savona
+sicilia;;Sicilia
+sicily;;Sicily
+southtyrol;;South Tyrol
+Taranto;;Taranto
+torino;;Torino
+Trieste;;Trieste
+tuscany;;Tuscany
+umbria;;Umbria
+venezia;;Venezia
+kosovo;;Kosovo
+prishtina;;Prishtina
+Prizren;;Prizren
+latvia;;Latvia
+riga;;Riga
+liechtenstein;;Liechtenstein
+lithuania;;Lithuania
+Kaunas;;Kaunas
+Klaipeda;;Klaipėda
+vilnius;;Vilnius
+luxembourg;;Luxembourg
+Linger;;Linger
+madeira;;Madeira
+malta;;Malta
+republicofmalta;;Republic of Malta
+Gozo;;Gozo
+moldova;;Moldova
+Monaco;;Monaco
+montenegro;;Montenegro
+Podgorica;;Podgorica
+ulqin;;Ulqin
+thenetherlands;;The Netherlands
+nederlands;;Nederlands
+nl;;NL
+nederland;;Nederland
+alkmaar;;Alkmaar
+almelo;;Almelo
+almere;;Almere
+Ameland;;Ameland
+amersfoort;;Amersfoort
+Apeldoorn;;Apeldoorn
+Amstelveen;;Amstelveen
+Amsterdam;;Amsterdam
+Arnhem;;Arnhem
+Breda;;Breda
+Delft;;Delft
+DenBosch;;Den Bosch
+DenHaag;;Den Haag
+Drenthe;;Drenthe
+Dordrecht;;Dordrecht
+Eindhoven;;Eindhoven
+Elst;;Elst
+Emmen;;Emmen
+enschede;;Enschede
+friesland;;Friesland
+fryslan;;Fryslan
+Gouda;;Gouda
+Groenlo;;Groenlo
+groningen;;Groningen
+haarlem;;Haarlem
+Heerenveen;;Heerenveen
+Heerlen;;Heerlen
+Heiloo;;Heiloo
+hilversum;;Hilversum
+Kerkrade;;Kerkrade
+leeuwarden;;Leeuwarden
+leiden;;Leiden
+lelystad;;Lelystad
+Lisse;;Lisse
+maastricht;;Maastricht
+meerssen;;Meerssen
+nijmegen;;Nijmegen
+noordholland;;Noord-Holland
+Noordwijk;;Noordwijk
+oisterwijk;;Oisterwijk
+Purmerend;;Purmerend
+Roermond;;Roermond
+rotterdam;;Rotterdam
+Strijen;;Strijen
+terneuzen;;Terneuzen
+TheHague;;The Hague
+tilburg;;Tilburg
+uden;;Uden
+utrecht;;Utrecht
+Vlissingen;;Vlissingen
+wassenaar;;Wassenaar
+zaandam;;Zaandam
+zeeland;;Zeeland
+zoetermeer;;Zoetermeer
+zutphen;;Zutphen
+zwijndrecht;;Zwijndrecht
+zwolle;;Zwolle
+macedonia;;Macedonia
+mkd;;Makedonija
+north_macedonia;;North Macedonia
+skopje;;Skopje
+norge;;Norge
+norway;;Norway
+NorthernNorway;;Northern Norway
+ArendalOgGrimstad;;Arendal og Grimstad
+Arendal;;Arendal
+Ballstad;;Ballstad
+bergen;;Bergen
+bodkar;;Bodø
+bostad;;Bostad
+drammen;;Drammen
+egersund;;Egersund
+fredrikstad;;Fredrikstad
+gjovik;;Gjøvik
+hamar;;Hamar
+harstad;;Harstad
+haugesund;;Haugesund
+Kongsberg;;Kongsberg
+kristiansand;;Kristiansand
+kristiansund;;Kristiansund
+Langesund;;Langesund
+lillehammer;;Lillehammer
+Longyearbyen;;Longyearbyen
+molde;;Molde
+Nesodden;;Nesodden
+oslo;;Oslo
+Sarpsborg;;Sarpsborg
+skien;;Skien
+stavanger;;Stavanger
+stjordal;;Stjordal
+Svalbard;;Svalbard
+tromso;;Tromsø
+trondheim;;Trondheim
+ulvik;;Ulvik
+vestfold;;Vestfold
+Aalesund;;Ålesund
+Polska;;Polska
+poland;;Poland
+Bydgoszcz;;Bydgoszcz
+Bytom;;Bytom
+gdansk;;Gdańsk
+gorakalwaria;;Góra Kalwaria
+katowice;;Katowice
+Kielce;;Kielce
+kolbuszowa;;Kolbuszowa
+krakow;;Kraków
+lodz;;Łódź
+lublin;;Lublin
+Opole;;Opole
+poznan;;Poznań
+prawo;;Prawo
+Rzeszow;;Rzeszów
+siedlce;;Siedlce
+Slask;;Śląsk
+Szczecin;;Szczecin
+Tarnow;;Tarnów
+Torun;;Toruń
+Trojmiasto;;Trójmiasto
+tuszyn;;Tuszyn
+warsaw;;Warsaw
+warszawa;;Warszawa
+wieliczka;;Wieliczka
+Wroclaw;;Wrocław
+portugal;;Portugal
+norteportugal;;Norte Portugal
+albufeira;;Albufeira
+Algarve;;Algarve
+almada;;Almada
+aveiro;;Aveiro
+azores;;Açores
+Beja;;Beja
+Braga;;Braga
+Braganca;;Bragança
+coimbra;;Coimbra
+Castelo_Branco;;Castelo Branco
+FigueiradaFoz;;Figueira da Foz
+guimaraes;;Guimaraes
+leiria;;Leiria
+lisboa;;Lisboa
+lisbon;;Lisbon
+Madeira;;Madeira
+miraflores;;Miraflores
+oporto;;Oporto
+porto;;Porto
+Setubal;;Setúbal
+Viana;;Viana do Castelo
+vilareal;;Vila Real
+viseu;;Viseu
+romania;;România
+roumania;;Roumania
+arad;;Arad
+bacau;;Bacău
+baiamare;;Baia Mare
+braila;;Brăila
+beius;;Beiuș
+botosani;;Botoșani
+brasov;;Brașov
+bucharest;;Bucharest
+bucuresti;;București
+bucovina;;Bucovina
+calarasi;;Călărași
+cluj;;Cluj
+ClujNapoca;;Cluj-Napoca
+constanta;;Constanța
+craiova;;Craiova
+cucueti;;Cucueți
+ialomita;;Ialomița
+iasi;;Iași
+mures;;Mureș
+piatra;;Piatra
+pitesti;;Pitești
+Ploiesti;;Ploiești
+oltenia;;Oltenia
+oradea;;Oradea
+Salaj;;Sălaj
+satumare;;Satu Mare
+sibiu;;Sibiu
+TarguMures;;Târgu Mureș
+timisoara;;Timișoara
+tulcea;;Tulcea
+zimnicea;;Zimnicea
+russia;;Russia
+ru;;RU
+rossiya;;Rossiya
+astrakhan;;Astrakhan
+Chechnya;;Chechnya
+Dagestan;;Dagestan
+elista;;Elista, Republic of Kalmykia
+kaliningrad;;Kaliningrad
+krasnodar;;Krasnodar
+moscow;;Moscow
+Nizhny_Novgorod;;Nizhny Novgorod
+novosibirsk;;Novosibirsk
+Orenburg;;Orenburg
+pskov;;Pskov
+rostov;;Rostov, Yaroslavl Oblast
+saratov;;Saratov
+sochi;;Sochi
+spb;;Saint Petersburg
+StPetersburgRu;;Saint Petersburg (RU)
+tuva;;Tyva Republic
+vidnoe;;Vidnoye, Moscow Oblast
+vladivostok;;Vladivostok
+Volgograd;;Volgograd
+voronezh;;Voronezh
+Yakutsk;;Yakutsk
+yekaterinburg;;Yekaterinburg
+San_Marino;;San Marino
+serbia;;Serbia
+srbija;;Srbija
+belgrade;;Belgrade
+Beograd;;Beograd
+Kragujevac;;Kragujevac
+loznica;;Loznica
+nis;;Niš
+novisad;;Novi Sad
+Sabac;;Šabac
+smederevo;;Smederevo
+subotica;;Subotica
+Valjevo;;Valjevo
+vojvodina;;Vojvodina
+slovakia;;Slovakia
+slovensko;;Slovensko
+Bratislava;;Bratislava
+Bratislava2;;Bratislava SK
+kosice;;Košice
+Presov;;Prešov
+trencin;;Trenčín
+Trnava;;Trnava
+slovenia;;Slovenia
+Slovenija;;Slovenija
+koper;;Koper
+Ljubljana;;Ljubljana
+Maribor;;Maribor
+novomesto;;Novo Mesto
+spain;;Spain
+es;;ES
+espana;;España
+albacete;;Albacete
+alicante;;Alicante
+AlmeriaAlmeria;;Almería
+Andalucia;;Andalucía
+aragon;;Aragon
+barcelona;;Barcelona
+basquecountry;;Basque Country
+Bilbao;;Bilbao
+cadiz;;Cádiz
+cartagena;;Cartagena
+catalonia;;Catalonia
+Catalunya;;Catalunya
+euskadi;;Euskadi
+Formentera;;Formentera
+ibiza;;Ibiza
+islascanarias;;Islas Canarias
+galiza;;Galiza
+Girona;;Girona
+granada;;Granada 
+canarias;;Grand Canarias
+Jerez;;Jerez
+lanzarote;;Lanzarote
+logrono;;Logroño
+madrid;;Madrid
+magaluf;;Magaluf
+malaga;;Málaga
+mallorca;;Mallorca
+Marbella;;Marbella
+mataro;;Mataró
+menorca;;Menorca
+murcia;;Murcia
+infosanlucar;;Sanlúcar de Barrameda
+santcugat;;Sant Cugat
+santander;;Santander
+Compostela;;Santiago de Compostela
+sevilla;;Sevilla
+tabarca;;Tabarca
+tarragona;;Tarragona
+Tenerife;;Tenerife
+Torrelavega;;Torrelavega
+Valladolid;;Valladolid
+valencia;;Valencia
+gasteiz;;Victoria-Gasteiz
+vigo;;Vigo
+zamora;;Zamora
+Zaragoza;;Zaragoza
+sweden;;Sweden
+schweden;;Schweden
+alvik;;Alvik
+Avesta;;Avesta
+blekinge;;Blekinge
+Bollnas;;Bollnäs
+Borlange;;Borlänge
+BorlangeKommun;;Borlänge Kommun
+boras;;Borås
+Dalarna;;Dalarna
+Eskilstuna;;Eskilstuna
+falun;;Falun
+Gotland;;Gotland
+gotskasandon;;Gotska Sandön
+gavle;;Gävle
+gothenburg;;Göteborg
+habo;;Habo
+halmstad;;Halmstad
+haninge;;Haninge
+helsingborg;;Helsingborg
+hofors;;Hofors
+Huddinge;;Huddinge
+hultsfred;;Hultsfred
+harnosand;;Härnösand
+jamtland;;Jämtland
+jonkoping;;Jönköping
+kalmar;;Kalmar
+karlskrona;;Karlskrona
+karlstad;;Karlstad
+katrineholm;;Katrineholm
+kiruna;;Kiruna
+Kristianstad;;Kristianstad
+kronoberg;;Kronoberg
+Kungalv;;Kungälv
+Kungsbacka;;Kungsbacka
+landskrona;;Landskrona
+Leksand;;Leksand
+lerum;;Lerum
+linkoping;;Linköping
+lulea;;Luleå
+lund;;Lund
+Ludvika;;Ludvika
+malmo;;Malmö
+malmoe;;Malmoe
+Mjolby;;Mjölby
+molndal;;Mölndal
+Norrbotten;;Norrbotten
+norrkoping;;Norrköping
+norrland;;Norrland
+Nybro;;Nybro
+pitea;;Piteå
+Sandviken;;Sandviken
+skelleftea;;Skellefteå
+Skane;;Skåne
+Skaneland;;Skåneland
+smaland;;Småland
+sollentuna;;Sollentuna
+stockholm;;Stockholm
+strangnas;;Strängnäs
+Sundsvall;;Sundsvall
+Soderhamn;;Söderhamn
+sodermalm;;Södermalm
+sodertalje;;Södertälje
+tidaholm;;Tidaholm
+Tranas;;Tranås
+Trelleborg;;Trelleborg
+trollhattan;;Trollhättan
+umea;;Umeå
+upplandsvasby;;Upplands Väsby
+uppsala;;Uppsala
+Vintrosa;;Vintrosa
+visby;;Visby
+wermland;;Värmland
+Vastervik;;Västervik
+wermland;;Västerås
+vaxjo;;Växjö
+akersberga;;Åkersberga
+orebro;;Örebro
+Ostergotland;;Östergötland
+ostersund;;Östersund
+ornskoldsvik;;Örnsköldsvik
+switzerland;;Switzerland
+suisse;;Suisse
+helvetica;;Helvetica
+basel;;Basel
+bern;;Bern
+bielbienne;;Biel/Bienne
+Buenzli;;Bünzli
+dietikon;;Dietikon
+Erlinsbach;;Erlinsbach
+frauenfeld;;Frauenfeld
+fribourg;;Fribourg
+geneva;;Geneva
+Lausanne;;Lausanne
+liestal;;Liestal
+luzern;;Lucerne
+lugano;;Lugano
+morcote;;Morcote
+neuchatel;;Neuchâtel
+Olten;;Olten
+sanktgallen;;Sankt Gallen
+Schaffhausen;;Schaffhausen
+Schwyz;;Schwyz
+solothurn;;Solothurn
+stans;;Stans
+thun;;Thun
+ticino;;Ticino
+vaud;;Vaud
+winterthur;;Winterthur
+zermatt;;Zermatt
+zug;;Zug
+zurich;;Zürich
+Transnistria;;Transnistria
+transdniestria;;Transdniestria
+turkey;;Türkiye
+redditturk;;Turk
+tr;;TR
+RepublicOfTurkey;;Republic of Turkey
+ankara;;Ankara
+Antalya;;Antalya
+bursa;;Bursa
+denizli;;Denizli
+eskisehir;;Eskişehir
+fethiye;;Fethiye
+Gaziantep;;Gaziantep
+istanbul;;Istanbul
+izmir;;İzmir
+kadikoy;;Kadıköy
+konya;;Konya
+trabzon;;Trabzon
+Sanliurfa;;Şanlıurfa
+ukraine;;Ukraine
+ukraina;;Ukraina
+ukr;;Ukr
+Ukrayina;;Ukrayina
+theUkrainians/;;theUkrainians
+Crimea;;Crimea
+dnipro;;Dnipro
+Donetsk;;Donetsk
+kharkiv;;Kharkiv
+kherson;;Kherson
+kiev;;Kyiv
+Lviv;;Lviv
+smog_mariupolya;;Mariupol
+odesa;;Odesa
+poltava;;Poltava
+rivne;;Rivne
+sumy;;Sumy
+vinnitsa;;Vinnitsa
+unitedkingdom;;United Kingdom
+Britain;;Britain
+TheBritishIsles;;The British Isles
+England;;England
+alnwick;;Alnwick
+amersham;;Amersham
+ashington;;Ashington
+basingstoke;;Basingstoke
+bath;;Bath
+beeston;;Beeston
+bexhill;;Bexhill-on-Sea
+birkenhead;;Birkenhead
+brum;;Birmingham
+Blackrod;;Blackrod
+Bolton;;Bolton
+bournemouth;;Bournemouth
+bracknell;;Bracknell
+bradford;;Bradford
+braunton;;Braunton
+brighton;;Brighton
+bristol;;Bristol
+bromley;;Bromley
+Buckfastleigh;;Buckfastleigh
+Buckinghamshire;;Buckinghamshire
+caistor;;Caistor
+cambridge;;Cambridge
+cambridgeshire;;Cambridgeshire
+camdentown;;Camden Town
+canterbury;;Canterbury
+carlisle;;Carlisle
+cheltenham;;Cheltenham
+cheshire/;;Cheshire
+Chester;;Chester
+chesterfielduk;;Chesterfield UK
+chesterfield;;Chesterfield
+chichester;;Chichester
+chippenham;;Chippenham
+Chiswick;;Chiswick
+cirencester;;Cirencester
+clapham;;Clapham
+cleethorpes;;Cleethorpes
+corby;;Corby
+cornwall;;Cornwall
+CountyDurham;;County Durham
+coventry;;Coventry
+crawley;;Crawley
+croydon;;Croydon
+cumbria;;Cumbria
+dartmoor;;Dartmoor National Park
+darwen;;Darwen
+daventry;;Daventry
+derby;;Derby
+derbyshire;;Derbyshire
+Devon;;Devon
+devonuk;;Devon UK
+dewsbury;;Dewsbury
+doncaster;;Doncaster
+dorset;;Dorset
+duffield;;Duffield
+dundee;;Dundee
+durhamuk;;Durham
+Eastbourne;;Eastbourne
+eastanglia;;East Anglia
+eastmidlands;;East Midlands
+EastSussex;;East Sussex
+ely;;Ely
+Essex;;Essex
+exeter;;Exeter
+Exmoor;;Exmoor National Park
+Fareham;;Fareham
+felpham;;Felpham
+fenland;;Fenland
+Flitwick;;Flitwick
+fylde;;Fylde
+Gateshead;;Gateshead
+gloucestershire;;Gloucestershire
+goldsborough;;Goldsborough
+graveney;;Graveney
+greatyarmouth;;Great Yarmouth
+grimsby;;Grimsby
+hampshire;;Hampshire
+harpenden;;Harpenden
+harrogate;;Harrogate
+harrow;;Harrow
+Hartlepool;;Hartlepool
+hastings;;Hastings
+Hedon;;Hedon
+hereford;;Hereford
+highwycombearea;;High Wycombe
+huddersfield;;Huddersfield
+hull;;Hull
+ipswichuk;;Ipswich
+isleofwight;;Isle of Wight
+islington;;Islington
+kenilworth;;Kenilworth
+britishkent;;Kent
+kentuk;;Kent UK
+kingslynn;;King&#39;s Lynn
+Lancaster_uk;;Lancaster
+leeds;;Leeds
+leicester;;Leicester
+lgc;;Letchworth
+Lewes;;Lewes
+lincolnshire;;Lincolnshire
+littlehampton;;Littlehampton
+Liverpool;;Liverpool
+liverpoolcity;;Liverpool City
+London;;London
+londonsocialclub;;London (Social)
+louth;;Louth
+luton;;Luton
+LutonTown;;Luton
+Maidstone;;Maidstone
+maldon;;Maldon
+Manchester;;Manchester
+medway;;Medway
+merseyside;;Merseyside
+Middx;;Middlesex
+MiddlesbroughTown;;Middlesbrough
+midhurst;;Midhurst
+midlands;;Midlands
+miltonkeynes;;Milton Keynes
+morpeth;;Morpeth
+mossley;;Mossley
+newcastleupontyne;;Newcastle upon Tyne
+NewForest;;New Forest National Park
+newportuk;;Newport
+Newquay;;Newquay
+norfolkuk;;Norfolk
+northeast;;Northeast England
+northamptonians;;Northampton
+norwich;;Norwich
+nottingham;;Nottingham
+nottinghamshire;;Nottinghamshire
+oxford;;Oxford
+perranporth;;Perranporth
+peterlee;;Peterlee
+plymouth;;Plymouth
+Portsmouth;;Portsmouth
+preston;;Preston
+ramsgate;;Ramsgate
+rayleigh;;Rayleigh
+raynes_park;;Raynes Park
+reading_berkshire;;Reading Berkshire
+reading;;Reading
+ripponden;;Ripponden
+romford;;Romford
+Rotherham;;Rotherham
+rutland;;Rutland
+stalbans;;St. Albans
+salisburyUK;;Salisbury
+saltash;;Saltash
+scarboroughuk;;Scarborough
+seaforth;;Seaforth
+shropshire;;Shropshire
+Sheffield;;Sheffield
+Shoreham;;Shoreham
+shrewsburyuk;;Shrewsbury
+slough;;Slough
+Skelmersdale;;Skelmersdale
+PooleBayCity;;South East Dorset Conurbation
+SouthEastEngland;;South East England
+southampton;;Southampton
+southport;;Southport
+stafford;;Stafford
+staffordshire;;Staffordshire
+stourport;;Stourport-on-Severn
+sudburysuffolk;;Sudbury
+suffolk;;Suffolk
+sunderland;;Sunderland
+surrey;;Surrey
+swindon;;Swindon
+tadley;;Tadley
+teesside;;Teeside 
+thanet;;Thanet
+theblackcountry;;The Black Country
+thenorth;;The North
+Thurrock;;Thurrock
+Torbay;;Torbay
+Tunbridgewells/;;Tunbridge Wells
+TyneandWear;;Tyne and Wear
+toon;;Tyneside (Toon)
+Tyneside;;Tyneside
+wakefield;;Wakefield
+warrington;;Warrington
+warwickshire;;Warwickshire
+watford;;Watford
+westcountry;;West Country
+westlynndevon;;West Lynn
+WestSussex;;West Sussex
+westyorkshire;;West Yorkshire
+Withernsea;;Withernsea
+whitleybay;;Whitley Bay
+wigan;;Wigan
+wiltshire;;Wiltshire
+wirral;;Wirral
+wokingham;;Wokingham
+worcester;;Worcester
+worksop;;Worksop
+worthing;;Worthing
+yeovil;;Yeovil
+York;;York
+yorkshire;;Yorkshire
+yorkshireuk;;Yorkshire UK
+Channel_Islands;;Channel Islands
+thechannelislands;;Channel Islands, the
+channelislands;;ChannelIslands
+isleofman;;Isle of Man
+guernsey;;Guernsey
+gsy;;GSY
+Jersey;;Jersey
+JerseyChannelIslands;;Jersey, Channel Islands
+jerseyci;;Jersey CI
+northernireland;;Northern Ireland
+Belfast;;Belfast
+carrickfergus;;Carrickfergus
+craigavon;;Craigavon
+Derry;;Derry
+derrylondonderry;;Derry Londonderry
+Limavady;;Limavady
+lisburn;;Lisburn
+Londonderry;;Londonderry
+Magherafelt;;Magherafelt
+newrycity;;Newry
+Portadown;;Portadown
+Portstewart;;Portstewart
+scotland;;Scotland
+Scoti;;Scòti
+aberdeen;;Aberdeen
+annan;;Annan
+arbroath;;Arbroath
+ayrshire;;Ayrshire
+Campbeltown;;Campbeltown
+Coatbridge;;Coatbridge
+dalgetybay;;Dalgety Bay
+Dumbarton;;Dumbarton
+DumfriesAndGalloway;;Dumfries and Galloway
+dundee;;Dundee
+Dunfermline;;Dunfermline
+eastkilbride;;East Kilbride
+Edinburgh;;Edinburgh
+elginscotland;;Elgin
+falkirk;;Falkirk
+Fife;;Fife
+Galloway;;Galloway
+Glasgow;;Glasgow
+glencoe;;Glencoe
+greenock;;Greenock
+Inverclyde;;Inverclyde
+inverness;;Inverness
+irvinescotland;;Irvine
+islay;;Isle of Islay
+kelso;;Kelso
+kilmarnock;;Kilmarnock
+Kirkcaldy;;Kirkcaldy
+lanarkshire;;Lanarkshire
+linlithgow;;Linlithgow
+livi;;Livingston
+nairn;;Nairn
+oban;;Oban
+orkney;;Orkney
+Paisley;;Paisley
+PerthScotland;;Perth
+perthshire;;Perth Shire
+shetland;;Shetland
+skye;;Skye
+stirlingscotland;;Stirling
+stonehaven;;Stonehaven
+stornoway;;Stornoway
+Hebrides;;The Hebrides
+westernisles;;Western Isles
+whitburn;;Whitburn
+kettins;;Kettins
+Wales;;Wales
+cymru;;Cymru
+abergavenny;;Abergavenny
+abertillery;;Abertillery
+aberystwyth;;Aberystwyth
+bangor;;Bangor
+barrytown;;Barry
+Bridgend;;Bridgend
+builthwells;;Builth Wells
+Caerphilly;;Caerphilly
+cardiff;;Cardiff
+ceredigion;;Ceredigion
+ColwynBay;;Colwyn Bay
+flintshire;;Flintshire County
+holyhead;;Holyhead
+Llanelli;;Llanelli
+MerthyrTydfil;;Merthyr Tydfil
+newportSW;;Newport
+pembrokeshire;;Pembrokeshire
+Penarth;;Penarth
+Pontypridd;;Pontypridd
+Porthcawl;;Porthcawl
+Rhyl;;Rhyl
+southwales;;South Wales
+swansea;;Swansea
+wolverhampton;;Wolverhampton
+wrexham;;Wrexham
+vatican;;Vatican City

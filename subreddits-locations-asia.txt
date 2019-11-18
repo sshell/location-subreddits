@@ -1,0 +1,470 @@
+asia;;Asia
+centralasia;;Central Asia
+mideast;;Mid East
+MiddleEast;;Middle East
+SouthAsia;;South Asia
+southeastasia;;South East Asia
+subcontinent;;Subcontinent
+afghanistan;;Afghanistan
+kabul;;Kabul
+armenia;;Armenia
+armenian;;Armenian
+Artsakh;;Artsakh (Nagorno-Karabakh)
+yerevan;;Yerevan
+azerbaijan;;Azerbaijan
+Azerbaycan;;Azərbaycan
+baku;;Baku
+South_Azerbaijan;;South Azerbaijan
+bahrain;;Bahrain
+bangladesh;;Bangladesh
+dhaka;;Dhaka
+Chittagong;;Chittagong
+bhutan;;Bhutan
+brunei;;Brunei
+burma;;Burma
+myanmar;;Myanmar
+unionofmyanmar;;Union of Myanmar
+Yangon;;Yangon
+cambodia;;Cambodia
+PhnomPenh;;Phnom Penh
+SiemReap;;Siem Reap
+Siem_Reap;;Siem_Reap
+Sihanoukville;;Sihanoukville
+china;;China
+dongbei;;Northeast China (Dongbei)
+beijing;;Beijing
+Changchun;;Changchun
+changsha;;Changsha
+Chaoyang;;Chaoyang
+Chengdu;;Chengdu
+chongqing;;Chongqing
+dalian;;Dalian
+dongguan;;Dongguan
+foshan;;Foshan
+fuzhou;;Fuzhou
+guangzhou;;Guangzhou
+Guilin;;Guilin
+guiyang;;Guiyang
+haerbin;;Haerbin
+Haikou;;Haikou
+hangzhou;;Hangzhou
+harbin_china;;Harbin
+hefei;;Hefei
+Hohhot;;Hohhot
+jinan;;Jinan
+jingan;;Jingan
+Kunming;;Kunming
+Kunshan;;Kunshan
+Lanzhou;;Lanzhou
+lijiang;;Lijiang
+Nanchong;;Nanchong
+nanjing;;Nanjing
+nanning;;Nanning
+NingboChina;;Ningbo
+peking;;Peking
+qingdao;;Qingdao
+qingyuan;;Qingyuan
+sanya;;Sanya
+shanghai;;Shanghai
+Shangrao;;Shangrao
+Shenyang;;Shenyang
+shenzhen;;Shenzhen
+Suzhou;;Suzhou
+taiyuan;;Taiyuan
+Tianjin;;Tianjin
+Wenzhou;;Wenzhou
+wuhan;;Wuhan
+wuxi;;Wuxi
+xian;;Xi&#39;an
+xiamen;;Xiamen
+TheHeartOfChina;;Xian
+Yantian;;Yantian
+Yichang;;Yichang
+Yinchuan;;Yinchuan
+Zhaoqing;;Zhaoqing
+zhengzhou;;Zhengzhou
+fujian;;Fujian
+guangdong;;Guangdong
+henan;;Henan
+hubei;;Hubei
+Hunan;;Hunan
+shandong;;Shandong
+shanxi;;Shanxi
+sichuan;;Sichuan
+tibet;;Tibet
+Xinjiang;;Xinjiang
+yunnan;;Yunnan
+DiscoveryBay;;Discovery Bay
+hongkong;;Hong Kong
+Kowloon;;Kowloon
+macau;;Macau
+Tsimshatsui;;Tsimshatsui
+tungchung;;Tung Chung
+Abkhazia;;Abkhazia
+sakartvelo;;Sakartvelo, Republic of Georgia
+tbilisi;;Tbilisi
+india;;India
+india_;;India_
+republicofindia;;Republic of India
+dravida;;Dravida
+kashmir;;Kashmir
+lakshadweep;;Lakshadweep
+northindia;;North India
+southindia;;South India
+ahmedabad;;Ahmedabad
+amdavad;;Ahmedabad (Amdavad)
+alappuzha;;Alappuzha
+aligarh;;Aligarh
+amritsar;;Amritsar
+aparnasarovar;;Aparna Sarovar
+asansol;;Asansol
+bangalore;;Bangalore
+bharatpur;;Bharatpur
+bhayandar;;Bhayandar
+bhilai;;Bhilai
+bhopal;;Bhopal
+chamba;;Chamba
+chandigarh;;Chandigarh
+chennai;;Chennai
+chennaicity;;Chennai City
+chikmagalur;;Chikmagalur
+coimbatore;;Coimbatore
+dehradun;;Dehradun
+dehraduncIty;;Dehradun City
+delhi;;Delhi
+durgapur;;Durgapur
+goa;;Goa
+hyderabad;;Hyderabad
+jabalpur;;Jabalpur
+jaipur;;Jaipur
+jammu;;Jammu
+jodhpur;;Jodhpur
+jorhat;;Jorhat
+kanyakumari;;Kanyakumari
+katihar;;Katihar
+kishtwar;;Kishtwar
+kochi;;Kochi
+kolhapur;;Kolhapur
+kolkata;;Kolkata
+kollam;;Kollam
+kodaikanal;;Kodaikanal
+kothamangalam;;Kothamangalam
+lucknow;;Lucknow
+mangalore;;Mangalore
+meerut;;Meerut
+mumbai;;Mumbai
+mysore;;Mysore
+mysuru;;Mysore (Mysuru)
+nagpur;;Nagpur
+nashik;;Nashik
+newdelhi;;New Delhi
+palwal;;Palwal
+patna;;Patna
+puducherry;;Puducherry
+pune;;Pune
+ranchi;;Ranchi
+rishikesh;;Rishikesh
+solapur;;Solapur
+southdelhi;;South Delhi
+tirupati;;Tirupati
+trivandrum;;Trivandrum
+tuticorin;;Tuticorin
+udaipur;;Udaipur
+vashi;;Vashi
+vijayawada;;Vijayawada
+visakhapatnam;;Visakhapatnam
+andaman_and_nicobar;;Andaman and Nicobar
+assam;;Assam
+bihar;;Bihar
+chhattisgarh;;Chhattisgarh
+gujarat;;Gujarat
+himachalpradesh;;Himachal Pradesh
+jharkhand;;Jharkhand
+karnataka;;Karnataka
+kerala;;Kerala
+maharashtra;;Maharashtra
+mizoram;;Mizoram
+odisha;;Odisha
+punjab;;Punjab
+rajasthan;;Rajasthan
+sikkim;;Sikkim
+tamilnadu;;Tamil Nadu
+telangana;;Telangana
+uttarpradesh;;Uttar Pradesh
+uttarakhand;;Uttarakhand
+westbengal;;West Bengal
+indonesia;;Indonesia
+indo;;Indo
+JavaIndonesia;;Java
+Lombok;;Lombok
+RajaAmpat;;Raja Ampat
+sumatra;;Sumatra
+aceh;;Aceh
+bali;;Bali
+Bengkulu;;Bengkulu
+Jambi;;Jambi
+MALUKU;;Maluku
+westpapua;;West Papua
+BandarLampung;;Bandar Lampung
+Bandung;;Bandung
+batam;;Batam
+bekasi;;Bekasi
+bogor;;Bogor
+jakarta;;Jakarta
+lhokseumawe;;Lhokseumawe
+Makassar;;Makassar
+Malang;;Malang
+Medan;;Medan
+MedanID;;Medan
+pluit;;Pluit
+Pontianak;;Pontianak
+semarang;;Semarang
+surabaya;;Surabaya
+ubud;;Ubud
+jogja;;Yogyakarta
+iran;;Iran
+iranian;;Iranian
+persia;;Persia
+Ardabil;;Ardabil
+Karaj;;Karaj
+KoverdanBandarLengeh;;Koverdān
+Mashhad;;Mashhad
+Rasht;;Rasht
+south_azerbaijan;;South Azerbaijan
+tabriz;;Tabriz
+tehran;;Tehran
+Urmia;;Urmia
+Zahedan;;Zahedan
+iraq;;Iraq
+assyria;;Assyria
+Arbil;;Arbil
+basra;;Basra
+kirkuk;;Kirkuk
+Mosul;;Mosul
+Sulaymaniyah;;Sulaymaniyah
+israel;;Israel
+israeddit;;Israeddit
+mercaz;;Mercaz
+Yisrael;;Yisrael
+Ashdod;;Ashdod
+Azor;;Azor
+Haifa;;Haifa
+jerusalem;;Jerusalem
+Modiin;;Modi&#39;in
+telaviv;;Tel Aviv
+newsokur;;newsokur
+japan;;Japan
+ja;;JA
+nihon;;Nihon
+Nippon;;Nippon
+chiba;;Chiba
+fukuoka;;Fukuoka
+hiroshima;;Hiroshima
+Hokkaido;;Hokkaido
+Inuyama;;Inuyama
+kagoshima;;Kagoshima
+kansai;;Kansai
+kichijoji;;Kichijoji
+kobecity;;Kobe
+Kumamoto;;Kumamoto
+Kyoto;;Kyoto
+Kyushu;;Kyushu
+mie;;Mie
+Myoko;;Myoko
+nagoya;;Nagoya
+niigata;;Niigata
+okinawa;;Okinawa
+osaka;;Osaka
+Saitama;;Saitama
+sapporo;;Sapporo
+sendai;;Sendai
+shikoku;;Shikoku
+tokyo;;Tokyo
+TsuzukikuYokohama;;Tsuzuki-ku
+Yokohama;;Yokohama
+yokosuka;;Yokosuka
+jordan;;Jordan
+Amman;;Amman
+kazakhstan;;Kazakhstan
+Qazaqstan;;Qazaqstan
+kazakstan;;Kazakstan
+almaty;;Almaty
+almatycity;;Almaty City
+astana;;Astana
+shymkent;;Shymkent
+northkorea;;North Korea
+koreaDPR;;Korea, DPR
+rason;;Rason
+pyongyang;;Pyongyang
+korea;;Korea
+southkorea;;South Korea
+south_korea;;South_Korea
+ansan;;Ansan
+busan;;Busan
+changwon;;Changwon
+cheonan;;Cheonan
+Daegu;;Daegu
+daejeon;;Daejeon
+gimhae;;Gimhae
+gwangju;;Gwangju
+gyeongju;;Gyeongju
+hongdae;;Hongdae
+Incheon;;Incheon
+jeonju;;Jeonju
+Jeju;;Jeju
+jejuisland;;Jeju Island
+Pyeongchang;;Pyeongchang
+pyeongtaek;;Pyeongtaek
+Seongnam;;Seongnam
+seoul;;Seoul
+Suwon;;Suwon
+ulsan;;Ulsan
+kurdistan;;Kurdistan
+rojava;;Rojava
+kuwait;;Kuwait
+kyrgyzstan;;Kyrgyzstan
+bishkek;;Bishkek
+laos;;Laos
+Vientiane;;Vientiane
+lebanon;;Lebanon
+libnan;;Libnān
+Liban;;Liban
+beirut;;Beirut
+malaysia;;Malaysia
+Ipoh;;Ipoh
+johor;;Johor
+johor_bahru_malaysia;;Johor Bahru
+kelantan;;Kelantan
+klang;;Klang
+kualalumpur;;Kuala Lumpur
+kuantan;;Kuantan
+penang;;Penang
+puchong;;Puchong
+Sabah;;Sabah
+sandakan;;Sandakan
+Sarawak;;Sarawak
+selangor;;Selangor
+seremban;;Seremban
+Subangjaya;;Subang Jaya
+ttdi;;Taman Tun Dr. Ismail
+Terengganu;;Terengganu
+maldives;;Maldives
+mongolia;;Mongolia
+darkhan;;Darkhan
+Erdenet;;Erdenet
+ulaanbaatar;;Ulaanbaatar
+nepal;;Nepal
+Banepa;;Banepa
+biratnagar;;Biratnagar
+kathmandu;;Kathmandu
+pokhara;;Pokhara
+oman;;Oman
+muscat;;Muscat
+pakistan;;Pakistan
+faisalabad;;Faisalabad
+gujranwala;;Gujranwala
+islamabad;;Islamabad
+karachi;;Karachi
+lahore;;Lahore
+Peshawar;;Peshawar
+Quetta;;Quetta
+saghar;;Saghar
+palestine;;Palestine
+Gaza;;Gaza
+Nablus;;Nablus
+Ramallah;;Ramallah
+WestBank;;West Bank
+philippines;;Philippines
+Pacita;;Southern Philippines
+Angeles;;Angeles City
+bacolodcity;;Bacolod City
+bogocity;;Bogo City
+cagayandeoro;;Cagayan de Oro
+calamba;;Calamba
+cebu;;Cebu
+davao;;Davao
+davaocity;;Davao City
+gensan;;General Santos (Gensan)
+generalsantos;;General Santos
+iloilo;;Iloilo
+makati;;Makati City
+mnl;;Manila
+naga;;Naga
+nagacity;;Naga City
+NuevaEcija;;Nueva Ecija
+palawan;;Palawan
+Paranaque;;Parañaque
+quezon;;Quezon City
+zambales;;Zambales
+zamboanga;;Zamboanga
+qatar;;Qatar
+doha;;Doha
+saudiarabia;;Saudi Arabia
+KingdomofSaudiArabia;;Kingdom of Saudi Arabia
+CityOfJeddah;;Jeddah
+riyadh;;Riyadh
+RiyadhVision;;Riyadh Vision
+yanbu;;Yanbu al Sinayah
+singapore;;Singapore
+srilanka;;Sri Lanka
+Colombo;;Colombo
+Jaffna;;Jaffna
+SriPadaya;;Sri Padaya
+wadduwa;;Wadduwa
+Syria;;Syria
+Aleppo;;Aleppo
+Damascus;;Damascus
+Homs;;Homs
+latakia;;Latakia
+taiwan;;Taiwan
+RepublicOfChina;;Republic of China
+aitaiwan;;Ai Taiwan
+kaohsiung;;Kaohsiung
+taipei;;Taipei
+tajikistan;;Tajikistan
+dushanbe;;Dushanbe
+thailand;;Thailand
+Siam;;Siam
+everythingthai;;Everything Thai
+bangkok;;Bangkok
+BKK;;Bangkok (BKK)
+Buriram;;Buriram
+ChiangMaiThailand;;Chiang Mai
+HuaHin;;Hua Hin
+jomtien;;Jomtien
+Khao_Lak_Thailand;;Khao Lak
+KohChangIsland;;Koh Chang
+Lanta;;Koh Lanta
+Samui;;Koh Samui
+Krabi;;Krabi
+Pattaya;;Pattaya
+PattayaTH;;Pattaya TH
+phuket;;Phuket
+phuket_thailand;;Phuket TH
+Timor;;Timor
+timorleste;;Timor-Leste
+EastTimor;;East Timor
+turkmenistan;;Turkmenistan
+Ashgabat;;Ashgabat
+uae;;UAE
+abudhabi;;Abu Dhabi
+Abu_Dhabi;;Abu_Dhabi
+AlAinCity;;Al Ain
+dubai;;Dubai
+Fujairah;;Fujairah
+RasAlKhaimah;;Ras al-Khaimah
+sharjah;;Sharjah
+uzbekistan;;Uzbekistan
+Bukhara;;Bukhara
+samarkand;;Samarkand
+Samarkand_Stuff;;Samarkand UZ
+Tashkent;;Tashkent
+vietnam;;Vietnam
+VietNamCongHoa;;Việt Nam Cộng Hòa
+DaNang;;Da Nang
+hanoi;;Hanoi
+hochiminh;;Ho Chi Minh
+hochiminhcity;;Ho Chi Minh City
+saigon;;Saigon
+vinh;;Vinh
+Yemen;;Yemen

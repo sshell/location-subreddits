@@ -1,0 +1,3264 @@
+01535;;North Brookfield (01535)
+01960;;Peabody (01960)
+06443;;Madison (06443)
+12901;;Plattsburgh (12901)
+219;;Northwest Indiana (219)
+251;;Southwest Alabama (251)
+321;;Brevard County (321)
+386;;Northern Florida (386)
+407;;Orlando Area (407)
+413;;Western MA (413)
+44646;;Massillon (44646)
+609;;Southeastern &amp; Central (609)
+618;;Southern Illinois (618)
+757;;Southeast Virginia (757)
+772;;Treasure Coast (772)
+863;;Polk County (863)
+905;;Southern Ontario (905)
+909;;San Bernardino (909)
+94901;;San Rafael (94901)
+AbbevilleSC;;Abbeville
+Acton;;Acton
+AlaskaHighway;;Alaska Highway
+AlertCanada;;Alert
+AleutianIslands;;Aleutian Islands
+Alexandria_Virginia;;Alexandria
+Allegany;;Allegany State Park
+AlleghanyCo;;Alleghany County
+Allen;;Allen
+Allentx;;Allen TX
+AllwoodManor;;Allwood Manor
+Almonte;;Almonte
+AltonNews;;Alton
+Amesbury;;Amesbury
+Anacortes;;Anacortes
+Anaheim;;Anaheim
+Anchorage;;Anchorage
+AndersonIN;;Anderson
+AndersonSC;;Anderson
+AndersonValley;;Anderson Valley
+Annex;;Annex
+Anniston;;Anniston
+Ansonia;;Ansonia
+Antigonish;;Antigonish
+ArabAlabama;;Arab
+Arcata;;Arcata
+ArlingtonHeights;;Arlington Heights
+Armagh;;Armagh
+Aroostook;;Aroostook County
+Arvada;;Arvada
+Aspen;;Aspen
+Astoria_Oregon;;Astoria
+AtwaterVillage;;Atwater Village
+AuburnCalifornia;;Auburn CA
+AuburnNY;;Auburn
+Auburn_GA;;Auburn
+Auburndale;;Auburndale
+AuroraIL;;Aurora IL
+Austin;;Austin
+Avenal;;Avenal
+Aylmer;;Aylmer
+Bagdad;;Bagdad
+Bakersfield;;Bakersfield
+BakersfieldCA;;Bakersfield CA
+BaldwinCity;;Baldwin City
+Bancroft;;Bancroft
+Bardstown;;Bardstown
+BarrieOntario;;Barrie ON
+BarrowAK;;Barrow
+BartlettIllinois;;Bartlett
+Batavia;;Batavia
+Batesville;;Batesville
+BatesvilleUnited;;Batesville
+Bathgate;;Bathgate
+Bathurst;;Bathurst
+BayArea;;Bay Area
+BayCityMichigan;;Bay City
+BayonneNJ;;Bayonne
+Beauce;;Beauce
+Beaumont;;Beaumont
+BeaumontCa;;Beaumont
+BeaverCounty;;Beaver County
+BeaverPA;;Beaver
+BeckleyOnReddit;;Beckley
+BelAirMD;;Bel Air
+BellCountyTX;;Bell County
+BellevilleOntario;;Belleville
+BellevueKY;;Bellevue
+Belmar;;Belmar
+Beltsville;;Beltsville
+Bethalto;;Bethalto
+BethelAK;;Bethel
+BeverlyBeach;;Beverly Beach
+BigBear;;Big Bear
+BigBendTX;;Big Bend National Park
+Binbrook;;Binbrook
+Bishop;;Bishop
+BismarckMandan;;Bismarck-Mandan
+BlackstoneMA;;Blackstone
+Blairstown;;Blairstown
+BlockIsland;;Block Island
+BloomfieldHills;;Bloomfield Hills
+BloomfieldNM;;Bloomfield
+Bloomington_Ca;;Bloomington
+Bloomsburg;;Bloomsburg
+Bluemtn;;Blue Mountain
+BonnydoonCA;;Bonny Doon
+BordentownNJ;;Bordentown
+BoulderCreek;;Boulder Creek
+Brea;;Brea
+Breckenridge;;Breckenridge
+BridgeportCT;;Bridgeport
+Bridgeton;;Bridgeton
+Brillion;;Brillion
+BroadBrookCT;;Broad Brook
+Brockville;;Brockville
+Brookhaven;;Brookhaven
+Brookings;;Brookings
+Broomfield;;Broomfield
+Brownsville;;Brownsville
+Brownwood_Texas;;Brownwood
+BrunswickMD;;Brunswick
+BuenaPark;;Buena Park
+BuffaloGrove;;Buffalo Grove
+BunkerMissouri;;Bunker
+BurlingtonNC;;Burlington
+Burlingtoniowa;;Burlington
+ButlerPA;;Butler
+CBNL;;Corner Brook
+CabotArkansas;;Cabot
+Calera;;Calera
+CalhounCounty;;Calhoun County
+CalhounFalls;;Calhoun Falls
+CaliforniaCity;;California City
+Camarillo;;Camarillo
+Camberville;;Camberville
+CambridgeCityHall;;Cambridge City Hall
+Cambridge_Ohio;;Cambridge
+CamdenCountyNJ;;Camden County
+CamdenGA;;Camden
+Campbell;;Campbell
+CantonIL;;Canton
+CapitolHillSea;;Capitol Hill
+Carbondale;;Carbondale
+Carlstadt;;Carlstadt
+Carmel;;Carmel
+CarmelValley;;Carmel Valley
+Carpentersville;;Carpentersville
+CarrolltonTX;;Carrollton
+CarsonCA;;Carson
+Carstairs;;Carstairs
+Cascadia;;Cascadia
+CastleRockWa;;Castle Rock
+Castro;;Castro
+Ceciltucky;;Cecil County
+CedarCity;;Cedar City
+CedarPark;;Cedar Park
+CentralPark;;Central Park
+Champaign;;Champaign
+CharlestonWV;;Charleston
+Chateauguay;;Châteauguay
+Chatsworth;;Chatsworth
+ChelseaMA;;Chelsea
+Chemainus;;Chemainus
+Chequamegon_Bay_WI;;Chequamegon Bay
+CherryHillNJ;;Cherry Hill
+ChesterfieldVA;;Chesterfield County
+ChestnutHill;;Chestnut Hill
+Cheverly;;Cheverly
+Chezzetcook;;Head of Chezzetcook
+ChicoCA;;Chico
+ChillicotheMissouri;;Chillicothe
+Chipman;;Chipman
+ChulaVista;;Chula Vista
+CityOfHenderson;;Henderson
+CityofMentor;;Mentor
+CityofRiverside;;Riverside
+Claremont;;Claremont
+Claremore;;Claremore
+Clermont;;Clermont
+ClermontFL;;Clermont FL
+ClovisNewMexico;;Clovis
+CoachellaValley;;Coachella Valley
+CobbCounty;;Cobb County
+Cobourg;;Cobourg
+Cochran;;Cochran
+CochraneAB;;Cochrane
+Cody_WY;;Cody
+ColfaxIowa;;Colfax
+CollegeHill;;College Hill
+Collierville;;Collierville
+CollinCounty;;Collin County
+CollinsBeach;;Collins Beach
+ConcordMA;;Concord
+ConejoValley;;Conejo Valley
+Conroe;;Conroe
+CoolidgeCorner;;Coolidge Corner
+Coopersville;;Coopersville
+Cordova;;Cordova
+CornwallOnt;;Cornwall
+Corona;;Corona
+Cortez;;Cortez
+CovingtonWA;;Covington
+Cranbury;;Cranbury
+Cresskill;;Cresskill
+CreswellOR;;Creswell
+CrownPointIndiana;;Crown Point
+Cullman;;Cullman
+CummingGA;;Cumming GA
+Cutten;;Cutten
+Cuyahoga;;Cuyahoga
+Danbury;;Danbury
+DandridgeTN;;Dandridge
+Danville;;Danville
+DanvilleKY;;Danville
+Dawsonville;;Dawsonville
+DaytonaBeach;;Daytona Beach
+DeSotoKS;;De Soto
+DeathValleyNP;;Death Valley National Park
+Decatur;;Decatur
+Delafield;;Delafield
+DelhiON;;Delhi
+DeltaBC;;DeltaBC
+DeltaBritishColumbia;;Delta
+DenhamSprings;;Denham Springs
+DentonNC;;Denton
+DerbyKansas;;Derby
+DickensonVA;;Dickenson County
+Dinuba;;Dinuba
+Dirty530;;Dirty530 (NE California)
+Dixon;;Dixon
+Dorchester;;Dorchester
+Dorval;;Dorval
+DothanAL;;Dothan AL
+DoverDE;;Dover
+DownersGrove;;Downers Grove
+Drumheller;;Drumheller
+DuBoisPA;;DuBois
+DuluthGA;;Duluth
+DuncanBC;;Duncan
+DuncanOk;;Duncan
+Dundas;;Dundas
+DunedinFlorida;;Dunedin
+Dunwoody;;Dunwoody
+Duvall;;Duvall
+Duvall_Washington;;Duvall WA
+EagleColorado;;Eagle
+EastCounty;;East County
+EastLongmeadow;;East Longmeadow
+EasternCT;;Eastern Connecticut
+EasternOregon;;Eastern Oregon
+EasternPassage;;Eastern Passage
+Eastgreenwich;;East Greenwich
+Easthampton;;East Hampton
+Easton;;Easton
+Eatonville;;Eatonville
+EchoPark;;Echo Park
+EdgefieldSC;;Edgefield
+Edinboro;;Edinboro
+Edmond;;Edmond
+EdmondOK;;Edmond OK
+Edmonds;;Edmonds
+Edmonton;;Edmonton
+EdwardsAFB;;Edwards Air Force Base
+ElSegundo;;El Segundo
+ElginTx;;Elgin
+ElkMountain;;Elk Mountain
+Elkhart;;Elkhart
+Ellenton;;Ellenton
+Ellijay;;Ellijay
+Elmhurst;;Elmhurst
+Elyria;;Elyria
+Emeryville;;Emeryville
+Emmitsburg;;Emmitsburg
+Emporia;;Emporia
+EnfieldCT;;Enfield
+EnglewoodLittletonCO;;Englewood-Littleton
+ErieCO;;Erie CO
+ErieColorado;;Erie
+Escanaba;;Escanaba
+EssexOntario;;Essex
+EssexWhat;;Essex
+EstadosUnidos;;Estados Unidos
+EstevanSK;;Estevan
+Eunice;;Eunice
+Everglades;;Everglades National Park
+FalconCrest;;Falcon Crest
+FallRiverNS;;Fall River
+FargoMoorhead;;Fargo-Moorhead
+FargoMoorhead;;Moorhead-Fargo
+Farmersville;;Farmersville
+FarmingtonHills;;Farmington Hills
+FarmingtonValley;;Farmington Valley
+FayetteCounty;;Fayette County
+FayettevilleAr;;Fayetteville AR
+Ferndale;;Ferndale
+FerndaleWashington;;Ferndale
+Findlay;;Findlay
+Fishers;;Fishers
+Flemington;;Flemington
+FlorenceKY;;Florence
+FloridaKeysandKeyWest;;Florida Keys-Key West
+FlushingQueens/;;Flushing
+ForestHills;;Forest Hills
+Foresthill;;Foresthill
+FortBraggCA;;Fort Bragg
+FortLee;;Fort Lee
+FortMyers;;Fort Myers
+FortSaskatchewan;;Fort Saskatchewan
+FortStJohn;;Fort St. John
+FourCorners;;Four Corners (AZ, CO, NM, UT)
+FourCorners;;Four Corners Region
+Frankford;;Frankford
+FranklinMA;;Franklin MA
+FranklinSquare;;Franklin Square
+Fresno;;Fresno
+Fruitport;;Fruitport
+FtMyers_FL;;Fort Myers FL
+Fullerton;;Fullerton
+FultonMo;;Fulton
+Fuquayvarina;;Fuquay Varina
+GSMNP;;Great Smoky Mountain National Park
+GVRD;;Greater Victoria Regional District
+GabriolaIsland;;Gabriola Island
+Galena;;Galena
+GardenCityKansas;;Garden City Kansas
+GardenCityMI;;Garden City
+GarlandTX;;Garland
+Gaspesie;;Gaspésie
+Genesee;;Genesee County
+GeneseoIllinois;;Geneseo
+GenevaIL;;Geneva
+GenevaNY;;Geneva
+Gettysburg;;Gettysburg
+Gilbert;;Gilbert
+GilbertArizona;;Gilbert
+Gilroy;;Gilroy
+GlacierPark;;Glacier Park
+Gladstone;;Gladstone
+GlastonburyCT;;Glastonbury
+Glencove;;Glen Cove
+GlendaleAZ;;Glendale
+Glenelg;;Glenelg
+GlensFallsNY;;Glens Falls NY
+GlenwoodIowa;;Glenwood
+GloucesterMA;;Gloucester MA
+GoldenCO;;Golden
+Gooding;;Gooding
+GoodyearAZ;;Goodyear
+GranadaHills;;Granada Hills
+GrandHaven;;Grand Haven
+GrandHavenMI;;Grand Haven MI
+GrandManan;;Grand Manan
+Grandviewheightsohio;;Grandview Heights
+GraniteCity;;Granite City
+Granvilleohio;;Granville OH
+Grayslakeillinois;;Grayslake IL
+GreatBarrington;;Great Barrington
+GreaterGrandForks;;Greater Grand Forks
+Greeley;;Greeley
+Greenfield;;Greenfield
+Greentown;;Greentown
+Greenwich;;Greenwich
+Greer;;Greer
+GrotonMA;;Groton
+GulfportFL;;Gulfport
+Gypsum;;Gypsum
+HaciendaHeights;;Hacienda Heights
+Hanford;;Hanford
+HarfordMD;;Harford
+HarlanKY;;Harlan
+Harlingen;;Harlingen
+HarrisburgNC;;Harrisburg
+Hartselle;;Hartselle
+Hayward;;Hayward
+Henrycounty;;Henry County
+Hermitage;;Hermitage
+HernandoCountyFlorida;;Hernando County
+Hershey;;Hershey
+HesperiaMI;;Hesperia
+HighDesert;;High Desert
+Highland;;Highland
+HighlandVillage;;Highland Village
+HillCountry;;Texas Hill Country
+Hillsborough;;Hillsborough
+HinesvilleGA;;Hinesville
+Hinton;;Hinton
+Hockinson;;Hockinson
+HollySpringsNC;;Holly Springs
+Hollydale;;Hollydale
+HollywoodCA;;Hollywood
+HomesteadFL;;Homestead
+HooverAL;;Hoover AL
+Hopkunton;;Hopkunton
+Hornell;;Hornell
+Horsham;;Horsham
+HowardCountyMD;;Howard County
+HudsonMA;;Hudson
+HudsonNY;;Hudson
+Hudsonville;;Hudsonville
+HumboldtCounty;;Humboldt County
+Humboldt_County;;Humboldt_County
+HuntingtonBeach;;Huntington Beach
+HuntingtonIN;;Huntington
+HuntingtonNY;;Huntington NY
+HuntingtonVA;;Huntington
+HuntingtonWV;;Huntington
+HydeParkMA;;Hyde Park
+Imperial_Beach;;Imperial Beach
+InMenlo;;Menlo
+IndianTrailNC;;Indian Trail
+IndianaPA;;Indiana County
+InlandEmpire;;Inland Empire
+Inuvik;;Inuvik
+IrishHills;;Irish Hills
+Irvine;;Irvine
+Issaquah;;Issaquah
+JacksonvilleAL;;Jacksonville
+JamaicaPlain;;Jamaica Plain
+Jamul;;Jamul
+Janesville;;Janesville
+JerichoUnderhill;;Jericho-Underhill
+JohnsonCounty;;Johnson County
+Joppatowne;;Joppatowne
+JupiterFL;;Jupiter
+Kahnawake;;Kahnawake Mohawk Territory
+Kenai;;Kenai
+KendallSquare;;Kendall Square
+Kendallville;;Kendallville
+KenesawNebraska;;Kenesaw
+Kennedale;;Kennedale
+Keswick;;Keswick
+KeyLargo;;Key Largo
+KeyWest;;Key West
+KingAllentown;;Allentown
+KingstonOntario;;Kingston
+Kingsville;;Kingsville
+Kitimat;;Kitimat
+Kremmling;;Kremmling
+KremmlingCo;;Kremmling CO
+LAMaine;;Lewiston-Auburn (LAMaine)
+LAWestside;;Los Angeles Westside
+LaCrescentaCA;;La Crescenta
+LaHabraCA;;La Habra CA
+LaPresa;;La Presa
+LaPuente;;La Puente
+LaQuinta;;La Quinta
+LaSalleCounty;;La Salle County
+La_Junta;;La Junta
+Lacey;;Lacey
+Lacombe;;Lacombe
+LaderaRanch;;Ladera Ranch
+LafayetteCA;;Lafayette
+LakeCity;;Lake City
+LakeCountyCa;;Lake County CA
+LakeHavasuCityAZ;;Lake Havasu City AZ
+LakeLouise;;Lake Louise
+LakeWales;;Lake Wales
+LakewoodRanch;;Lakewood Ranch
+Lakewood_CA;;Lakewood
+LancasterPA;;Lancaster PA
+Langford;;Langford
+LangleyWA;;Langley
+Lansdale;;Lansdale
+LasVegasNevada;;Las Vegas NV
+Lawndale;;Lawndale
+Leavenworth;;Leavenworth
+Lenawee;;Lenawee
+Lenexa;;Lenexa
+Lenoir;;Lenoir
+LewistonAuburn;;Lewiston-Auburn
+LewistonID;;Lewiston
+LexingtonKY;;Lexington KY
+LitchfieldPark;;Litchfield Park
+Littleton;;Littleton
+Livermore;;Livermore
+Logan;;Logan
+Logansport;;Logansport
+LondonOhio;;London
+LongBeach;;Long Beach
+LongPoint;;Long Point
+LongwoodFL;;Longwood
+Lorain;;Lorain
+LosAngeles;;Los Angeles
+LouisburgKS;;Louisburg
+LouisvilleCO;;Louisville CO
+LouisvilleColorado;;Louisville
+LowellMA;;Lowell MA
+LuVerne;;Lu Verne
+Ludington;;Ludington
+Ludlow;;Ludlow
+LudlowMA;;Ludlow MA
+Lumby;;Lumby
+Lunenburg;;Lunenburg
+LynnMA;;Lynn
+LynnwoodWA;;Lynnwood WA
+MQT;;Marquette
+MacombIL;;Macomb
+Madera;;Madera
+Madisonalabama;;Madison
+Magalia;;Magalia
+Makanda;;Makanda
+ManchesterTN;;Manchester
+ManhattanBeach;;Manhattan Beach
+Manitowoc;;Manitowoc
+MapleGroveMN;;Maple Grove
+Marana;;Marana
+Marblehead;;Marblehead
+MarcoIsland;;Marco Island
+Marengo;;Marengo
+MariettaOH;;Marietta
+Mariposa;;Mariposa
+Marktown;;Marktown
+Marshalltown;;Marshalltown
+Maryville;;Maryville
+MaryvilleTN;;Maryville
+MasonMI;;Mason
+Massena;;Massena
+MatSu;;Matsu Valley
+MayneIsland;;Mayne Island
+MaysLanding;;Mays Landing
+McCallIdaho;;McCall
+McHenry;;McHenry
+McminnvilleTN;;Mcminnville
+Mechanicsburg;;Mechanicsburg
+Medfield;;Medfield
+MedfordMass;;Medford
+MedinaOhio;;Medina
+Mendocino;;Mendocino
+Mendocino_Coast;;Mendocino_Coast
+Merced;;Merced
+MeridianTwp;;Meridian Township
+Mesquite;;Mesquite
+MesquiteTX;;Mesquite
+Methuen;;Methuen
+MetroBoston;;Boston Metro
+Metuchen;;Metuchen
+MichiganCityIndiana;;Michigan City
+MidMo;;Middle Missouri
+MiddlesexNJ;;Middlesex
+MiddletownOhio;;Middletown
+Middletownmd;;Middletown
+Midland;;Midland
+MileHighCity;;Denver (MileHighCity)
+Milford;;Milford
+MillValley;;Mill Valley
+Millis;;Millis
+Millville;;Millville
+MiltonFL;;Milton
+MiltonMA;;Milton
+Milwaukee;;Milwaukee
+Miraloma;;Mira Loma
+Miramichi;;Miramichi
+MissouriCity;;Missouri City
+Mocksville;;Mocksville
+Modesto;;Modesto
+MojaveNP;;Mojave National Park
+MonmouthIL;;Monmouth
+MonroeMI;;Monroe
+Monroe_County;;Monroe County
+MontTremblant;;Mont-Tremblant
+Montague;;Montague
+Montara;;Montara
+Montclairnj;;Montclair NJ
+MontereyBay;;Monterey Bay
+Montgomerycounty;;Montgomery County
+MooreOK;;Moore
+MorenoValley;;Moreno Valley
+Morinville;;Morinville
+MountBaker;;Mt. Baker
+MountPearl;;Mount Pearl
+MountVernonSquareDC;;Mt. Vernon Square
+MountVernonTriangleDC;;Mt. Vernon Triangle
+MountainHouseCA;;Mountain House
+Mountainhomearkansas;;Mountain Home
+MtBachelor;;Mt. Bachelor
+MtLebo;;Mt. Lebo(non)
+MuirWoods;;Muir Woods
+Mundelein;;Mundelein
+MustangOklahoma;;Mustang
+MyakkaCity;;Myakka City
+NCAL;;Northern California (NCAL)
+NEKentucky;;North East Kentucky
+NJMontclair;;Montclair
+NOLA;;NOLA (New Orleans)
+NWAReddit;;Northwest Arkansas (NWA)
+NWOK;;Northwest Oklahoma
+Nacogdoches;;Nacogdoches
+Nantucket;;Nantucket
+Narrowsburg;;Narrowsburg
+Natick;;Natick
+NatividadCalifornia;;Natividad
+NavarreNow;;Navarre
+Navasota;;Navasota
+NearWestSuburbs;;Chicago Near West Suburbs
+Nela;;Northeast Louisiana
+NewBaltimore;;New Baltimore
+NewBrunswickNJ;;New Brunswick
+NewHopePA;;NewHope
+NewProvidence;;New Providence
+NewRiver;;New River
+New_Scotland;;New Scotland
+NewarkCA;;Newark
+NewaygoCounty;;Newaygo County
+Newmilford;;New Milford
+NewportBeachCA;;Newport Beach CA
+NewportOR;;Newport
+Niceville;;Niceville
+NoBe;;North Bethesda-White Flint (NoBe)
+NoCo;;Northen Colorado
+Nogales;;Nogales
+Norco;;Norco
+NorfolkON;;Norfolk
+NormalIL;;Normal
+NorthAdams;;North Adams
+NorthBethesda;;North Bethesda
+NorthCentralIllinois;;North Central Illinois
+NorthCoastBC;;North Coast
+NorthFlorida;;North Florida
+NorthHatley;;North Hatley
+NorthLiberty;;North Liberty
+NorthOlmsted;;North Olmsted
+NorthRidgeville;;North Ridgeville
+NorthWestBC;;Northwest British Columbia
+North_Colorado;;North Colorado
+NorthamptonMA;;Northampton MA
+NortheastCT;;Northeast CT
+NortheastConnecticut;;Northeast Connecticut
+NortheastLA;;Northeast Los Angeles
+Northville;;Northville
+NorthwestIndiana;;Northwest Indiana
+OakBayBritishColumbia;;Oak Bay
+OakLawn;;Oak Lawn
+OakRidges_Ontario;;Oak Ridges
+Oakdale;;Oakdale
+Oakfield;;Oakfield
+OakvilleSTL;;Oakville
+OakwoodGA;;Oakwood
+OceanCityNewJersey;;Ocean City
+OdessaTX;;Odessa
+Ogdensburg;;Ogdensburg
+Oildale;;Oildale
+Okolona;;Okolona
+Olympia;;Olympia
+OrangeCity;;Orange City
+OrangeCounty;;Orange County
+Orem;;Orem
+Orick;;Orick
+OrientME;;Orient
+OrmondBeachFL;;Ormond Beach
+Oshawa;;Oshawa
+Outaouais;;Outaouais
+OwensboroKY;;Owensboro KY
+OxfordAL;;Oxford
+PBville;;Leadville
+PCB;;Panama City Beach (PCB)
+PacificNorthwest;;Pacific Northwest
+PacificPalisades;;Pacific Palisades
+PalestineTX;;Palestine
+PalmerAK;;Palmer
+Palmetto;;Palmetto
+Parkridge;;Park Ridge
+Parksville;;Parksville
+ParmaMI;;Parma
+Pasadena;;Pasadena
+Pasco;;Pasco County
+Pearland;;Pearland
+Pelham;;Pelham
+PerfectionValley;;Perfection Valley
+PeterboroughNH;;Peterborough
+PeytonColorado;;Peyton
+PhilmontNY;;Philmont
+Pickerington;;Pickerington
+Picton;;Picton
+PikeCountyPA;;Pike County
+PittsfieldMass;;Pittsfield
+Pittsfieldnh;;Pittsfield
+Plainfield;;Plainfield
+PlainfieldConn;;Plainfield
+PlantCity;;Plant City
+PleasantHillMo;;Pleasant Hill
+PleasantvilleIA;;Pleasantville
+PlymouthMI;;Plymouth
+PontiacIllinois;;Pontiac
+PortCoquitlam;;Port Coquitlam
+PortDover;;Port Dover
+PortRenfrew;;Port Renfrew
+PortStLucie;;Port St. Lucie
+PortWashington;;Port Washington
+PortagePark;;Portage Park
+PortlandMaine;;Portland
+PowellRiverBC;;Powell River
+PrinceEdwardCounty;;Prince Edward County
+PrinceRupert;;Prince Rupert
+Prince_Albert;;Prince Albert
+PuyallupWA;;Puyallup
+QualicumBeach;;Qualicum Beach
+QuayCounty;;Quay County
+QuebecLevis;;Lévis
+QueenAnnesCounty;;Queen Anne&#39;s County
+QueenCharlotteIslands;;Haida Gwaii
+Queensbury;;Queensbury
+Quesnel;;Quesnel
+Quispamsis;;Quispamsis
+RMNP;;Rocky Mountain National Park
+Ragland;;Ragland
+RamonaCalifornia;;Ramona
+Rayville;;Rayville
+ReadingMA;;Reading
+ReadingPA;;Reading
+RealMarshVegas;;Marshfield
+Redding;;Redding
+Redlands;;Redlands
+RedmondOR;;Redmond
+RedwoodCity;;Redwood City
+Reisterstown;;Reisterstown
+RenoNV;;Reno NV
+Repentigny;;Repentigny
+Reseda;;Reseda
+RichmondBC;;Richmond
+RichmondCA;;Richmond
+Ridgecrest;;Ridgecrest
+RidgeportIndiana;;Ridgeport
+Rimouski;;Rimouski
+Ringwood;;Ringwood
+RiveSud;;Rive-Sud (South Shore)
+RiversideCounty;;Riverside County
+Riverslime;;Riverside (Riverslime)
+RiverviewNB;;Riverview
+RockdaleCounty;;Rockdale County
+Rockhill;;Rockhill
+RockledgeFL;;Rockledge
+Rockville;;Rockville
+RockwoodTN;;Rockwood
+RockyHill;;Rocky Hill
+Rogersville;;Rogersville
+Roseville;;Roseville
+RoswellNM;;Roswell
+RowlandHeights;;Rowland Heights
+Rowlett;;Rowlett
+RoyseCity;;Royse City
+RuralNWIowa;;Northwest Iowa
+Rutherfordnj;;Rutherford
+SEGANEFL;;Southeast Georgia
+SEKI;;Sequoia &amp; Kings Canyon National Parks
+SFV;;San Fernando Valley
+SKankakee;;Kankakee County
+SLV;;San Luis Valley
+SaanichPeninsula;;Saanich Peninsula
+SableIsland;;Sable Island
+Sackville;;Sackville
+Sacramento;;Sacramento
+Saddle_Hills_County;;Saddle Hills County
+SaginawBay;;Saginaw Bay
+SaginawMichigan;;Saginaw MI
+SaintJerome;;Saint-Jérôme
+Salamanca;;Salamanca
+SalemIN;;Salem
+SalemMA;;Salem
+Salida;;Salida
+Salkum;;Salkum
+SanAnselmo;;San Anselmo
+SanBernardino;;San Bernardino
+SanBernardinoCounty;;San Bernardino County
+SanBruno;;San Bruno
+SanCarlos;;San Carlos
+SanClemente;;San Clemente
+SanDiego;;San Diego
+SanFrancisco;;San Francisco
+SanJose;;San José
+SanMateoCounty;;San Mateo County
+Sandpoint;;Sandpoint
+Sandusky;;Sandusky
+Sandycity;;Sandy
+Sanford;;Sanford
+SanfordFL;;Sanford FL
+SanfordNC;;Sanford
+SantaBarbara;;Santa Barbara
+SantaClaritaValley;;Santa Clarita Valley
+SantaCruz;;Santa Cruz
+SantaCruzLocals;;Santa Cruz (locals)
+SantaMaria;;Santa Maria
+SantaMonicaMountains;;Santa Monica Mountains
+Santamonica;;Santa Monica
+Saugus;;Saugus
+SaultSteMarie;;Sault Sainte Marie
+SavannahTN;;Savannah
+Scaggsville;;Scaggsville
+Schlitterbahn;;Schlitterbahn
+ScottsValley;;Scotts Valley
+Scottsbluffnebraska;;Scottsbluff
+Scranton;;Scranton
+SeaIsleCity;;Sea Isle City
+Seabright;;Seabright
+SealBeach;;Seal Beach
+Seattle;;Seattle
+SeattleWA;;SeattleWA
+Seward;;Seward
+SharonMA;;Sharon
+SharpHill;;Sharp Hill
+SheffieldMa;;Sheffield
+SidneyBC;;Sidney
+Signalhill;;Signal Hill
+SilkCity;;Manchester
+SilverSpring;;Silver Spring
+Silverlake;;Silverlake
+Sitka;;Sitka
+SnohomishCounty;;Snohomish County
+Somers;;Somers
+SomersetKY;;Somerset
+SomersetNJ;;Somerset
+Sono;;South Norwalk
+SouthBayLA;;South Bay
+SouthBend;;South Bend
+SouthGARedditors;;South Georgia
+SouthSanFrancisco;;South San Francisco
+SouthWedge;;South Wedge
+SouthernOregon;;Southern Oregon
+Southington;;Southington
+Southlake;;Southlake
+Southland;;Southland
+SpartaWI;;Sparta
+SpringBranch;;Spring Branch
+SpringfieldOR;;Springfield
+Springfielddelco;;Springfield Delco
+SpruceGrove;;Spruce Grove
+StCharlesIL;;St. Charles
+StFrancisville;;St. Francisville
+StHelena;;St. Helena
+StLouisMO;;St. Louis MO
+StMartinsNB;;St. Martins
+St_Joseph;;St. Joseph
+Stafford;;Stafford
+StamfordCT;;Stamford CT
+Stanhood;;Stanwood
+StarValley;;Star Valley
+Starkville;;Starkville
+StauntonVA;;Staunton VA
+SteAnne;;Ste. Anne
+Steubenville;;Steubenville
+StonyPlain;;Stony Plain
+Stowe;;Stowe
+StratfordCT;;Stratford
+Stromsburg;;Stromsburg
+Subiaco;;Subiaco
+SuisunCA;;Suisun
+SummerdaleAL;;Summerdale
+Summerland;;Summerland
+Sumner;;Sumner
+SunValley;;Sun Valley
+SunnyIslesBeach;;Sunny Isles Beach
+SussexNB;;Sussex
+Sylvania;;Sylvania
+TakomaDC;;Takoma
+TalbotCounty;;Talbot County
+Talkeetna;;talkeetna
+Tehachapi;;Tehachapi
+TehamaCounty;;Tehama County
+Terrebonne;;Terrebonne
+TheBerkshires;;Berkshire County
+TheBlackHills;;Black Hills, the
+TheMaritimes;;The Maritimes
+TheOtherNewHaven;;New Haven
+ThePasMB;;The Pas
+ThetfordMines;;Thetford Mines
+ThomasvilleAL;;Thomasville
+Thompson_northdakota;;Thompson
+ThorntonPark;;Thornton Park
+Tobermory;;Tobermory
+Toccoa;;Toccoa
+TollandCT;;Tolland
+Tombstone;;Tombstone
+Tooele;;Tooele
+ToombsCounty;;Toombs County
+Townofcarver;;Carver
+Triangle;;Triangle
+Truro;;Truro
+Trussville;;Trussville
+Tucumcari;;Tucumcari
+Tulalip;;Tulalip
+TupeloMS;;Tupelo MS
+TurkeyPoint;;Turkey Point
+TurnersFalls;;Turners Falls
+UPmichigan;;Upper Peninsula
+UrbanaMD;;Urbana
+UtahValley;;Utah Valley
+VTown;;Victoria
+Valemount;;Valemount
+Vancouver_BC;;VancouverBC
+Vancouver_wa;;Vancouver WA
+VankleekHill;;Vankleek Hill
+VenangoCountyPA;;Venango County
+Venice_FL;;Venice FL
+Ventura;;Ventura
+Verdun;;Verdun
+VeronaWisconsin;;Verona
+Vevay;;Vevay
+VictoriaBeachMB;;Victoria Beach
+VillageofField;;Field
+Vilonia;;Vilonia
+Vineland;;Vineland
+Visalia;;Visalia
+WI_Boonies;;Wisconsin Boonies
+WakefieldMA;;Wakefield
+Walnut;;Walnut
+Walpole;;Walpole
+Waltham;;Waltham
+Warwick_NY;;Warwick
+WashingtonPA;;Washington
+Wasilla;;Wasilla
+WaterburyCT;;Waterbury
+WatertownCT;;Watertown
+Waterville;;Waterville
+Watsonville;;Watsonville
+WauseonOhio;;Wauseon
+Waynesville;;Waynesville
+Welland;;Welland
+WellingtonFL;;Wellington
+WestLinnOR;;West Linn
+WestPalmBeachFl;;West Palm Beach
+WestSpringfield;;West Springfield
+WestTown;;Chicago West
+WestValleyAZ;;West Valley
+WesternNebraska;;Western Nebraska
+Western_Mass;;Western_Mass
+WestfieldIndy;;Westfield
+WestfieldMA;;Westfield
+WestminsterMaryland;;Westminster
+WestonWV;;Weston
+WestportCT;;Westport
+WheatonMD;;Wheaton
+WheelingWV;;Wheeling
+WhiteLake;;White Lake
+WhitePlainsNY;;White Plains
+WhiteRock;;White Rock
+Whitehall;;Whitehall
+Whitehorse;;Whitehorse
+Whitinsville;;Whitinsville
+Whittier;;Whittier
+WhittierCA;;Whittier CA
+WilkesBarre;;Wilkes-Barre
+WilliamsonCountyTN;;Williamson County
+Williamstown;;Williamstown
+Willits;;Willits
+WillowGlen;;Willow Glen
+Wilmette;;Wilmette
+WilmingtonOH;;Wilmington
+WilsonNC;;Wilson
+WinchesterMass;;Winchester
+Windermere;;Windermere
+WindsorCalifornia;;Windsor
+Winnemucca;;Winnemucca
+WinonaLake;;Winona Lake
+WinterPark;;Winter Park
+Wisconsin;;Wisconsin
+Wittmann;;Wittmann
+WoodburyCT;;Woodbury
+Woodhaven;;Woodhaven
+Woodland;;Woodland
+Woodstockct;;Woodstock
+Wrentham;;Wrentham
+Wyoming;;Wyoming
+Yardley;;Yardley
+YarkerOntario;;Yarker
+YarmouthNovaScotia;;Yarmouth
+YellowSprings;;Yellow Springs
+YorbaLinda;;Yorba Linda
+YorkCountyPA;;York County
+Yorkville;;Yorkville
+Youngstown;;Youngstown
+ZionNP;;Zion NP
+ZionNationalPark;;Zion National Park
+Zionsville;;Zionsville
+abbotsford;;Abbotsford
+abbotsfordbc;;Abbotsford BC
+abilenetexas;;Abilene
+abitibi;;Abitibi-Témiscamingue
+acadiana;;Acadiana
+acadie;;Acadie
+acquackanonk;;Acquackanonk
+actonma;;Acton
+acworth;;Acworth
+adamsma;;Adams
+addingtonhighlands;;Addington Highlands
+adirondacks;;Adirondack Park
+agawam;;Agawam
+agloe;;Agloe
+agourahills;;Agoura Hills
+ahwatukeeAZ;;Ahwatukee
+airdrie;;Airdrie
+akron;;Akron
+alabama;;Alabama
+alameda;;Alameda
+alamogordo;;Alamogordo
+alaska;;Alaska
+albany;;Albany
+albany_newyork;;Albany NY
+albanyca;;Albany
+albanyga;;Albany
+albanypark;;Albany Park
+alberta;;Alberta
+albuquerque;;Albuquerque
+alexandriamn;;Alexandria
+algonquinpark;;Algonquin Provincial Park
+alhambra;;Alhambra
+allendale;;Allendale
+alliston;;Alliston
+allistonontario;;Alliston Ontario
+allstonrockcity;;Allston
+almaarkansas;;Alma
+almont;;Almont
+alpena;;Alpena
+alpharetta;;Alpharetta
+altadena;;Altadena
+alton;;Alton
+altoona;;Altoona
+amarillo;;Amarillo
+america;;America
+americancanyon;;American Canyon
+ames;;Ames
+amherst;;Amherst
+amory;;Amory
+amsterdamny;;Amsterdam
+andersoncounty;;Anderson County
+andersonvillechicago;;Andersonville
+andover;;Andover
+ankeny;;Ankeny
+annamariaisland;;Anna Maria Island
+annapolis;;Annapolis
+annapolisvalley;;Annapolis Valley
+annarbor;;Ann Arbor
+annearundelcountymd;;Anne Arundel County
+anokamn;;Anoka
+antelope;;Antelope
+antelopevalley;;Antelope Valley
+anthem;;Anthem
+antigo;;Antigo
+anzaborrego;;Anza Borrego Desert State Park
+apalachicola;;Apalachicola
+apopka;;Apopka
+appleton;;Appleton
+applevalley;;Apple Valley
+aransaspass;;Aransas Pass
+arcata;;Arcata
+arcticcircle;;Arctic Circle
+ardmore;;Ardmore
+arizona;;Arizona
+arkansas;;Arkansas
+arlington;;Arlington
+arlingtontx;;Arlington TX
+armatage;;Armatage
+armstrong;;Armstrong
+artesianm;;Artesia
+asburypark;;Asbury Park
+ascensionparish;;Ascension Parish
+ashdown;;Ashdown
+asheboro;;Asheboro
+asheville;;Asheville
+ashland;;Ashland
+ashlandkentucky;;Ashland
+ashlandky;;Ashland KY
+ashlandohio;;Ashland
+aston;;Aston
+astoria;;Astoria
+atascadero;;Atascadero
+atascocitatx;;Atascocita
+atchison;;Atchison
+athens;;Athens
+athensohio;;Athens
+athenstn;;Athens TN
+athensunofficial;;Athens
+atlanta;;Atlanta
+atlanticcity;;Atlantic City
+attleboro;;Attleboro
+auburn;;Auburn
+auburnca;;Auburn
+auburnlaketrails;;Auburn Lake Trails
+auburnwa;;Auburn
+augusta;;Augusta
+auroraco;;Aurora
+auroraillinois;;Aurora
+aurorane;;Aurora
+austinsanantonio;;Austin-San Antonio
+austintexas;;Austin TX
+aventura;;Aventura
+avondaleaz;;Avondale
+bainbridgeisland;;Bainbridge Island
+baldwincountyal;;Baldwin County
+baltimore;;Baltimore
+bamfield;;Bamfield
+banfflakelouise;;Banff National Park
+bangorme;;Bangor
+barre;;Barre
+barrie;;Barrie
+barringtonil;;Barrington
+barrowcounty;;Barrow County
+bartlett;;Bartlett
+bastroptx;;Bastrop
+batonrouge;;Baton Rouge
+battlecreek;;Battle Creek
+baxtersprings;;Baxter Springs
+baycitytx;;Bay City
+baylortn;;Baylor
+bayridge;;Bay Ridge
+baytown;;Baytown
+bayview;;Bayview
+bcstx;;Bryan College Station
+beacon;;Beacon
+beaconny;;Beacon NY
+beaufort;;Beaufort
+beautifulbc;;Beautiful BC
+beavercreek;;Beaver Creek
+beavercreekoh;;Beaver Creek
+beaverton;;Beaverton
+bedford;;Bedford
+beggs;;Beggs
+bellbrook;;Bellbrook
+bellechasse;;Belle Chasse
+belleriver;;Belle River
+belleview;;Belleview
+bellevilleIL;;Belleville
+bellevue;;Bellevue
+bellevuewa;;Bellevue WA
+bellingham;;Bellingham
+bellowsfalls;;Bellows Falls
+belmontca;;Belmont
+belmontshore;;Belmont Shore
+beloitwisconsin;;Beloit
+belton;;Belton
+bemidji;;Bemidji
+benbrook;;Benbrook
+bend;;Bend
+bendoregon;;Bend OR
+benicia;;Benicia
+bentonarkansas;;Benton
+bentonharbor;;Benton Harbor
+bentonville;;Bentonville
+bergencity;;Bergen City
+berkeley;;Berkeley
+berkeleyca;;Berkeley CA
+berksco;;Berks County
+bernalheights;;Bernal Heights
+bernardsville;;Bernardsville
+berwyn;;Berwyn
+bethelct;;Bethel
+bethelpark;;Bethel Park
+bethesda;;Bethesda
+bethlehem;;Bethlehem
+bettsville;;Bettsville
+beulah;;Beulah
+beverlyhills;;Beverly Hills
+bgohio;;Bowling Green
+bigisland;;Big Island
+bigsky;;Big Sky
+bigsur;;Big Sur
+billings;;Billings
+biloxi;;Biloxi
+binghamton;;Binghamton
+binghamtonny;;Binghamton NY
+birmingham;;Birmingham
+birminghammi;;Birmingham
+bisbee;;Bisbee
+bismarck;;Bismarck
+bitterroot;;Bitterroot Valley
+blackhills;;Black Hills
+blacksburg;;Blacksburg
+blair;;Blair
+blairstowne;;Blairstowne
+blanchard;;Blanchard
+bloomington;;Bloomington
+bloomingtonil;;Bloomington
+bloomingtonmn;;Bloomington
+bloomingtonnormal;;Bloomington-Normal
+blountsville;;Blountsville
+bluemont;;Bluemont
+bocachica;;Boca Chica
+boerne;;Boerne
+bogalusa;;Bogalusa
+boise;;Boise
+bolivarmo;;Bolivar
+bomontwv;;Bomont
+bonnyville;;Bonnyville
+boone;;Boone
+boonton;;Boonton
+boredinnova;;Northern Virginia (BoredInNova)
+bossiercity;;Bossier City
+boston;;Boston
+bostwick;;Bostwick
+bothell/;;Bothell
+boulder;;Boulder
+bouldercity;;Boulder City
+bowlinggreen;;Bowling Green
+bowmanville;;Bowmanville
+boyd;;Boyd
+boylecounty;;Boyle County
+boyntonbeach;;Boynton Beach
+bozeman;;Bozeman
+bradenton;;Bradenton
+brainerd;;Brainerd
+bralorne;;Bralorne
+brampton;;Brampton
+brandon;;Brandon
+brandonFL;;Brandon
+brandonmanitoba;;Brandon MB
+bransonmo;;Branson
+brantford;;Brantford
+brazoriacounty;;Brazoria County
+bremerton;;Bremerton
+brentwoodbay;;Brentwood Bay
+brevard;;Brevard
+brevardfl;;Brevard County
+brewster;;Brewster
+brightonma;;Brighton
+britishcolumbia;;British Columbia
+broadripple;;Broadripple
+bronx;;Bronx
+bronxville;;Bronxville
+bronyisland;;Brony Island
+brookland;;Brookland
+brookline;;Brookline
+brooklyn;;Brooklyn
+broward;;Broward
+brysoncity;;Bryson City
+btv;;Burlington (BTV)
+buchanan;;Buchanan
+buckscountypa;;Bucks County
+buffalo;;Buffalo
+buffalominnesota;;Buffalo
+buffaloriver;;Buffalo River
+bullcity;;Durham
+buncombe;;Buncombe County
+burbank;;Burbank
+burien;;Burien
+burleson;;Burleson
+burlingame;;Burlingame
+burlington;;Burlington
+burlingtonma;;Burlington
+burlingtonon;;Burlington ON
+burlingtontario;;Burlington-tario
+burlingtonvt;;Burlington VT
+burnaby;;Burnaby
+burnsvillemn;;Burnsville
+bushwick;;Bushwick
+butte;;Butte
+butus;;Arbutus
+bville;;Bartlesville
+cabarruscounty;;Cabarrus County
+calabasas;;Calabasas
+caldwell;;Caldwell
+calgary;;Calgary
+california;;California
+calistoga;;Calistoga
+camanche;;Camanche
+camaswashington;;Camas
+cambria;;Cambria
+cambridgeMA;;Cambridge
+cambridgeminnesota;;Cambridge
+cambridgeon;;Cambridge ON
+cambridgeontario;;Cambridge
+campbellriver;;Campbell River
+campbellsville;;Campbellsville
+canada;;Canada
+canbyoregon;;Canby
+canfield;;Canfield
+cannonbeach;;Cannon Beach
+canogapark;;Canoga Park
+canton;;Canton
+cantonga;;Canton
+cantuacreek;;Cantua Creek
+capebreton;;Cape Breton Island
+capecod;;Cape Cod
+capecoral;;Cape Coral
+capemay;;Cape May
+capitalregion;;Capital Region
+captiva;;Captiva Island
+carberry;;Carberry
+carletonplace;;Carleton Place
+carlisle;;Carlisle
+carlisleohio;;Carlisle
+carlisleontario;;Carlisle
+carlsbad;;Carlsbad
+carlsbadca;;Carlsbad CA
+carlsbadnm;;Carlsbad
+carmelbythesea;;Carmel
+carmelin;;Carmel IN
+carolstream;;Carol Stream
+carpinteria;;Carpinteria
+carrollcounty;;Carroll County
+carrollcountymd;;Carroll County MD
+carrolltongeorgia;;Carrollton
+carrolltonohio;;Carrollton
+carsoncity;;Carson City
+cartersville;;Cartersville
+carvercounty;;Carver County
+cary;;Cary
+casagrandearizona;;Casa Grande
+cascades;;Cascades Mountains
+casper;;Casper
+castlerock;;Castle Rock
+castroville;;Castroville
+cavecreek;;Cave Creek
+cayucos;;Cayucos
+cedarcreek;;Cedar Creek
+cedarfalls;;Cedar Falls
+cedarrapids;;Cedar Rapids
+centerburg;;Centerburg
+central_ma;;Central_Massachusetts
+centralcoast;;Central Coast
+centralflorida;;Central Florida
+centralillinois;;Central Illinois
+centraljersey;;Central Jersey
+centrallouisiana;;Central Louisiana
+centralma;;Central Massachusetts
+centraloregon;;Central Oregon
+centralpa;;Central Pennsylvania
+centralvalley;;Central Valley
+cerealcity;;Battle Creek (CerealCity)
+ceres;;Ceres
+chagrinfalls;;Chagrin Falls
+chambana;;Champaign-Urbana (Chambana)
+champaignurbana;;Champaign-Urbana
+chandleraz;;Chandler
+chanhassen;;Chanhassen
+chapelhill;;Chapel Hill
+chappaquany;;Chappaqua
+chardon;;Chardon
+charlescounty;;Charles County
+charleston;;Charleston
+charlestonil;;Charleston
+charlevoix;;Charlevoix
+charlotte;;Charlotte
+charlottecounty;;Charlotte County
+charlottesville;;Charlottesville
+charlottetown;;Charlottetown
+chasemd;;Chase
+chaska;;Chaska
+chathamkent;;Chatham-Kent
+chathamontario;;Chatham
+chattanooga;;Chattanooga
+cherokeecountyga;;Cherokee County
+cherokeenc;;Cherokee
+cherryvalley;;Cherry Valley
+chesapeake;;Chesapeake
+chesapeakebay;;Chesapeake Bay
+chestercounty;;Chester County
+chesterton;;Chesterton
+cheswick;;Cheswick
+cheyenne;;Cheyenne
+chicago;;Chicago
+chicagoland;;Chicago Metro Area
+chicagosuburbs;;Chicago Suburbs
+chicopee;;Chicopee
+chillicothe;;Chillicothe
+chilliwack;;Chilliwack
+chinle;;Chinle
+choctawOK;;Choctaw
+cincinnati;;Cincinnati
+citruscountyflorida;;Citrus County
+citrusheights;;Citrus Heights
+cityofburlington;;Burlington, city of
+cityofcorona;;Corona CA
+cityofhoover;;Hoover
+cityofla;;Los Angeles, city of
+cityoflaredo;;Laredo, city of
+cityofnewburghny;;Newburgh NY
+clackamas;;Clackamas County
+clallam;;Clallam County
+clarkstown;;Clarkstown
+clarksville;;Clarksville
+clearlake;;Clearlake
+clearwaterfl;;Clearwater
+clemson;;Clemson
+cleveland;;Cleveland
+cleveland_park;;Cleveland Park
+clevelandms;;Cleveland
+clevelandtn;;Cleveland
+clifton;;Clifton
+clintoncounty;;Clinton County
+clintoniowa;;Clinton
+cloverdale;;Cloverdale
+cny;;Central New York
+co_mo;;Columbia (Co_Mo
+coalinga;;Coalinga
+coalwood;;Coalwood
+coastalvirginia;;Coastal Virginia
+cobleskill;;Cobleskill
+cochise;;Cochise County
+coconutcreek;;Coconut Creek
+coconutgrove;;Coconut Grove
+coeurdalene;;Coeur d&#39;Alene
+cohasset;;Cohasset
+coldlake;;Cold Lake
+collegestation;;College Station
+collingswood;;Collingswood
+colorado;;Colorado
+coloradosprings;;Colorado Springs
+columbiacounty;;Columbia County
+columbiamd;;Columbia
+columbiamissouri;;Columbia MO
+columbiasc;;Columbia
+columbiavalley;;Columbia Valley
+columbus;;Columbus
+columbusga;;Columbus
+columbusin;;Columbus IN
+columbusindiana;;Columbus
+colwood;;Colwood
+commercetx;;Commerce
+comoxvalley;;Comox Valley
+compton;;Compton
+conceptionbaysouth;;Conception Bay South
+concordnc;;Concord
+concordnh;;Concord
+coneyisland;;Coney Island
+connecticut;;Connecticut
+connersville;;Connersville
+conshohocken;;Conshohocken
+constancebay;;Constance Bay
+conwayar;;Conway
+conwaynh;;Conway
+conyers;;Conyers
+cookeville;;Cookeville
+cookstown;;Cookstown
+coonrapids;;Coon Rapids
+cooperstownny;;Cooperstown
+copperascove;;Copperas Cove
+coquitlam;;Coquitlam
+coralgables;;Coral Gables
+coralsprings;;Coral Springs
+coralville;;Coralville
+corbinky;;Corbin
+cornelius;;Cornelius
+corning;;Corning
+cornwallon;;Cornwall ON
+corpus;;Corpus (Christi)
+corpuschristi;;Corpus Christi
+corsicanatx;;Corsicana
+cortlandny;;Cortland
+corvallis;;Corvallis
+corydon;;Corydon
+cottagegrove;;Cottage Grove
+coudersport;;Coudersport
+councilbluffs;;Council Bluffs
+covina;;Covina
+covington;;Covington
+covingtonla;;Covington
+cowichan;;Cowichan Valley
+crawfordville;;Crawfordville
+creedmoor;;Creedmoor
+crestonbc;;Creston
+crockett;;Crockett
+crofton_md;;Crofton
+crossville;;Crossville
+crossvilleTN;;Crossville TN
+crownheights;;Crown Heights
+crystalbay;;Crystal Bay
+culvercity;;Culver City
+cumberland_maryland;;Cumberland
+cumming;;Cumming
+cuyahogafalls;;Cuyahoga Falls
+cypresstx;;Cypress
+dacula;;Dacula
+dahlonega;;Dahlonega
+dallas;;Dallas
+daltonga;;Dalton
+damascusmd;;Damascus
+danapoint;;Dana Point
+danielisland;;Daniel Island
+darbymt;;Darby
+dartmouthnovascotia;;Dartmouth
+davie;;Davie
+davisca;;Davis
+davison;;Davison
+dawsoncreek;;Dawson Creek
+dayton;;Dayton
+debary;;Debary
+decaturga;;Decatur
+decorah;;Decorah
+dedham;;Dedham
+deep_river;;Deep River
+deerfield;;Deerfield
+deerfieldbeach;;Deerfield Beach
+deerpark;;Deer Park
+dekalb;;De Kalb
+dekalbarea;;De Kalb Area
+deland;;DeLand
+delavan;;Delavan
+delaware;;Delaware
+delawarecounty;;Delaware County PA
+delawareoh;;Delaware
+delco;;Delaware County
+delisle;;Delisle
+delraybeach;;Delray Beach
+deltona;;Deltona
+denton;;Denton
+denver;;Denver
+denverwest;;Denver West
+desmoines;;Des Moines
+desplaines;;Des Plaines
+destin;;Destin
+detroit;;Detroit
+dewitt;;DeWitt
+dextermo;;Dexter
+diamondbar;;Diamond Bar
+dillsburg;;Dillsburg
+diomede;;Little Diomede
+districtofcolumbia;;District of Columbia
+donmills;;Don Mills
+doorcounty;;Door County
+dorchesterontario;;Dorchester
+dothan;;Dothan
+douglascounty;;Douglas County
+downingtown;;Downingtown
+downriver;;Downriver Area
+downtownvancouver;;Vancouver, Downtown
+dryden;;Dryden
+dtla;;Los Angeles Downtown
+dublinGA;;Dublin
+dublinohio;;Dublin
+dubuque;;Dubuque
+duluth;;Duluth
+dundalkmd;;Dundalk
+dunnellon;;Dunnellon
+durand;;Durand
+durango;;Durango
+durham;;Durham Region
+durhamnh;;Durham
+dvillega;;Douglasville
+dyess;;Abilene (dyess)
+eaganmn;;Eagan
+eaglecounty;;Eagle County
+eaglemountain;;Eagle Mountain
+eaglerock;;Eagle Rock
+eaglerockca;;Eagle Rock CA
+eaglevail;;Eagle-Vail
+easley;;Easley
+east_haddam;;East Haddam
+east_texas;;East_Texas
+eastarlington;;East Arlington
+eastaurora;;East Aurora
+eastbay;;East Bay
+eastbethelmn;;East Bethel
+eastbridgewater;;East Bridgewater
+eastbrunswick;;East Brunswick
+eastcanton;;East Canton
+easternidaho;;Eastern Idaho
+easternky;;Eastern Kentucky
+easternpa;;Eastern Pennsylvania
+easternpanhandle;;Eastern Panhandle
+easternshoremd;;Eastern Shore
+easternsierra;;Eastern Sierra
+eastie;;Boston East
+eastla;;East Los Angeles
+eastlansing;;East Lansing
+eastmeadow;;East Meadow
+eastpeoria;;East Peoria
+eastpoint;;East Point
+eastside;;Eastside
+easttexas;;East Texas
+easttx;;East TX
+eastvale;;Eastvale
+eastvillage;;East Village
+eaton;;Eaton
+eau_claire;;Eau_Claire
+eauclaire;;Eau Claire
+ec_wisc;;Eau Claire WI
+edenprairie;;Eden Prairie
+edenton;;Edenton
+edgewoodms;;Edgewood
+edinburg;;Edinburg
+edisonnj;;Edison
+edmonston;;Edmonston
+edmundston;;Edmundston
+edsonalberta;;Edson
+edwardsvilleil;;Edwardsville
+elgin;;Elgin
+elginillinois;;Elgin IL
+elizabethcity;;Elizabeth City
+elkgrove;;Elk Grove
+elkinswv;;Elkins
+elko;;Elko
+elkriver;;Elk River
+elkton;;Elkton
+ellisville;;Ellisville
+ellsworth;;Ellsworth
+elma;;Elma
+elmiraNY;;Elmira
+elmwoodpark;;Elmwood Park
+elpaso;;El Paso
+elpasoderobles;;Paso Robles
+elyNV;;Ely
+empirestate;;Empire State
+endicott;;Endicott
+englewoodfl;;Englewood
+enola;;Enola
+erie;;Erie
+escondido;;Escondido
+espanola;;Espanola
+esquimalt;;Esquimalt
+essexvt;;Essex
+estacada;;Estacada
+estero;;Estero
+estespark;;Estes Park
+etna;;Etna
+etown;;Elizabethtown
+eugene;;Eugene
+euless;;Euless
+eurekasprings;;Eureka Springs
+evanston;;Evanston
+evanstonil;;Evanston IL
+evansville;;Evansville
+evansvilleindiana;;Evansville IN
+everett;;Everett
+eville;;Edwardsville (Eville)
+excelsiordistrict;;Excelsior District
+fairbanks;;Fairbanks
+fairborn;;Fairborn
+fairfaxcounty;;Fairfax County
+fairfield;;Fairfield
+fairfieldCA;;Fairfield
+fairfieldcounty;;Fairfield County
+fairfieldiowa;;Fairfield
+fairhopeAlabama;;Fairhope
+fairlawn;;Fair Lawn
+fairmont;;Fairmont
+fairmontwv;;Fairmont
+fairmount;;Fairmount
+fairoaks;;Fair Oaks
+falconbridge;;Falconbridge
+fallriver;;Fall River
+fargo;;Fargo
+fawngrove;;Fawn Grove
+fayco;;Fayette County
+fayettenam;;Fayetteville
+fayetteville;;Fayetteville
+fayettevilleTN;;Fayetteville
+federalway;;Federal Way
+fernandinabeach;;Fernandina Beach
+firstnations;;First Nations
+flaglerbeach;;Flagler Beach
+flagstaff;;Flagstaff
+flinflon;;Flin Flon
+flint;;Flint
+flintmi;;Flint MI
+florence;;Florence
+florenceal;;Florence
+florida;;Florida
+floridakeys;;Florida Keys
+flowermound;;Flower Mound
+flowerybranch;;Flowery Branch
+foco;;Fort Collins (FoCo)
+folsom;;Folsom
+fonddulac;;Fond du Lac
+fonthill;;Fonthill
+forestcity;;Forest City
+forestgrove;;Forest Grove
+forkswa;;Forks
+forney;;Forney
+forsyth;;Forsyth County
+fortbend;;Fort Bend
+fortclinton;;Fort Clinton
+fortcollins;;Fort Collins
+fortdodge;;Fort Dodge
+fortfrances;;Fort Frances
+fortgreene;;Fort Greene
+fortlauderdale;;Fort Lauderdale
+fortmac;;Fort Mac
+fortmcmurray;;Fort McMurray
+fortmcmurrayalberta;;Fort McMurray Alberta
+fortmillsc;;Fort Mill
+fortsmith;;Fort Smith
+fortwaltonbeach;;Fort Walton Beach
+fortwayne;;Fort Wayne
+fortworth;;Fort Worth
+fountainhills;;Fountain Hills
+fountainvalley;;Fountain Valley
+foxcities;;Fox Cities
+foxvalleywi;;Fox Valley
+framinghamma;;Framingham
+frankfort;;Frankfort
+franklincountyga;;Franklin County
+franklinmass;;Franklin
+franklinpark;;Franklin Park
+franklintn;;Franklin
+fraservalley;;Fraser Valley
+frederickmd;;Frederick
+fredericksburg;;Fredericksburg
+fredericton;;Fredericton
+freeland;;Freeland
+freeport;;Freeport
+freeportmaine;;Freeport
+fremont;;Fremont
+fremontne;;Fremont
+friendswood;;Friendswood
+frisco;;Frisco
+fruita;;Fruita
+fulshear;;Fulshear
+gadsden;;Gadsden
+gahanna;;Gahanna
+gaithersburg;;Gaithersburg
+galesburg;;Galesburg
+gallatinky;;Gallatin County
+gallup;;Gallup
+gallupnm;;Gallup NM
+galveston;;Galveston
+gardencityks;;Garden City KS
+gaspe;;Gaspé
+gastonia;;Gastonia
+gatineau;;Gatineau
+gatlinburgtn;;Gatlinburg
+gcks;;Garden City (GCKS)
+geauga;;Geauga County
+georgetown;;Georgetown
+georgetownMa;;Georgetown
+georgetownontario;;Georgetown
+georgetowntx;;Georgetown
+georgia;;Georgia
+georgiausa;;Georgia USA
+germantown;;Germantown
+germantownwisconsin;;Germantown
+gibbsboro;;Gibbsboro
+gillette;;Gillette
+glacier;;Glacier National Park
+glamis;;Glamis
+glasgowky;;Glasgow
+glendale;;Glendale
+glenpool;;Glenpool
+glensfalls;;Glens Falls
+gloucester;;Gloucester
+gloucestercounty;;Gloucester County
+gnv;;Gainesville
+goldenbc;;Golden
+goldentriangle;;Golden Triangle
+goldsboronc;;Goldsboro
+goleta;;Goleta
+gonzales;;Gonzales
+gordo;;Gordo
+gorham;;Gorham
+grafton;;Grafton
+granbury;;Granbury
+granby;;Granby
+grandcanyon;;Grand Canyon National Park
+grandcoulee;;Grand Coulee
+grandeprairie;;Grande Prairie
+grandforks;;Grand Forks
+grandjunction;;Grand Junction
+grandjunctionco;;Grand Junction CO
+grandlake;;Grand Lake
+grandrapids;;Grand Rapids
+grandrapidsmn;;Grand Rapids
+grandterrace;;Grand Terrace
+grandtetons;;Grand Tetons National Park
+grantspass;;Grants Pass
+grassvalley;;Grass Valley
+gravescounty;;Graves County
+graysharbor;;Gray&#39;s Harbor
+grayslake;;Grayslake
+greaterbinghamton;;Greater Binghamton
+greaterorlando;;Orlando Greater Area
+greatfalls;;Great Falls
+greatneck;;Great Neck
+greeleyCO;;Greeley CO
+greenbay;;Green Bay
+greensburg;;Greensburg
+greenville;;Greenville
+greenvilleal;;Greenville
+greenvilleca;;Greenville
+greenwichvillage;;Greenwich Village
+greenwoodsc;;Greenwood
+gresham;;Gresham
+greybruce;;Grey Bruce
+grossepointe;;Grosse Pointe
+groton;;Groton
+groveland;;Groveland
+grovetown;;Grovetown
+gso;;Greensboro
+gtownsc;;Georgetown
+guelph;;Guelph
+gulfislands;;Gulf Islands
+gunnison;;Gunnison County
+gurnee;;Gurnee
+guysborough;;Guysborough
+gvegas;;Greenville
+gville;;Granville
+gwinnett;;Gwinnett County
+hackettstown;;Hackettstown
+haddonfield;;Haddonfield
+haddontownship;;Haddon Township
+hagerstown;;Hagerstown
+haldimandnorfolk;;Haldimand &amp; Norfolk County
+halfmoonbay;;Half Moon Bay
+halifax;;Halifax
+haltonhills;;Halton Hills
+hamilton;;Hamilton
+hamilton_ohio;;Hamilton
+hammond;;Hammond
+hammonton;;Hammonton
+hampden;;Hampden
+hampshirecounty;;Hampshire County
+hampstead;;Hampstead
+hamptonroads;;Hampton Roads
+hamtramck;;Hamtramck
+hanamaui;;Hana
+hanoverco;;Hanover County
+hanoverpa;;Hanover
+happyjack;;Happy Jack
+happyvalley;;Pioneer Valley (Happy Valley)
+harborsprings;;Harbor Springs
+harfordcountymd;;Harford County
+harlemusa;;Harlem
+harrisburg;;Harrisburg
+harrisburgpa;;Harrisburg PA
+harrisonburg;;Harrisonburg
+harrisonhotsprings;;Harrison Hot Springs
+hartford;;Hartford
+haslett;;Haslett
+hastingsmn;;Hastings
+hastingsne;;Hastings
+hastingsnebraska;;Hastings NE
+hattiesburg;;Hattiesburg
+havre;;Havre
+hawaii;;Hawaii
+hazlet;;Hazlet
+hazleton;;Hazleton
+heartland;;Central Texas (Heartland)
+heartland;;Heartland
+heberovergaard;;Heber-Overgaard
+heidenheimer;;Heidenheimer
+helena;;Helena
+hemetca;;Hemet
+hendersonville;;Hendersonville
+hettinger;;Hettinger
+hibbing;;Hibbing
+hickmancountytn;;Hickman County
+highlands;;Highlands County
+highlandsranch;;Highlands Ranch
+highpointnc;;High Point
+highspire;;Highspire
+hilliard;;Hilliard
+hillsboro;;Hillsboro
+hiltonhead;;Hilton Head
+hinsdale;;Hinsdale
+hoboken;;Hoboken
+hollandmi;;Holland MI
+hollandmichigan;;Holland
+hollyspringsga;;Holly Springs
+holyoke;;Holyoke
+homerAK;;Homer
+homerglen;;Homer Glen
+hominy;;Hominy
+honesdale;;Honesdale
+honolulu;;Honolulu
+hopebc;;Hope
+hopemills;;Hope Mills
+hopkinsville;;Hopkinsville
+hoptown;;Hopkinsville (Hoptown)
+hortonville;;Hortonville
+hotsprings;;Hot Springs
+houghton;;Houghton
+houma;;Houma
+houston;;Houston
+howardcity;;Howard City
+howland;;Howland
+hton;;Huntington
+hudsoncounty;;Hudson County
+hudsonoh;;Hudson
+hudsonvalley;;Hudson Valley
+humboldt;;Humboldt
+huntcounty;;Hunt County
+huntersville;;Huntersville
+huntley;;Huntley
+huntsvillealabama;;Huntsville
+huntsvilletx;;Huntsville
+hurst;;Hurst
+hutchinson;;Hutchinson
+hyampom;;Hyampom
+idaho;;Idaho
+idahofalls;;Idaho Falls
+ilesdelamadeleine;;Îles-de-la-Madeleine
+illinois;;Illinois
+immokalee;;Immokalee
+imperialvalley;;Imperial Valley
+inclinevillage;;Incline Village
+indiana;;Indiana
+indianapolis;;Indianapolis
+indio;;Indio
+inlandnorthwest;;Inland Northwest
+invermere;;Invermere
+iowa;;Iowa
+iowacity;;Iowa City
+iqaluit;;Iqaluit
+ironmountain;;Iron Mountain
+irvingtexas;;Irving
+isantimn;;Isanti
+islavista;;Isla Vista
+ithaca;;Ithaca
+jackson_missouri;;Jackson
+jacksonheights;;Jackson Heights
+jacksonhole;;Jackson Hole
+jacksonmi;;Jackson
+jacksonmo;;Jackson MO
+jacksonms;;Jackson
+jacksonville;;Jacksonville
+jacksonvillebeach;;Jacksonville Beach
+jacksonvillenc;;Jacksonville
+jamesriver;;James River
+jamestownnd;;Jamestown
+jamestownny;;Jamestown
+jasper;;Jasper
+jasperar;;Jasper
+jasperga;;Jasper
+jeffersonparish;;Jefferson Parish
+jekyllisland;;Jekyll Island
+jeromeaz;;Jerome
+jersey;;Jersey
+jerseycity;;Jersey City
+jerseyvillage;;Jersey Village
+johnscreek;;Johns Creek
+johnstown;;Johnstown
+jolietillinois;;Joliet
+jollyville;;Jollyville
+jonesboro;;Jonesboro
+jonesboroar;;Jonesboro AR
+joplin;;Joplin
+joplinmo;;Joplin MO
+joshuatree;;Joshua Tree National Park
+juneau;;Juneau
+kailuakona;;Kailua
+kalispell;;Kalispell
+kamloops;;Kamloops
+kanab;;Kanab
+kanata;;Kanata
+kansas;;Kansas
+kansascity;;Kansas City
+karnescity;;Karnes City
+kassonmantorville;;Kasson and Mantorville
+katy_texas;;Katy TX
+katytx;;Katy
+kauai;;Kauai
+kawarthalakes;;Kawartha Lakes
+kearney;;Kearney
+kearny;;Kearny
+keene;;Keene
+keizer;;Keizer
+keller;;Keller
+kelowna;;Kelowna
+kennebunk;;Kennebunk
+kennesaw;;Kennesaw
+kenosha;;Kenosha
+kent;;Kent
+kentcountymichigan;;Kent County
+kentcountyri;;Kent County
+kentucky;;Kentucky
+kentwa;;Kent WA
+kentwashington;;Kent
+kerman;;Kerman
+kern;;Kern River
+kernvalley;;Kern Valley
+ketchikan;;Ketchikan
+keweenaw;;Keweenaw
+kiawahisland;;Kiawah Island
+killington;;Killington
+kingcity;;King City
+kingcounty;;King County
+kingman;;Kingman
+kingofprussia;;King of Prussia
+kingsbeach;;Kings Beach
+kingstonsprings;;Kingston Springs
+kingwood;;Kingwood
+kirkland;;Kirkland
+kirksville;;Kirksville
+kissimmee;;Kissimmee
+kitchener;;Kitchener
+kitsap;;Kitsap
+kittitas;;Kittitas
+klamathfalls;;Klamath Falls
+knoxville;;Knoxville
+kodiak;;Kodiak
+kokomo;;Kokomo
+kona;;Kona
+kootenays;;Kootenay
+kuna;;Kuna
+kzoo;;Kalamazoo
+labcity;;Labrador City
+labelleprovince;;LaBelleProvince
+laclaronge;;Lac La Ronge Provincial Park
+lacrossewi;;La Crosse
+lafayette;;Lafayette
+lafayetteLA;;Lafayette
+lagrange;;La Grange
+lagunitas;;Lagunitas
+lahabra;;La Habra
+lajolla;;La Jolla
+lake;;Lake County
+lakebonavitsa;;Lake Bonavista
+lakecharles;;Lake Charles
+lakecharleslouisiana;;Lake Charles LA
+lakecityflorida;;Lake City FL
+lakecounty;;Lake County
+lakecumberland;;Lake Cumberland
+lakegaston;;Lake Gaston
+lakehavasucity;;Lake Havasu City
+lakeland;;Lakeland
+lakelinden;;Lake Linden
+lakeoftheozarks;;Ozarks Lakes
+lakeoswego;;Lake Oswego
+lakestevenswa;;Lake Stevens
+laketahoe;;Lake Tahoe
+laketravis;;Lake Travis
+lakewood;;Lakewood
+lakeworth;;Lake Worth
+lakezurichil;;Lake Zurich
+lamesa;;La Mesa
+lancaster;;Lancaster
+lancastero;;Lancaster
+lanecountyoregon;;Lane County
+langley;;Langley
+lansdown;;Lansdown
+lansdownemd;;Lansdowne
+lansing;;Lansing
+lantzville;;Lantzville
+lapeer;;Lapeer
+laporte;;La Porte
+laramie;;Laramie
+larchmont;;Larchmont
+laredo;;Laredo
+laronge;;La Ronge
+lascruces;;Las Cruces
+lasqueti;;Lasqueti Island
+lasvegas;;Las Vegas
+laurelmd;;Laurel
+laurentia;;Laurentia Bioregion
+laval;;Laval
+laverne;;La Verne
+lawrence;;Lawrence
+lawrenceburg;;Lawrenceburg
+lawtonok;;Lawton
+lbny;;Long Beach
+ldnont;;London ON
+leander;;Leander
+leandercedarpark;;Leander-Cedar Park
+lebo;;Mt. Lebanon
+leduc;;Leduc
+leelanau;;Leelanau
+leesburg;;Leesburg
+leesburgga;;Leesburg
+lehighvalley;;Lehigh Valley
+lehighvalleypa;;Lehigh Valley PA
+leland;;Leland
+lenoircity;;Lenoir City
+lethbridge;;Lethbridge
+levittown;;Levittown
+lewiscenter;;Lewis Center
+lewiscounty;;Lewis County
+lewiston;;Lewiston
+lewisville;;Lewisville
+lexington;;Lexington
+lexingtonhangouts;;Lexington Hangouts
+lexingtonnc;;Lexington
+lexvegasva;;Lexington (Lexvegas)
+lgcalifornia;;Los Gatos
+libertymo;;Liberty
+libertyville;;Libertyville
+lilacvillage;;Lombard (Lilac Village)
+lilburn;;Lilburn
+lillooet;;Lillooet
+lima;;Lima
+lincoln;;Lincoln
+lincolnca;;Lincoln
+lindsay;;Lindsay
+litchfieldct;;Litchfield County
+lititz;;Lititz
+littleapple;;Manhattan
+littlerock;;Little Rock
+lively;;Lively
+liverpool_ny;;Liverpool
+livingston;;Livingston
+livingston_tn;;Livingston
+livonia;;Livonia
+lkn;;Lake Norman Area
+lloydminster;;Lloydminster
+localnyc;;New York City, locals
+lockhart;;Lockhart
+lodi;;Lodi
+lombard;;Lombard
+lompoc;;Lompoc
+londonontario;;London
+longbeachisland;;Long Beach Island
+longbeachmississippi;;Long Beach
+longbeachny;;Long Beach NY
+longisland;;Long Island
+longmont;;Longmont
+longueuil;;Longueuil
+longview;;Longview
+longviewtexas;;Longview
+longviewwa;;Longview WA
+lornepark;;Lorne Park
+losalamos;;Los Alamos
+losaltoshills;;Los Altos Hills
+losgatoscalifornia;;Los Gatos CA
+loudoun;;Loudon County
+louisiana;;Louisiana
+louisville;;Louisville
+louisvilleohio;;Louisville
+loveland;;Loveland
+lovington;;Lovington
+lowell;;Lowell
+lowellmass;;Lowell Mass
+lowellmassachusetts;;Lowell Massachusetts
+lowereastside;;Lower East Side
+lubbock;;Lubbock
+lubbocktx;;Lubbock TX
+lucernecolorado;;Lucerne
+ludowici;;Ludowici
+lurayva;;Luray
+lusby;;Lusby
+lynchburg;;Lynchburg
+lynnwood;;Lynnwood
+lynwood;;Lynwood
+lyons;;Lyons
+mableton;;Mableton
+mackenzie;;Mackenzie
+mackinac;;Mackinac
+macon;;Macon
+maconbibb;;Macon-Bibb County
+macungie;;Macungie
+madisonsd;;Madison
+madisonwi;;Madison
+madtown;;Madison
+mahoningvalley;;Mahoning Valley
+mahopac;;Mahopac
+maine;;Maine
+malden;;Malden
+malibu;;Malibu
+maltany;;Malta
+malvern;;Malvern
+mammothmountain;;Mammoth Mountain
+manassas;;Manassas
+manayunk;;Manayunk
+manchesternh;;Manchester
+mandan;;Mandan
+manhattan;;Manhattan
+manhattanks;;Manhattan KS
+manitoba;;Manitoba
+manitobacanada;;Manitoba Canada
+manitousprings;;Manitou Springs
+mankato;;Mankato
+mansfield;;Mansfield
+mansfieldma;;Mansfield
+manteca;;Manteca
+mapleridge;;Maple Ridge
+maquoketa;;Maquoketa
+marblefalls;;Marble Falls
+maricopa;;Maricopa
+marietta;;Marietta
+mariettaga;;Marietta GA
+marin;;Marin County
+marinadelrey;;Marina Del Rey
+marinecity;;Marine City
+marioniowa;;Marion
+markham;;Markham
+marlborough;;Marlborough
+marlton;;Marlton
+marshallcountyal;;Marshall County
+marshallmn;;Marshall
+marthasvineyard;;Martha&#39;s Vineyard
+martinsburg;;Martinsburg
+maryland;;Maryland
+marysville;;Marysville
+masoncity;;Mason City
+mass;;Mass
+massachusetts;;Massachusetts
+massillon;;Massillon
+matane;;Matane
+maui;;Maui
+maumee;;Maumee
+maumelle;;Maumelle
+maysville;;Maysville
+mchenrycounty;;McHenry County
+mckinleyville;;Mckinleyville
+mckinney;;McKinney
+mcminnville;;McMinnville
+meadville;;Meadville
+meaford;;Meaford
+mechanicsvilleva;;Mechanicsville
+mechanicville;;Mechanicville
+medford;;Medford
+medfordma;;Medford MA
+medfordwi;;Medford
+medicinehat;;Medicine Hat
+melbourneFL;;Melbourne FL
+melbourneflorida;;Melbourne
+memphis;;Memphis
+mendocinocoast;;Mendocino Coast
+menlopark;;Menlo Park
+menomoneefalls;;Menomonee Falls
+mequon;;Mequon
+mercercounty;;Mercer County
+mercercountyohio;;Mercer County
+mercerisland;;Mercer Island
+meridenct;;Meriden
+meridian;;Meridian
+merrickville;;Merrickville
+merrifield;;Merrifield
+merrittisland;;Merritt Island
+mesaaz;;Mesa
+mesickmi;;Mesick
+metaquebec;;MetaQuébec
+metrodetroit;;Detroit, Metro
+metroeast;;Metro East
+metroeastil;;Metro East IL
+metrowest;;Metro West
+metry;;Metairie
+miami;;Miami
+michiana;;Michiana
+michigan;;Michigan
+michigancity;;Michigan City
+middlegeorgia;;Middle Georgia
+middletn;;Middle Tennessee
+middletonwi;;Middleton
+midessa;;Midland Odessa
+midland_mi;;Midland MI
+midland_on;;Midland
+midtownatlanta;;Midtown Atlanta
+milford_CT;;Milford CT
+milfordmi;;Milford
+milfordnh;;Milford
+millbrae;;Millbrae
+millbrook;;Millbrook
+millbury;;Millbury
+millcreek;;Mill Creek
+milledgeville;;Milledgeville
+milton;;Milton
+miltonon;;Milton ON
+mineralwells;;Mineral Wells
+minneapolis;;Minneapolis
+minnesota;;Minnesota
+minnetonka;;Minnetonka
+minot;;Minot
+misquamicut;;Misquamicut
+missionbc;;Mission
+missionbeach;;Mission Beach
+missionviejo;;Mission Viejo
+mississauga;;Mississauga
+mississippi;;Mississippi
+missoula;;Missoula
+missouri;;Missouri
+mistissini;;Mistissini
+mitchell_ontario;;Mitchell
+mln;;Monta Loma
+moab;;Moab
+mobileal;;Mobile
+mohavecounty;;Mohave County
+mojave;;Mojave
+moncton;;Moncton
+monmouthcounty;;Monmouth County
+monroe;;Monroe
+monrovia;;Monrovia
+montana;;Montana
+montclairva;;Montclair
+montco;;Montgomery County
+montecito;;Montecito
+montereypark;;Monterey Park
+montgomery;;Montgomery
+montgomerycountymd;;Montgomery County MD
+montgomerycountymo;;Montgomery County
+montgomerynj;;Montgomery
+montgomeryville;;Montgomeryville
+montmagny;;Montmagny
+montpelier;;Montpelier
+montreal;;Montréal
+moorpark;;Moorpark
+moosejaw;;Moose Jaw
+moraga;;Moraga
+morehead;;Morehead
+morgancity;;Morgan City
+morgancounty;;Morgan County
+morganhill;;Morgan Hill
+morgantownwv;;Morgantown
+morriscounty;;Morris County
+morrismn;;Morris
+morristownnj;;Morristown
+morristowntn;;Morristown
+morrisville;;Morrisville
+morrobay;;Morro Bay
+moscowidaho;;Moscow
+moundcity;;Mound City
+moundmn;;Mound
+moundsview;;Mounds View
+mountainbrook;;Mountain Brook
+mountainhomeidaho;;Mountain Home
+mountainlakes;;Mountain Lakes
+mountairy;;Mount Airy
+mountdora;;Mt. Dora
+mountvernon;;Mt. Vernon
+mtbrighton;;Mt. Brighton
+mtmorris;;Mt. Morris
+mtpleasantmi;;Mt. Pleasant
+mtrushmore;;Mount Rushmore
+mtsterling;;Mt. Sterling
+muncie;;Muncie
+murfreesboro;;Murfreesboro
+murrietareddit;;Murrieta
+murrysville;;Murrysville
+muskegon;;Muskegon
+muskogee;;Muskogee
+mustangok;;Mustang OK
+myakkacityFL;;Myakka City FL
+myrtlebeach;;Myrtle Beach
+nampa;;Nampa
+nanaimo;;Nanaimo
+napa;;Napa
+napavalley;;Napa Valley
+naperville;;Naperville
+naples_fl;;Naples
+narragansett;;Narragansett
+nashua;;Nashua
+nashville;;Nashville
+nashvilletennessee;;Nashville TN
+nassaucounty;;Nassau County
+natchez;;Natchez
+nationalcity;;National City
+naturalstate;;Natural State
+nebc;;Northeastern British Columbia
+nebraska;;Nebraska
+needlesca;;Needles
+nelsonbc;;Nelson
+neohio;;Northeast Ohio
+nepa;;Northeast Pennsylvania (NEPA)
+nephilly;;Northeast Philly
+nerk;;Newark (Nerk)
+nevada;;Nevada
+nevadacity;;Nevada City
+nevadacounty;;Nevada County
+newalbany;;New Albany
+newamsterdam;;New Amsterdam
+newark;;Newark
+newarkde;;Newark
+newarkohio;;Newark
+newbaden;;New Baden
+newbedford;;New Bedford
+newberg;;Newberg
+newberry;;Newberry
+newbritain;;New Britain
+newbrunswickcanada;;New Brunswick
+newburgh;;Newburgh
+newburghin;;Newburgh
+newburyport;;Newbury Port
+newengland;;New England
+newfoundland;;Newfoundland
+newglasgow;;New Glasgow
+newhampshire;;New Hampshire
+newhaven;;New Haven
+newhydepark;;New Hyde Park
+newiberia;;New Iberia
+newjersey;;New Jersey
+newkent;;New Kent County
+newlenox;;New Lenox
+newlondon;;New London
+newmadridcounty;;New Madrid County
+newmarket;;Newmarket
+newmex;;Southern New Mexico
+newmexico;;New Mexico
+newmilfordnj;;New Milford
+newnan;;Newnan
+neworleans;;New Orleans
+newport;;Newport
+newportbeach;;Newport Beach
+newportky;;New Port
+newroads;;New Roads
+newtonkansas;;Newton
+newtonma;;Newton
+newwestminster;;New Westminster
+newyork;;New York
+niagara;;Niagara
+niagarafallsny;;Niagara Falls
+niagarafallsontario;;Niagara Falls
+ninetysixsc;;Ninety Six
+niskayuna;;Niskayuna
+nky;;Northern Kentucky (NKY)
+noho;;North Hollywood (NoHo)
+nomadc;;NoMa
+nome;;Nome
+norcal;;Northern California
+norfolk;;Norfolk
+normanok;;Norman
+north_america;;North America
+north_iowa_reddit;;North Iowa
+northampton;;Northampton
+northaurora;;North Aurora
+northbay;;North Bay
+northbrook;;Northbrook
+northcarolina;;North Carolina
+northcascades;;North Cascades National Park
+northcounty;;North County
+northdakota;;North Dakota
+northeasternpa;;Northeastern Pennsylvania
+northernky;;Northern Kentucky
+northernnewjersey;;Northern New Jersey
+northernutah;;Northern Utah
+northernva;;Northern Virginia
+northernwi;;Northern Wisconsin
+northfield;;Northfield
+northgeorgia;;North Georgia
+northhollywood;;North Hollywood
+northidaho;;North Idaho
+northjersey;;North Jersey
+northlaketahoe;;Lake Tahoe North
+northlouisiana;;North Louisiana
+northphoenix;;North Phoenix
+northportny;;North Port
+northshore;;North Shore
+northtexas;;North Texas
+northvan;;North Vancouver
+northwestarkansas;;Northwest Arkansas
+norwalkca;;Norwalk
+norwichct;;Norwich
+norwood;;Norwood
+notl;;Niagara-on-the-Lake
+nova;;Northern Virginia (NOVA)
+novascotia;;Nova Scotia
+novato;;Novato
+nrv;;New River Valley
+nunavut;;Nunavut
+nwarkansas;;NW Arkansas
+nwfl;;Northwest Florida
+nwi;;Northwest Indiana (NWI)
+nwla;;Northwest Louisiana
+nwmissouri;;Northwest Missouri
+nwpa;;Northwest Pennsylvania(NWPA)
+nwt;;Northwest Territories
+nyc;;New York City
+oakcliff;;Oak Cliff
+oakland;;Oakland
+oaklandcounty;;Oakland County
+oakpark;;Oak Park
+oakparkil;;Oak Park
+oakville;;Oakville
+oba;;Orange Beach
+obx;;Outer Banks
+ocala;;Ocala
+oceancity;;Ocean City
+oceancitynj;;Ocean City NJ
+oceancounty;;Ocean County
+oceanfalls;;Ocean Falls
+oceangrove;;Ocean Grove
+oceanshores;;Ocean Shores
+oceanside;;Oceanside
+oceansprings;;Ocean Springs
+oceanview;;Ocean View
+ocny;;Orange County
+ocoee;;Ocoee
+oconeesc;;Oconee County
+odenton;;Odenton
+ogden;;Ogden
+ohio;;Ohio
+ojai;;Ojai
+okanagan;;Okanagan
+okc;;Oklahoma City (OKC)
+okemos;;Okemos
+oklahoma;;Oklahoma
+oklahomacity;;Oklahoma City
+okoboji;;Okoboji
+okotoks;;Okotoks
+olathe;;Olathe
+oldlymect;;Old Lyme
+olds;;Olds
+oldsaybrook;;Old Saybrook
+olean;;Olean
+olivehill;;Olive Hill
+olney;;Olney
+olympic_peninsula;;Olympic_Peninsula
+olympicpeninsula;;Olympic Peninsula
+omaha;;Omaha
+ontario;;Ontario
+oracoke;;Oracoke Island
+orangecountyny;;Orange County NY
+orangepark;;Orange Park
+orangeva;;Orange County
+orangevale;;Orangevale
+orangeville;;Orangeville
+oregon;;Oregon
+oregoncity;;Oregon City
+oregoncoast;;Oregon Coast
+oregonwi;;Oregon
+orillia;;Orillia
+orinda;;Orinda
+orlando;;Orlando
+orlandodisneyarea;;Orlando Disney Area
+orlandpark;;Orland Park
+orygun;;Orygun
+oshkosh;;Oshkosh
+ossining;;Ossining
+ottawa;;Ottawa
+ottowacooh;;Ottowa County
+overlandpark;;Overland Park
+owasso;;Owasso
+owatonna;;Owatonna
+owego;;Owego
+owencounty;;Owen County
+owensboro;;Owensboro
+owensound;;Owen Sound
+owosso;;Owosso
+oxnard;;Oxnard
+ozarkmo;;Ozark
+ozarks;;Ozarks
+pacifica;;Pacifica
+pacificgrove;;Pacific Grove
+paducah;;Paducah
+palatine;;Palatine
+palmbeach;;Palm Beach
+palmcoast;;Palm Coast
+palmdale;;Palmdale
+palmharbor;;Palm Harbor
+palmsprings;;Palm Springs
+paloalto;;Palo Alto
+palosverdes;;Palos Verdes
+panamacity;;Panama City
+panamacitybeach;;Panama City Beach
+panhandlegulfcoast;;Gulf Coast
+paoli;;Paoli
+paradisevalley;;Paradise Valley
+paristexas;;Paris
+paristx;;Paris TX
+parkcity;;Park City
+parkersburg;;Parkersburg
+parkland;;Parkland
+parkslope;;Park Slope
+parkville;;Parkville
+parrish;;Parrish
+parrysound;;Parry Sound
+pasadenamd;;Pasadena
+pataskala;;Pataskala
+paulding;;Paulding County
+pawleysisland;;Pawleys Island
+pawtucket;;Pawtucket
+payson;;Payson
+peabodyma;;Peabody
+peacecountry;;The Peace Country
+pei;;Prince Edward Island
+pekinillinois;;Pekin
+pelham;;Pelham
+pemberton;;Pemberton
+pembrokepines;;Pembroke Pines
+pennington;;Pennington
+pennsylvania;;Pennsylvania
+pensacola;;Pensacola
+pensacolabeach;;Pensacola Beach
+penticton;;Penticton
+peoria;;Peoria
+peoriaIL;;Peoria IL
+perryhall;;Perryhall
+petaluma;;Petaluma
+petalumaca;;Petaluma CA
+peterborough;;Peterborough
+petoskey;;Petoskey
+petrolia;;Petrolia
+petworth;;Petworth
+pflugerville;;Pflugerville
+philadelphia;;Philadelphia
+philadelphiams;;Philadelphia
+phoenix;;Phoenix
+phoenixarizona;;Phoenix Arizona
+phoenixaz;;Phoenix AZ
+phoenixny;;Phoenix
+phoenixville;;Phoenixville
+phx;;Phoenix (PHX)
+pickering;;Pickering
+pictou;;Pictou
+piedmont;;Piedmont
+piedmontca;;Piedmont CA
+pierre;;Pierre
+pikeville;;Pikeville
+pinebluff;;Pine Bluff
+pinehurst;;Pinehurst
+pinellas;;Pinellas County
+pioneervalley;;Pioneer Valley
+pismo;;Pismo Beach
+pittsburgh;;Pittsburgh
+pittsgrove;;Pittsgrove
+placerville;;Placerville
+plano;;Plano
+planotx;;Plano TX
+plaquemine;;Plaquemine
+plattsburgh;;Plattsburgh
+pleasanton;;Pleasanton
+plumascountyca;;Plumas County
+plymouthma;;Plymouth
+plymouthmn;;Plymouth
+pocatello;;Pocatello
+poconos;;Poconos Region
+pointowoods;;Point O&#39; Woods
+pointroberts;;Point Roberts
+polk;;Polk County
+ponchatoula;;Ponchatoula
+pontevedra;;Ponte Vedra
+pontiacmi;;Pontiac
+pontotoc;;Pontotoc
+poolesville;;Poolesville
+portagelakes;;Portage Lakes
+portangeles;;Port Angeles
+portcharlotte;;Port Charlotte
+porterville;;Porterville
+porthope;;Port Hope
+portland;;Portland
+portlandme;;Portland ME
+portlandoregon;;Portland OR
+portorange;;Port Orange
+portorchard;;Port Orchard
+portperry;;Port Perry
+portsmouthnh;;Portsmouth
+portstjoe;;Port St. Joe
+portstjohn;;Port St. John
+porttownsend;;Port Townsend
+posen;;Posen
+pottsville;;Pottsville
+poulsbo;;Poulsbo
+poway;;Poway
+powelltn;;Powell
+powhatan;;Powhatan County
+prairievillage;;Prairie Village
+prattville;;Prattville
+prescott;;Prescott
+princealbertsk;;Prince Albert SK
+princegeorge;;Prince George
+princegeorgescounty;;Prince George&#39;s County
+prosper;;Prosper
+providence;;Providence
+provoutah;;Provo
+pryantpond;;Bryant Pond
+ptbo;;Peterborough ON
+pteclaire;;Pointe-Claire
+ptownms;;Petal
+pueblo;;Pueblo
+pugetsound;;Puget Sound
+pulaskikentucky;;Pulaski County
+pvkansas;;Prairie Village KS
+quadcities;;Quad Cities Area
+quebec;;Québec
+quebeccity;;Quebec City
+quechee;;Quechee
+queencreek;;Queen Creek
+queens;;Queens
+quetico;;Quetico Provincial Park
+quinceyma;;Quincy
+quincy;;Quincy
+racinewi;;Racine
+rahway;;Rahway
+rainier;;Mt. Rainier
+raleigh;;Raleigh
+ramseynj;;Ramsey
+ranchosantamargarita;;Rancho Santa Margarita
+rapidcity;;Rapid City
+rappahannock;;Rappahannock County
+ravenna;;Ravenna
+realaustin;;Austin (real)
+redbank;;Red Bank
+reddeer;;Red Deer
+reddingct;;Redding
+reddittontario;;Redditt
+redmond;;Redmond
+redondobeach;;Redondo Beach
+redrivergorge;;Red River Gorge
+redwingmn;;Red Wing
+regina;;Regina
+rehobothma;;Rehoboth
+renfrew;;Renfrew
+reno;;Reno
+renton;;Renton
+renton_wa;;Renton WA
+republiccountykansas;;Republic County
+rexburg;;Rexburg
+reynoldsburg;;Reynoldsburg
+rhawnhurst;;Rhawnhurst
+rhinebeck;;Rhinebeck
+rhodeisland;;Rhode Island
+rialto;;Rialto
+richardson;;Richardson
+richfield;;Richfield
+richmondhill;;Richmond Hill
+richmondindiana;;Richmond
+richmondky;;Richmond
+ridgewood;;Ridgewood
+riograndevalley;;Rio Grande Valley
+riverfallswi;;River Falls
+riverforestillinois;;River Forest
+riveroaks;;River Oaks
+riverside;;Riverside
+riverwest;;Riverwest
+riviereduloup;;Riviere-du-Loup
+roanoke;;Roanoke
+roaringfork;;Roaring Fork
+rochester;;Rochester
+rochesterhills;;Rochester Hills
+rochesteril;;Rochester
+rochesterminnesota;;Rochester MN
+rochestermn;;Rochester
+rochesternh;;Rochester
+rockdale;;Rockdale
+rockdalewi;;Rockdale
+rockford;;Rockford
+rockinghamcountync;;Rockingham County
+rockinghamnc;;Rockingham
+rockland;;Rockland County
+rockvillemd;;Rockville MD
+rockymountnc;;Rocky Mount
+roguevalley;;Rogue Valley
+rohnertpark;;Rohnert Park
+rolla;;Rolla
+romega;;Rome
+romeomi;;Romeo
+roncesvalles_village;;Roncesvalles Village
+rooseveltisland;;Roosevelt Island
+roseburg;;Roseburg
+rosemount;;Rosemount
+rosemountmn;;Rosemount MN
+roswell;;Roswell
+roundlake;;Round Lake
+roundrock;;Round Rock
+roundrocktexas;;Round Rock TX
+roxbury;;Roxbury
+royaloak;;Royal Oak
+ruralmt;;Rural Montana
+russellontario;;Russell
+rutherfordton;;Rutherfordton
+rutlandvt;;Rutland
+rva;;Richmond
+ryeny;;Rye
+sackvegas;;Sackville
+saginaw;;Saginaw
+saglac;;Saguenay-Lac-Saint-Jean
+saguenay;;Saguenay
+saintbutt;;Saint Butt
+saintbuttminnesota;;Saint Butt MN
+saintclairshores;;Saint Clair Shores
+saintjohnnb;;Saint John
+saintpaul;;Saint Paul
+saintpeter;;Saint Peter
+salem;;Salem
+salemnh;;Salem
+salemva;;Salem
+salinas;;Salinas
+saltlakecity;;Salt Lake City
+saltonsea;;Salton Sea
+saltspring;;Salt Spring
+saltspringisland;;Salt Spring Island
+sammamish;;Sammamish
+san_angelo;;San Angelo
+sanantonio;;San Antonio
+sandimas;;San Dimas
+sandysprings;;Sandy Springs
+sangabriel;;San Gabriel
+sanger;;Sanger
+sanibel;;Sanibel Island
+sanjuancapistrano;;San Juan Capistrano
+sanjuanislands;;San Juan Islands
+sanleandro;;San Leandro
+sanmarcos760;;San Marcos (760)
+sanmarcos;;San Marcos
+sanmarcosca;;San Marcos
+sanmarino;;San Marino
+sanmateo;;San Mateo
+sanpedro;;San Pedro
+santaana;;Santa Ana
+santaclara;;Santa Clara
+santaclarita;;Santa Clarita
+santafe;;Santa Fe
+santanvalley;;San Tan Valley
+santarosa;;Santa Rosa
+santaynez;;Santa Ynez Valley
+santee;;Santee
+sarasota;;Sarasota
+saratogasprings;;Saratoga Springs
+sarnia;;Sarnia
+saskatchewan;;Saskatchewan
+saskatoon;;Saskatoon
+sausalito;;Sausalito
+savannah;;Savannah
+sayreville;;Sayreville
+scarborough;;Scarborough
+scarsdale;;Scarsdale
+schaumburg;;Schaumburg
+schenectady;;Schenectady
+schoharie;;Schoharie County
+scotia;;Scotia
+scottsdale;;Scottsdale
+scottsville;;Scottsville
+seacoastnh;;Seacoast
+seaside;;Seaside
+seatac;;Seattle Tacoma
+sebring;;Sebring
+sechelt;;Sechelt
+sedalia;;Sedalia
+sedona;;Sedona
+selma;;Selma
+setx;;Southeast Texas
+sevastopol;;Sevastopol
+sfmission;;SF Mission District
+sftenderloin;;SF Tenderloin District
+sgv;;San Gabriel Valley
+shafter;;Shafter
+shakopee;;Shakopee
+shaler;;Shaler
+shallotte;;Shallotte
+sharpsville;;Sharpsville
+shaverlake;;Shaver Lake
+shawnee;;Shawnee
+shawniganlake;;Shawnigan Lake
+sheboygan;;Sheboygan
+sheffieldlake;;Sheffield Lake
+shelburne;;Shelburne
+shelbyNC;;Shelby
+shelbyky;;Shelbyville
+shelbyohio;;Shelby
+shelbytwp;;Shelby
+sheltonct;;Shelton
+sheltonwa;;Shelton
+shenandoah;;Shenandoah Valley
+sherborn;;Sherborn
+sherbrooke;;Sherbrooke
+sheridanwyoming;;Sheridan
+sherwoodoregon;;Sherwood
+sherwoodpark;;Sherwood Park
+shippensburg;;Shippensburg
+shoals;;Shoals
+shoreline;;Shoreline
+shreveport;;Shreveport
+shrewsbury;;Shrewsbury
+sierravista;;Sierra Vista
+siliconvalley;;Silicon Valley
+silvercity;;Silver City
+silverton;;Silverton
+simi_valley;;Simi_Valley
+simivalley;;Simi Valley
+siouxcity;;Sioux City
+siouxfalls;;Sioux Falls
+sissonville;;Sissonville
+sjsr;;Saint-Jean-sur-Richelieu
+skagit/;;Skagit
+skagitcounty;;Skagit County
+skagitvalley;;Skagit Valley
+skagway;;Skagway
+skankakee;;Skankakee
+sladeky;;Slade
+slo;;San Luis Obispo
+smalltowngreendale;;Greendale
+smyrna;;Smyrna
+sneadsferry;;Sneads Ferry
+snobbery;;East Cobb County
+snohomish;;Snohomish
+snoqualmie;;Snoqualmie
+snowmass;;Snowmass Village
+snowshoemountain;;Snowshoe Mountain
+socal;;Southern California (SolCal)
+solanocounty;;Solano County
+solonoh;;Solon
+somd;;South Maryland
+somersetnj;;Somerset County
+somerville;;Somerville
+sonoita;;Sonoita
+sonoma;;Sonoma
+sonomacounty;;Sonoma County
+sonoraca;;Sonora
+sooke;;Sooke
+souris;;Souris
+south_florida;;South_Florida
+south_hadley;;South Hadley
+south_island;;South Vancouver Island
+southaven;;Southaven
+southbend;;South Bend
+southbridge;;Southbridge
+southburlington;;South Burlington
+southcarolina;;South Carolina
+southcoast;;South Coast
+southcounty;;South County
+southdakota;;South Dakota
+southerncalifornia;;Southern California
+southernillinois;;Southern Illinois
+southernohio;;Southern Ohio
+southernutah;;Southern Utah
+southflorida;;South Florida
+southjersey;;South Jersey
+southlaketahoe;;Lake Tahoe South
+southpasadena;;South Pasadena
+southshore;;South Shore
+southside;;Chicago Southside
+southsurrey;;South Surrey
+southtexas;;South Texas
+southwalton;;South Walton
+southwesternontario;;Southwestern Ontario
+southwestmichigan;;Southwest Michigan
+southwick;;Southwick
+southwood;;Southwood
+spartanburg;;Spartanburg
+spartanburgsc;;Spartanburg SC
+spenardak;;Spenard
+spenceriowa;;Spencer
+spokane;;Spokane
+springfield;;Springfield
+springfieldil;;Springfield
+springfieldmo;;Springfield
+springfieldnj;;Springfield
+springfieldoh;;Springfield
+springhill;;Spring Hill
+springhillfla;;Spring Hill
+sprucedale;;Sprucedale
+sprucepine;;Spruce Pine
+squamish;;Squamish
+stalbansvt;;St. Albans
+stalbert;;St. Albert
+stamfordconn;;Stamford
+stanfordville;;Stanfordville
+staples_minnesota;;Staples
+starkcounty;;Stark County
+starkcountyOhio;;Stark County OH
+statenisland;;Staten Island
+statesboro;;Statesboro
+staugustine;;St. Augustine
+staugustinebeach;;St. Augustine Beach
+staunton;;Staunton
+stayner;;Stayner
+stcatharines;;St. Catharine&#39;s
+stcatharineson;;St. Catharine&#39;s ON
+stcharlesmo;;St. Charles
+stcharlesparish;;St. Charles Parish
+stclairco;;St. Clair County
+stclairmo;;St. Clair
+stclairshores;;St. Clair Shores
+steinbach;;Steinbach
+stephenville;;Stephenville
+sterlingalaska;;Sterling
+stevenspass;;Stevens Pass
+stevenspoint;;Stevens Point
+stgeorge;;St. George
+sthyacinthe;;Saint-Hyacinthe
+stjoemo;;St. Joseph
+stjohnsbury;;St. Johnsbury
+stjohnscounty;;St. John&#39;s County
+stjohnsnl;;St. John&#39;s
+stlouis;;St. Louis
+stlouiscounty;;St. Louis County
+stmaryscounty;;St. Mary&#39;s County
+stocktonca;;Stockton
+stoneham;;Stoneham
+stonemtn;;Stone Mountain
+stonesboroar;;Stonesboro
+stoughton;;Stoughton
+stow;;Stow
+stpaul;;St. Paul
+stpaulpark;;St. Paul Park
+stpetersburgfl;;St. Petersburg
+stratfordontario;;Stratford
+strathroy;;Strathroy
+stroudsburg;;Stroudsburg
+stsimonsisland;;St. Simons Island
+stthomasontario;;St. Thomas
+sudbury;;Sudbury
+summerside;;Summerside
+summervillega;;Summerville
+summervillesc;;Summerville
+summit;;Summit County
+sunnyvale;;Sunnyvale
+sunpeaks;;Sun Peaks
+surfcity;;Surf City
+surpriseaz;;Surprise
+sussexcounty;;Sussex County
+swanriver;;Swan River
+swartzcreek;;Swartz Creek
+swfl;;Southwest Florida
+swi;;Southwest Iowa
+swmich;;SW Michigan
+swva;;Southwest Virginia
+swwisconsin;;Southwest Wisconsin
+sylacauga;;Sylacauga
+syracuse;;Syracuse
+tacoma;;Tacoma
+taft;;Taft
+tahlequah;;Tahlequah
+tahoe;;Tahoe
+tahoecity;;Tahoe City
+tahoevista;;Tahoe Vista
+takomapark;;Takoma Park
+talkirvine;;Irvine CA
+talladega;;Talladega
+tallahassee;;Tallahassee
+tallmadge;;Tallmadge
+tampa;;Tampa
+tampabay;;Tampa Bay
+taos;;Taos
+taunton;;Taunton
+tauntonma;;Taunton
+tcounty;;Tuscarawas County
+temecula;;Temecula
+tempe;;Tempe
+templecity;;Temple City
+tenafly;;Tenafly
+tennessee;;Tennessee
+tequesta;;Tequesta
+terracebc;;Terrace
+terrehaute;;Terre Haute
+texarkana;;Texarkana
+texas;;Texas
+theOkanagan;;Okanagan BC
+thebbc;;Breton bay
+thecoast;;Sunshine Coast
+thecolony;;The Colony
+thedalles;;The Dalles
+thehamptons;;The Hamptons
+theothermaine;;Maine, the other
+theunitedstates;;The United States
+thewoodlands;;The Woodlands
+thibodaux;;Thibodaux
+thomasville;;Thomasville
+thornhill;;Thornhill
+thorton;;Thorton
+thousandoaks;;Thousand Oaks
+thunderbay;;Thunder Bay
+tigard;;Tigard
+tillsonburg;;Tillsonburg
+timmins;;Timmins
+titusville;;Titusville
+tlh;;Tallahassee (TLH)
+tofino;;Tofino
+toledo;;Toledo
+tolucalake;;Toluca Lake
+topeka;;Topeka
+topsail;;Topsail Island
+toronto;;Toronto
+torrance;;Torrance
+torringtonct;;Torrington
+totallytennessee;;Totally Tennessee
+towanda;;Towanda
+townofbanff;;Banff
+townsend;;Townsend
+towpath;;Chesapeake &amp; Ohio Canal
+trailbc;;Trail
+traversecity;;Traverse City
+treasurecoast;;Treasure Coast
+trentonnj;;Trenton
+trevose;;Trevose
+tricities;;Tri-Cities
+tricitieswa;;Tricities
+trinidadco;;Trinidad
+troisrivieres;;Trois-Rivières
+troutdale_oregon;;Troutdale
+troy;;Troy
+troyny;;Troy NY
+truckee;;Truckee
+tsawwassen;;Tsawwassen
+tualatin;;Tualatin
+tuckermanravine;;Tuckerman Ravine
+tucson;;Tucson
+tukwila;;Tukwila
+tulsa;;Tulsa
+tumwater;;Tumwater
+tunica;;Tunica
+tupelo;;Tupelo
+tuscaloosa;;Tuscaloosa
+tuscola;;Tuscola
+tustin;;Tustin
+tustinca;;Tustin CA
+twincities;;Twin Cities
+twincitiessocial;;Twin Cities Social
+twinfalls;;Twin Falls
+twn;;Thornton Westminster Northglenn
+tylertx;;Tyler
+ucluelet;;Ucluelet
+ukiah;;Ukiah
+unioncity;;Union City
+unioncounty;;Union County
+unionmo;;Union
+unitedstates;;United States
+unitedstatesofamerica;;United States of America
+upland;;Upland
+uppercanada;;Upper Canada
+uppermichigan;;Upper Michigan
+upperstclair;;Upper St. Clair
+upstate_new_york;;Upstate New York
+upstatesc;;Upstate South Carolina
+uptownnyc;;New York City, Uptown
+utah;;Utah
+utica;;Utica
+vacaville;;Vacaville
+vail;;Vail
+valdez;;Valdez
+valdosta;;Valdosta
+valley956;;The Valley (956)
+valleyfield;;Salaberry-de-Valleyfield
+valparaiso;;Valparaiso
+valrico;;Valrico
+vancortlandtpark;;Van Cortlandt Park
+vancouver;;Vancouver
+vancouverisland;;Vancouver Island
+vancouverwa;;Vancouver
+vancouverwashington;;Vancouver Washington
+vanwert;;Van Wert
+vaughan;;Vaughan
+vegas;;(Las) Vegas
+venice;;Venice
+veniceflorida;;Venice
+venturacounty;;Ventura County
+vermont;;Vermont
+vernon;;Vernon
+vernonhills;;Vernon Hills
+vestal;;Vestal
+vestavia;;Vestavia
+vestaviahills;;Vestavia Hills
+victoriabc;;Victoria
+victoriaville;;Victoriaville
+villelasalle;;LaSalle
+virginia;;Virginia
+virginiabeach;;Virginia Beach
+waco;;Waco
+waconia;;Waconia
+wadsworthoh;;Wadsworth
+wainwright;;Wainwright
+wallawalla;;Walla Walla
+wallawallawashington;;Walla Walla WA
+walnutcreek;;Walnut Creek
+wantagh;;Wantagh
+wareshoals;;Ware Shoals
+warrensburg;;Warrensburg
+wasagabeach;;Wasaga Beach
+washington;;Washington
+washington_dc;;Washington_DC
+washingtoncountymd;;Washington County
+washingtondc;;Washington DC
+washingtontwp;;Washington Township
+washmo;;Washington
+washtenawannarbor;;Washtenaw
+waterford;;Waterford
+waterloo;;Waterloo
+waterlooiowa;;Waterloo
+waterlooregion;;Waterloo Region
+watertown;;Watertown
+watertownny;;Watertown
+waterville;;Waterville
+watervillevalleynh;;Waterville Valley
+waukegan;;Waukegan
+waukesha;;Waukesha
+waukeshacounty;;Waukesha County
+waukeshawi;;Waukesha WI
+waunakee;;Waunakee
+wausau;;Wausau
+waxhaw;;Waxhaw
+waycross;;Waycross
+waynesboro;;Waynesboro
+weatherford;;Weatherford
+webstercounty;;Buffalo Grove (Webster County)
+webstercounty;;Webster County
+websterny;;Webster
+weho;;West Hollywood (WeHo)
+wellesley;;Wellesley
+wellsvilleny;;Wellsville
+wenatchee;;Wenatchee
+westallis;;West Allis
+westbend;;West Bend
+westcentralohio;;West Central Ohio
+westcentraltexas;;West Central Texas
+westchester;;Westchester County
+westchesterpa;;West Chester
+westdesmoines;;West Des Moines
+westerncolorado;;Western Colorado
+westernillinois;;Western Illinois
+westernlowermichigan;;Western Lower Michigan
+westernma;;Western MA
+westernmaryland;;Western Maryland
+westernmass;;Western Massachusetts
+westerville;;Westerville
+westgeorgia;;West Georgia
+westhartford;;West Hartford
+westhollywood;;West Hollywood
+westislandmtl;;West Island
+westislip;;West Islip
+westkelowna/;;West Kelowna
+westkentucky;;West Kentucky
+westmi;;West Michigan
+westmifflin;;West Mifflin
+westmonroe;;West Monroe
+westmontil;;Westmont
+westnewyork;;West New York
+westoakland;;West Oakland
+weston;;Weston
+westorange;;West Orange
+westplains;;West Plains
+westsacramento;;West Sacramento
+westtexas;;West Texas
+westtn;;West Tennessee
+westvancouver;;West Vancouver
+westvirginia;;West Virginia
+westwood;;Westwood
+wethersfield;;Wethersfield
+wexford;;Wexford
+weyburn;;Weyburn
+whidbey;;Whidbey Island
+whistler;;Whistler
+whitebrier;;Avalon
+whitefish;;Whitefish
+whitehousetn;;White House
+whitesettlement;;White Settlement
+wichita;;Wichita
+wildwoodmo;;Wildwood
+willametteco;;Willamette
+willardmo;;Willard
+willemien;;Willemien
+williamsburg;;Williamsburg
+williamsburgva;;Williamsburg
+williamslake;;Williams Lake
+williamson;;Williamson
+williamsport;;Williamsport
+williston;;Williston
+willmar;;Willmar
+wilmington;;Wilmington
+wilmingtonDE;;Wilmington
+wimberley;;Wimberley
+winchester;;Winchester
+winchesterky;;Winchester
+windommn;;Windom
+windsorontario;;Windsor
+windsorontariocanada;;Windsor Ontario
+winfieldbc;;Winfield
+winnipeg;;Winnipeg
+winnipegmanitoba;;Winnipeg Manitoba
+winnipegmb;;Winnipeg MB
+winnipesaukee;;Lake Winnipesaukee
+winona;;Winona
+winooski;;Winooski
+winstonsalem;;Winston-Salem
+wmass;;Western Mass (WMASS)
+wnc;;Western North Carolina
+wny;;Western New York
+woburn;;Woburn
+woffordheights;;Wofford Heights
+wolfcreek;;Wolf Creek
+woodburyminnesota;;Woodbury
+woodhavenmi;;Woodhaven MI
+woodinville;;Woodinville
+woodstockga;;Woodstock
+woodstockont;;Woodstock
+woodstockontario;;Woodstock ON
+worcesterma;;Worcester
+wrightwood;;Wrightwood
+wrigleyville;;Wrigleyville
+wyeoak;;Wye Oak
+wynnewood;;Wynnewood
+wyomingmi;;Wyoming
+yakima;;Yakima
+yellowknife;;Yellowknife
+yellowstone;;Yellowstone National Park
+yolocounty;;Yolo County
+yonkers;;Yonkers
+yooper;;Yooper
+yorkpa;;York
+yorkton;;Yorkton
+yorktown;;Yorktown
+yosemite;;Yosemite National Park
+ypsi;;Ypsilanti (YPSI)
+ypsilanti;;Ypsilanti
+yrkregion;;York Region
+yubacityca;;Yuba City
+yucaipa;;Yucaipa
+yukon;;Yukon
+yuma;;Yuma
+zanesville;;Zanesville
+zebulon;;Zebulon
+zephyrcove;;Zephyr Cove

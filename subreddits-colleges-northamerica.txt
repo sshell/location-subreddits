@@ -1,0 +1,417 @@
+ucalgary;;University of Calgary
+sait;;SAIT Polytechnic
+ualberta;;University of Alberta
+gmacewan;;Grant MacEwan University
+ufv;;University of the Fraser Valley
+simonfraser;;Simon Fraser University
+bcit;;British Columbia Institute of Technology
+viu;;Vancouver Island University
+capu;;Capilano University
+ubc;;University of British Columbia
+uvic;;University of Victoria
+uoguelph;;University of Guelph
+mohawkcollege;;Mohawk College
+queensuniversity;;Queen&#39;s University
+uwo;;University of Western Ontario
+sheridancollege;;Sheridan College
+uoit;;University of Ontario Institute of Technology
+geegees;;University of Ottawa
+carletonu;;Carleton University
+algonquin_college;;Algonquin College
+brocku;;Brock University
+lakeheadu;;Lakehead University
+uoft;;University of Toronto
+yorku;;York University
+ryerson;;Ryerson University
+humber;;Humber College
+seneca;;Seneca College
+guelphhumber;;University of Guelph-Humber
+uwaterloo;;University of Waterloo
+wlu;;Wilfrid Laurier University
+mcgill;;McGill University
+concordia;;Concordia University
+udem;;Université de Montréal
+udes;;Université de Sherbrooke
+teccr;;Costa Rica Institute of Technology
+ucrcr;;University of Costa Rica
+uab;;University of Alabama at Birmingham
+uah;;University of Alabama in Huntsville
+troyu;;Troy University
+nau;;Northern Arizona University
+asu;;Arizona State University
+uofarizona;;University of Arizona
+touro;;Henderson State University
+hendersonstate;;Lyon College
+uca;;University of Central Arkansas
+universityofarkansas;;University of Arkansas
+arkansasstate;;Arkansas State University
+humboldtstate;;Humboldt State University
+apu;;Azusa Pacific University
+berkeley;;University of California, Berkeley
+csuci;;California State University, Channel Islands
+universityofredlands;;California State University, Dominguez Hills
+csuc;;California State University, Chico
+claremontcolleges;;Claremont Colleges
+harveymudd;;Harvey Mudd College
+pomonacollege;;Pomona College
+scrippscollege;;Scripps College
+occ;;Orange Coast College
+ucdavis;;University of California, Davis
+grossmont;;Grossmont College
+utt;;Folsom Lake College
+fresnostate;;California State University, Fresno
+csuf;;California State University, Fullerton
+csueb;;California State University, East Bay
+uci;;University of California, Irvine
+biola;;Biola University
+csulb;;California State University, Long Beach
+ucla;;University of California, Los Angeles
+usc;;University of Southern California
+lmu;;Loyola Marymount University
+csula;;California State University, Los Angeles
+oxy;;Occidental College
+pepperdine;;Pepperdine University
+ucmerced;;University of California, Merced
+ship;;Monterey Peninsula College
+csun;;California State University, Northridge
+davidsoncollege;;California College of the Arts
+chapmanuniversity;;Chapman University
+caltech;;California Institute of Technology
+dvc;;Diablo Valley College
+calpolypomona;;California State Polytechnic University, Pomona
+cudenver;;University of Redlands
+ucr;;University of California, Riverside
+rcc;;Riverside City College
+sierracollege;;Sierra College
+ssu;;Sonoma State University
+csus;;California State University, Sacramento
+csusb;;California State University, San Bernardino
+ucsd;;University of California, San Diego
+sdsu;;San Diego State University
+sfsu;;San Francisco State University
+usfca;;University of San Francisco
+uhd;;Mt. San Jacinto College
+sjsu;;San Jose State University
+calpoly;;California Polytechnic State University
+csusm;;California State University, San Marcos
+ucsantabarbara;;University of California, Santa Barbara
+scu;;Santa Clara University
+ucsc;;University of California, Santa Cruz
+csumb;;California State University, Monterey Bay
+stanford;;Stanford University
+uop;;University of the Pacific (United States)
+lyoncollege;;Touro University California
+vcccd;;Ventura College
+cuboulder;;University of Colorado at Boulder
+mscd;;Metropolitan State College of Denver
+csudh;;University of Colorado at Denver
+csufoco;;Colorado State University
+comines;;Colorado School of Mines
+wcsu;;Western Connecticut State University
+fairfieldu;;Fairfield University
+quinnipiac;;Quinnipiac University
+wesleyan;;Wesleyan University
+yale;;Yale University
+conncoll;;Connecticut College
+uconn;;University of Connecticut
+uhart;;University of Hartford
+ecsu;;Eastern Connecticut State University
+fau;;Florida Atlantic University
+umiami;;University of Miami
+erau;;Embry-Riddle Aeronautical University
+fgcu;;Florida Gulf Coast University
+ufl;;University of Florida
+unf;;University of North Florida
+fit;;Florida Institute of Technology
+ucf;;University of Central Florida
+gcsc;;Gulf Coast State College
+flaglercollege;;Flagler College
+spc;;St. Petersburg College
+fsu;;Florida State University
+usf;;University of South Florida
+fiu;;Florida International University
+uga;;University of Georgia
+gatech;;Georgia Institute of Technology
+gastate;;Georgia State University
+uwg;;University of West Georgia
+emory;;Emory University
+ksu;;Kennesaw State University
+amarillocollege;;Macon State College
+spsu;;Southern Polytechnic State University
+gcsu;;Georgia College &amp; State University
+scad;;Savannah College of Art and Design
+gsu;;Georgia Southern University
+illinoiswesleyan;;Illinois Wesleyan University
+siu;;Southern Illinois University Carbondale
+parklandcollege;;Parkland College
+depaul;;DePaul University
+uchicago;;University of Chicago
+colum;;Columbia College Chicago
+uicwhatshot;;University of Illinois at Chicago
+iit;;Illinois Institute of Technology
+emaw;;Roosevelt University
+niu;;Northern Illinois University
+devry;;DeVry University
+northwestern;;Northwestern University
+bonas;;Greenville College
+ilstu;;Illinois State University
+uiuc;;University of Illinois at Urbana–Champaign
+wheaton;;Wheaton College (Illinois)
+indianauniversity;;Indiana University
+greenvillecollege;;DePauw University
+butleru;;Butler University
+ballstate;;Ball State University
+notredame;;University of Notre Dame
+earlhamcollege;;Earlham College
+rosehulman;;Rose-Hulman Institute of Technology
+tayloruniversity;;Taylor University
+usi;;University of Southern Indiana
+purdue;;Purdue University
+iastate;;Iowa State University
+uni;;University of Northern Iowa
+grinnell;;Grinnell College
+uiowa;;University of Iowa
+universityofkansas;;University of Kansas
+oberlin;;Kansas State University
+murray;;Murray State University
+berea;;Berea College
+wku;;Western Kentucky University
+nku;;Northern Kentucky University
+universityofkentucky;;University of Kentucky
+allhail;;University of Louisville
+lsu;;Louisiana State University
+ull;;University of Louisiana at Lafayette
+tulane;;Tulane University
+louisianatech;;Louisiana Tech University
+flc;;Nicholls State University
+bowdoin;;Bowdoin College
+umaine;;University of Maine
+stjohnscollege;;St. John&#39;s College (United States)
+jhu;;Johns Hopkins University
+ubaltimore;;University of Baltimore
+harfordcc;;Harford Community College
+umbc;;University of Maryland, Baltimore County
+umd;;University of Maryland, College Park
+towson;;Towson University
+umass;;University of Massachusetts Amherst
+hampshirecollege;;Hampshire College
+bostonu;;Boston University
+neu;;Northeastern University
+emersoncollege;;Emerson College
+berklee;;Berklee College of Music
+thebac;;Boston Architectural College
+mit;;Massachusetts Institute of Technology
+harvard;;Harvard University
+bostoncollege;;Boston College
+umassd;;University of Massachusetts Dartmouth
+tufts;;Tufts University
+olin;;Franklin W. Olin College of Engineering
+brandeis;;Brandeis University
+babson;;Babson College
+williamscollege;;Williams College
+wpi;;Worcester Polytechnic Institute
+clarku;;Clark University
+gvsu;;Grand Valley State University
+uofm;;University of Michigan
+waynestate;;Wayne State University
+msu;;Michigan State University
+kettering;;Kettering University
+aquinas;;Aquinas College (Michigan)
+hillsdale;;Hillsdale College
+mtu;;Michigan Technological University
+centralmich;;Central Michigan University
+svsu;;Saginaw Valley State University
+uofmnduluth;;University of Minnesota Duluth
+uofmn;;University of Minnesota
+carletoncollege;;Carleton College
+stolaf;;St. Olaf College
+gustavus;;Gustavus Adolphus College
+olemiss;;University of Mississippi
+msstate;;Mississippi State University
+semo;;Southeast Missouri State University
+mizzou;;University of Missouri
+woodsway;;William Woods University
+matc;;University of Missouri–Kansas City
+rolla;;Missouri University of Science and Technology
+washu;;Washington University in St. Louis
+fontbonne;;Fontbonne University
+stlcc;;St. Louis Community College
+stlcop;;St. Louis College Of Pharmacy
+msucats;;Montana State University – Bozeman
+montanatech;;Montana Tech of the University of Montana
+umt;;University of Montana – Missoula
+unlincoln;;University of Nebraska-Lincoln
+Unomaha;;University of Nebraska-Omaha
+unlv;;University of Nevada, Las Vegas
+unr;;University of Nevada, Reno
+unh;;University of New Hampshire
+dartmouth;;Dartmouth College
+tcnj;;The College of New Jersey
+richardstockton;;Richard Stockton College of New Jersey
+rowanuniversity;;Rowan University
+stevens;;Stevens Institute of Technology
+rutgers;;Rutgers University
+njtech;;New Jersey Institute of Technology
+princeton;;Princeton University
+calupa;;Seton Hall University
+tesc;;Thomas Edison State College
+unm;;University of New Mexico
+nmsu;;New Mexico State University
+nmt;;New Mexico Institute of Mining and Technology
+mountainstate;;St. Bonaventure University
+ubreddit;;University at Buffalo, The State University of New York
+cca;;Canisius College
+colgate;;Colgate University
+rit;;Rochester Institute of Technology
+cornell;;Cornell University
+trinityu;;Ithaca College
+siena;;Siena College
+nyu;;New York University
+columbia;;Columbia University
+huntercollege;;Hunter College
+baruch;;Baruch College
+fordham;;Fordham University
+cuny;;City University of New York
+sva;;School of Visual Arts
+pace;;Pace University
+oswego;;State University of New York at Oswego
+mtsanjacintocollege;;State University of New York at Potsdam
+marist;;Marist College
+vassar;;Vassar College
+uofr;;University of Rochester
+sbu;;Stony Brook University
+syracuse;;Syracuse University
+rpi;;Rensselaer Polytechnic Institute
+binghamtonuniversity;;Binghamton University
+appstate;;Appalachian State University
+tarheels;;University of North Carolina at Chapel Hill
+unccharlotte;;University of North Carolina at Charlotte
+canisiuscollege;;Davidson College
+duke;;Duke University
+uncg;;University of North Carolina at Greensboro
+ncsu;;North Carolina State University
+waketech;;Wake Technical Community College
+uncw;;University of North Carolina Wilmington
+ndsu;;North Dakota State University
+und;;University of North Dakota
+athensohio;;Ohio University
+bgsu;;Bowling Green State University
+ucinci;;University of Cincinnati
+cwru;;Case Western Reserve University
+osu;;Ohio State University
+uofdayton;;University of Dayton
+wrightstate;;Wright State University
+denison;;Denison University
+kentstateuniversity;;Kent State University
+roosevelt;;Oberlin College
+miamioh;;Miami University - miamioh
+miamioxford;;Miami University - miamioxford
+universityoftoledo;;University of Toledo
+jcu;;John Carroll University
+otterbein;;Otterbein University
+uco;;University of Central Oklahoma
+sooners;;University of Oklahoma
+ocu;;Oklahoma City University
+okstate;;Oklahoma State University–Stillwater
+utulsa;;University of Tulsa
+oregonstateuniv;;Oregon State University
+PCC;;Portland Community College
+portlandstate;;Portland State University
+reedcollege;;Reed College
+sou;;Southern Oregon University
+uofo;;University of Oregon
+wou;;Western Oregon University
+lehigh;;Lehigh University
+shu;;California University of Pennsylvania
+widener;;Widener University
+juniatacollege;;Juniata College
+iup;;Indiana University of Pennsylvania
+fandm;;Franklin &amp; Marshall College
+bucknell;;Bucknell University
+temple;;Temple University
+drexel;;Drexel University
+upenn;;University of Pennsylvania
+sju;;Saint Joseph&#39;s University
+cmu;;Carnegie Mellon University
+pitt;;University of Pittsburgh
+universityofscranton;;University of Scranton
+nsu;;Shippensburg University
+pennstateuniversity;;Pennsylvania State University
+villanova;;Villanova University
+wcupa;;West Chester University of Pennsylvania
+gopct;;Pennsylvania College of Technology
+brownu;;Brown University
+providencecollege;;Providence College
+andersonuniversity;;Anderson University (South Carolina)
+cofc;;College of Charleston
+clemson;;Clemson University
+gamecocks;;University of South Carolina
+furman;;Furman University
+utk;;University of Tennessee
+uofmemphis;;University of Memphis
+mtsu;;Middle Tennessee State University
+vanderbilt;;Vanderbilt University
+tsu;;Tennessee State University
+macon_state;;Amarillo College
+utaustin;;University of Texas at Austin
+stedwards;;St. Edward&#39;s University
+wtamu;;West Texas A&amp;M University
+aggies;;Texas A&amp;M University
+smu;;Southern Methodist University
+unt;;University of North Texas
+utpa;;University of Texas–Pan American
+utep;;University of Texas at El Paso
+tcu;;Texas Christian University
+universityofhouston;;University of Houston
+riceuniversity;;Rice University
+stthomas;;University of St. Thomas (Texas)
+suny_potsdam;;Houston Community College System
+houstoncc;;University of Houston–Downtown
+texastech;;Texas Tech University
+utdallas;;University of Texas at Dallas
+utsa;;University of Texas at San Antonio
+ithacacollege;;Trinity University (Texas)
+txstate;;Texas State University–San Marcos
+tarleton;;Tarleton State University
+mpc;;University of Texas at Tyler
+baylor;;Baylor University
+uvu;;Utah Valley University
+uofu;;University of Utah
+wgu;;Western Governors University
+westminstercollege;;Westminster College, Salt Lake City
+slcc;;Salt Lake Community College
+neumont;;Neumont University
+universityofvermont;;University of Vermont
+marlborocollege;;Marlboro College
+virginiatech;;Virginia Polytechnic Institute and State University
+uva;;University of Virginia
+gmu;;George Mason University
+jmu;;James Madison University
+odu;;Old Dominion University
+radforduniversity;;Radford University
+vcu;;Virginia Commonwealth University
+williamandmary;;The College of William &amp; Mary
+wwu;;Western Washington University
+uwb;;University of Washington, Bothell
+ewu;;Eastern Washington University
+evergreen;;The Evergreen State College
+wsu;;Washington State University
+digipen;;Digipen Institute of Technology
+udub;;University of Washington
+seattleu;;Seattle University
+gonzaga;;Gonzaga University
+gwu;;George Washington University
+americanu;;American University
+georgetown;;Georgetown University
+depauw;;Mountain State University
+marshalluniversity;;Marshall University
+wvu;;West Virginia University
+westliberty;;West Liberty University
+uwmadison;;University of Wisconsin–Madison
+lawrenceu;;Lawrence University
+uweauclaire;;University of Wisconsin–Eau Claire
+uwgb;;University of Wisconsin–Green Bay
+uwmilwaukee;;University of Wisconsin–Milwaukee
+marquette;;Marquette University
+msoe;;Milwaukee School of Engineering
+umkc;;Milwaukee Area Technical College

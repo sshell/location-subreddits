@@ -1,0 +1,134 @@
+africa;;Africa
+AfricaNetwork;;Africa Network
+africana;;Africana
+algeria;;Algeria
+algerie;;Algérie
+Algiers;;Algiers
+Oran;;Oran
+angola;;Angola
+benin;;Benin
+botswana;;Botswana
+burkinafaso;;Burkina Faso
+burundi;;Burundi
+cameroon;;Cameroon
+Cameroun;;Cameroun
+canarias;;Gran Canarias
+islascanarias;;Islas Canarias
+CanaryIslands;;Canary Islands
+capeverde;;Cape Verde
+caboverde;;Cabo Verde
+Mindelo;;Mindelo
+CAR_;;Central African Republic
+ChadNews;;Chad
+ndjamena;;N&#39;Djamena
+comoros;;Comoros
+congo;;Democratic Republic of the Congo
+kinshasa;;Kinshasa
+republicofcongo;;Republic of the Congo
+cotedivoire;;Côte d&#39;Ivoire
+IvoryCoast;;Ivory Coast
+djibouti;;Djibouti
+egypt;;Egypt
+Misr;;Miṣr
+cairo;;Cairo
+eritrea;;Eritrea
+equatorialguinea;;Equatorial Guinea
+equatorial_guinea;;Equatorial_Guinea
+ethiopia;;Ethiopia
+Addisabeba;;Addis Abeba
+oromia;;Oromia
+gabon;;Gabon
+ghana;;Ghana
+guinea;;Guinea
+guineabissau;;Guinea-Bissau
+GuineBissau;;Guiné-Bissau
+kenya;;Kenya
+eastlands;;Eastlands
+lamu;;Lamu
+MaasaiMara;;Maasai Mara
+nairobi;;Nairobi
+lesotho;;Lesotho
+maseru;;Maseru
+Liberia;;Liberia
+libya;;Libya
+Benghazi;;Benghazi
+Tripoli;;Tripoli
+Madagascar;;Madagascar
+malawi;;Malawi
+Mali;;Mali
+Timbuktu;;Timbuktu
+mauritania;;Mauritania
+mauritius;;Mauritius
+rodrigues;;Rodrigues
+morocco;;Morocco
+maroc;;Maroc
+Agadir;;Agadir
+alhoceima;;Al-Hoceima
+casablanca;;Casablanca
+Essaouira;;Essaouira
+marrakech;;Marrakech
+rabat;;Rabat
+Tetouan;;Tetouan
+mozambique;;Mozambique
+mocambique;;Moçambique
+maputo;;Maputo
+namibia;;Namibia
+windhoek;;Windhoek
+niger;;Niger
+nigeria;;Nigeria
+Abuja;;Abuja
+lagos;;Lagos
+reunionisland;;Reunion Island
+LaReunion;;La Réunion
+rwanda;;Rwanda
+kigali;;Kigali
+saotomeprincipe;;São Tomé and Príncipe
+senegal;;Sénégal
+Seychelles;;Seychelles
+sierraleone;;Sierra Leone
+Somalia;;Somalia
+mogadishu;;Mogadishu
+somaliland;;Somaliland
+southafrica;;South Africa
+SuidAfrika;;Suid Afrika
+Bloemfontein;;Bloemfontein
+capetown;;Capetown
+durban;;Durban
+EastLondon;;East London
+Grahamstown;;Grahamstown
+johannesburg;;Johannesburg
+KBY;;Kimberley
+krugerpark;;Kruger National Park
+kznsouthcoast;;KwaZulu Natal
+Knysna;;Knysna
+MosselBay;;Mossel Bay
+Orania;;Orania
+paarl;;Paarl
+Polokwane;;Polokwane
+portelizabeth;;Port Elizabeth
+Pukke;;Potchefstroom
+pretoria;;Pretoria
+Stellenbosch;;Stellenbosch
+southsudan;;South Sudan
+sudan;;Sudan
+Darfur;;Darfur
+khartoum;;Khartoum
+swaziland;;Swaziland
+tanzania;;Tanzania
+DarEsSalaam;;Dar es Salaam
+kilimanjaro;;Mt. Kilimanjaro
+zanzibar;;Zanzibar
+gambia;;Gambia
+The_Gambia;;The Gambia
+togo;;Togo
+tristandacunha;;Tristan da Cunha
+tunisia;;Tunisia
+Uganda;;Uganda
+Kampala;;Kampala
+WesternSahara;;Western Sahara
+zambia;;Zambia
+Lusaka;;Lusaka
+KapiriMposhi;;Kapiri Mposhi
+zimbabwe;;Zimbabwe
+harare;;Harare
+Rhodesia;;Rhodesia
